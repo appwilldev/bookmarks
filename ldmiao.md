@@ -8,3 +8,4 @@
 - [thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps in Go.](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) 
 - [sachinchoolur/lightgallery.js: Full featured JavaScript image & video gallery. No dependencies](https://github.com/sachinchoolur/lightgallery.js) 
 - [coolwanglu/PDFium.js](https://github.com/coolwanglu/PDFium.js) 
+- [「企业上云」系列之开源数据库的现状](http://www.52cs.org/?p=939) 
