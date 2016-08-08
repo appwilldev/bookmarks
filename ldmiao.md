@@ -5,3 +5,4 @@
 - [irfansharif/cfilter: Cuckoo Filter implementation in Go, better than Bloom Filters](https://github.com/irfansharif/cfilter) 
 - [tdebatty/java-string-similarity: Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...](https://github.com/tdebatty/java-string-similarity) 
 - [sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages](https://github.com/sourcegraph/checkup) 
+- [thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps in Go.](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) 
