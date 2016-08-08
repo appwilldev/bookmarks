@@ -10,3 +10,4 @@
 - [coolwanglu/PDFium.js](https://github.com/coolwanglu/PDFium.js) 
 - [「企业上云」系列之开源数据库的现状](http://www.52cs.org/?p=939) 
 - [PingCAP 创始人刘奇：开源分布式数据库如何搞定 OLTP](http://mp.weixin.qq.com/s?src=3&timestamp=1470623483&ver=1&signature=o0e4dg0hdcZenP8-3txmx4FfTzB9mUvhm7pC-sHSFzREKj53KpKG7PKdu6htdJV2JqGiLxQpxpwXU4jyNDlDWW376EIMendi-rNilgUj-v4FnxH17uMMEPxvRXb*ZPjdD*fXW3yJ8NVMl707hD304pTK8Te8qk51g-A2lc76dWQ=) 
+- [【QingCloud Insight 2016 演讲实录】刘奇：How do we build TiDB](http://mp.weixin.qq.com/s?timestamp=1470623543&src=3&ver=1&signature=*6WO3FBs*W0vyTA-G1iMZ-T1kSFmAd*l0YrgSQpUyaf7ANPZEWAyGlYTPRgXqWmr20k-d3iPHyeAT*WIv9YZsJLiSnhSB*TELXnH-V0xcvIcIffovbJLMed5BV1zTR-Ulpp8jqiz0IJf5oiRxOHk1C88dseIVSd3AkvLDOm2vlo=) 
