@@ -22,3 +22,4 @@
 - [chanxuehong/wechat.v2: weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk](https://github.com/chanxuehong/wechat.v2) 
 - [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/) 
 - [Authentication Sequence](https://www.websequencediagrams.com/) 
+- [Validating Email Addresses with a Regex? Do yourself a favor and don’t – /dev/random](http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/) 
