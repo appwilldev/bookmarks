@@ -25,3 +25,4 @@
 - [Validating Email Addresses with a Regex? Do yourself a favor and don’t – /dev/random](http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/) 
 - [Fast and Accurate Document Detection for Scanning – Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/amp/) 
 - [Random notes on improving the Redis LRU algorithm - <antirez>](http://antirez.com/news/109?utm_source=redisweekly&utm_medium=email) 
+- [kaitai-io/kaitai_struct: Kaitai Struct: declarative language to generate binary data parsers in C# / Java / JavaScript / Python / Ruby](https://github.com/kaitai-io/kaitai_struct) 
