@@ -18,3 +18,4 @@
 - [bouk/staticfiles: staticfiles compiles a directory of files into an embeddable .go file](https://github.com/bouk/staticfiles) 
 - [tomnomnom/gron: Make JSON greppable!](https://github.com/tomnomnom/gron) 
 - [Easy We Chat](https://easywechat.org/en/) 
+- [Easy We Chat](https://easywechat.org/) 
