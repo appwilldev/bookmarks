@@ -23,3 +23,4 @@
 - [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/) 
 - [Authentication Sequence](https://www.websequencediagrams.com/) 
 - [Validating Email Addresses with a Regex? Do yourself a favor and don’t – /dev/random](http://blog.onyxbits.de/validating-email-addresses-with-a-regex-do-yourself-a-favor-and-dont-391/) 
+- [Fast and Accurate Document Detection for Scanning – Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/amp/) 
