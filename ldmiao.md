@@ -26,5 +26,5 @@
 - [Fast and Accurate Document Detection for Scanning – Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/08/fast-and-accurate-document-detection-for-scanning/amp/) 
 - [Random notes on improving the Redis LRU algorithm - <antirez>](http://antirez.com/news/109?utm_source=redisweekly&utm_medium=email) 
 - [kaitai-io/kaitai_struct: Kaitai Struct: declarative language to generate binary data parsers in C# / Java / JavaScript / Python / Ruby](https://github.com/kaitai-io/kaitai_struct) 
-- [security-guide-for-developers/README-zh.md at master · FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md) 
-- [security-guide-for-developers/README-zh.md at master · FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md) 
+- [
+Security Guide for Developers (实用性开发人员安全须知)](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md) 
