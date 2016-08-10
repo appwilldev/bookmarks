@@ -27,3 +27,4 @@
 - [Random notes on improving the Redis LRU algorithm - <antirez>](http://antirez.com/news/109?utm_source=redisweekly&utm_medium=email) 
 - [kaitai-io/kaitai_struct: Kaitai Struct: declarative language to generate binary data parsers in C# / Java / JavaScript / Python / Ruby](https://github.com/kaitai-io/kaitai_struct) 
 - [security-guide-for-developers/README-zh.md at master · FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md) 
+- [security-guide-for-developers/README-zh.md at master · FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md) 
