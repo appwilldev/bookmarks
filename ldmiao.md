@@ -32,3 +32,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### August 11, 2016
 - [Librevault](https://librevault.com/) 
 - [Librevault/librevault: Librevault - Peer-to-peer, decentralized and open source file sync.](https://github.com/Librevault/librevault) 
+- [alexazhou/VeryNginx: A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.](https://github.com/alexazhou/VeryNginx) 
