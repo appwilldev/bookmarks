@@ -36,3 +36,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [eleme/corvus: A fast and lightweight Redis Cluster Proxy for Redis 3.0](https://github.com/eleme/corvus) 
 - [DB Browser for SQLite](http://sqlitebrowser.org/) 
 - [huydx/hget: rocket fast, interruptable, resumable download accelerator written in golang](https://github.com/huydx/hget) 
+- [aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning](https://github.com/aymericdamien/TopDeepLearning) 
