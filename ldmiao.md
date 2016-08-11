@@ -35,3 +35,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [alexazhou/VeryNginx: A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.](https://github.com/alexazhou/VeryNginx) 
 - [eleme/corvus: A fast and lightweight Redis Cluster Proxy for Redis 3.0](https://github.com/eleme/corvus) 
 - [DB Browser for SQLite](http://sqlitebrowser.org/) 
+- [huydx/hget: rocket fast, interruptable, resumable download accelerator written in golang](https://github.com/huydx/hget) 
