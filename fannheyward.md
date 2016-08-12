@@ -5,3 +5,6 @@
 
 ### August 11, 2016
 - [Understanding Nil // Speaker Deck](https://speakerdeck.com/campoy/understanding-nil) 
+
+### August 12, 2016
+- [自己动手做聊天机器人 - SharEDITor - 关注大数据技术](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA) 
