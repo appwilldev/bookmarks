@@ -37,3 +37,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [DB Browser for SQLite](http://sqlitebrowser.org/) 
 - [huydx/hget: rocket fast, interruptable, resumable download accelerator written in golang](https://github.com/huydx/hget) 
 - [aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning](https://github.com/aymericdamien/TopDeepLearning) 
+
+### August 15, 2016
+- [gmetais/sw-delta: An incremental cache for the web](https://github.com/gmetais/sw-delta) 
