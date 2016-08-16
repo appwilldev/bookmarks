@@ -40,3 +40,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### August 15, 2016
 - [gmetais/sw-delta: An incremental cache for the web](https://github.com/gmetais/sw-delta) 
+
+### August 16, 2016
+- [Python3 实现淘女郎照片爬虫 - 程序员实验室 - SegmentFault](https://segmentfault.com/a/1190000006460252) 
