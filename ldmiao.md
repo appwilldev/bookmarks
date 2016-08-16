@@ -43,3 +43,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### August 16, 2016
 - [Python3 实现淘女郎照片爬虫 - 程序员实验室 - SegmentFault](https://segmentfault.com/a/1190000006460252) 
+- [程序观点下的线性代数 - Todd Wei - 博客园](http://www.cnblogs.com/weidagang2046/p/linear-algebra-from-programming-perspective.html) 
