@@ -7,3 +7,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 16, 2016
 - [稀土区 - 优质设计开发资源分享](https://xituqu.com/) 
+- [mydevice.io : web devices capabilities](http://mydevice.io/) 
