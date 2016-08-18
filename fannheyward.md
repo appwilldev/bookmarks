@@ -13,3 +13,6 @@
 
 ### August 17, 2016
 - [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html) 
+
+### August 18, 2016
+- [白话火焰图 | 火丁笔记](http://huoding.com/2016/08/18/531) 
