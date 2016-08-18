@@ -49,3 +49,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### August 17, 2016
 - [pmwkaa/sophia: Modern transactional key-value/row storage library.](https://github.com/pmwkaa/sophia) 
+
+### August 19, 2016
+- [Introducing the Qt Lite project—Qt for any platform, any thing, any size - Qt Blog](http://blog.qt.io/blog/2016/08/18/introducing-the-qt-lite-project-qt-for-any-platform-any-thing-any-size/) 
