@@ -57,3 +57,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [mzucker/page_dewarp: Text page dewarping using a "cubic sheet" model](https://github.com/mzucker/page_dewarp) 
 - [sdispater/pendulum: Python datetimes made easy](https://github.com/sdispater/pendulum) 
 - [rclone - rsync for cloud storage](http://rclone.org/) 
+- [Welcome to ChatterBot’s documentation! — ChatterBot 0.4.6 documentation](http://chatterbot.readthedocs.io/en/stable/) 
