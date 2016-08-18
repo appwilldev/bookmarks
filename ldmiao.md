@@ -67,3 +67,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html) 
 - [腾讯客服-QQ for Mac聊天记录/登录信息的保存路径](http://kf.qq.com/faq/120322fu63YV13042232muu6.html) 
 - [腾讯客服-QQ for Mac聊天记录/登录信息的保存路径](http://kf.qq.com/faq/120322fu63YV13042232muu6.html) 
+- [Yinzo/SmartQQBot: 基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) 
