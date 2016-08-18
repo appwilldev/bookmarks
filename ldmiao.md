@@ -56,3 +56,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html) 
 - [mzucker/page_dewarp: Text page dewarping using a "cubic sheet" model](https://github.com/mzucker/page_dewarp) 
 - [sdispater/pendulum: Python datetimes made easy](https://github.com/sdispater/pendulum) 
+- [rclone - rsync for cloud storage](http://rclone.org/) 
