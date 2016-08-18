@@ -53,3 +53,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### August 19, 2016
 - [Introducing the Qt Lite project—Qt for any platform, any thing, any size - Qt Blog](http://blog.qt.io/blog/2016/08/18/introducing-the-qt-lite-project-qt-for-any-platform-any-thing-any-size/) 
 - [alexadam/save-as-ebook: Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension](https://github.com/alexadam/save-as-ebook) 
+- [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html) 
