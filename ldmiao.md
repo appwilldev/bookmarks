@@ -61,3 +61,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [hilongjw/vue-lazyload: Vue module for lazyloading images in your vue.js applications.](https://github.com/hilongjw/vue-lazyload) 
 - [TuShare -财经数据接口包](http://tushare.org/index.html) 
 - [掘金](http://gold.xitu.io/) 
+- [python+flask+sae+微信公众号开发后记 - 简书](http://www.jianshu.com/p/264d55f8d652) 
