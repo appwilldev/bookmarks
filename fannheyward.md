@@ -16,3 +16,4 @@
 
 ### August 18, 2016
 - [白话火焰图 | 火丁笔记](http://huoding.com/2016/08/18/531) 
+- [High Performance Browser Networking (O'Reilly)](https://hpbn.co/) 
