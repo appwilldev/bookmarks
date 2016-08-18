@@ -65,3 +65,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [把聊天机器人接入微信](http://blog.just4fun.site/create-wechat-bot.html) 
 - [liuwons/wxBot: Python网页微信API](https://github.com/liuwons/wxBot) 
 - [构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html) 
+- [腾讯客服-QQ for Mac聊天记录/登录信息的保存路径](http://kf.qq.com/faq/120322fu63YV13042232muu6.html) 
