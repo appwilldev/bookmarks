@@ -15,3 +15,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 22, 2016
 - [牛逼哄哄的RPC](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392260&idx=1&sn=5a4978d02326cdd38e2ea1cd9586b4df&scene=0#wechat_redirect) 
+- [深度 | 机器学习敲门砖：任何人都能看懂的TensorFlow介绍](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718466&idx=1&sn=016f111001e8354d49dd4ce279d283cd&scene=0#wechat_redirect) 
