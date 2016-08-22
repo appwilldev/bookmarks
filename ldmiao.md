@@ -82,3 +82,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [zsdonghao/tensorlayer: TensorLayer: Deep learning and Reinforcement learning library for Researchers and Engineers.](https://github.com/zsdonghao/tensorlayer) 
 - [coala-analyzer/coala: coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.](https://github.com/coala-analyzer/coala) 
 - [Release v0.1.3 · airyland/vux](https://github.com/airyland/vux/releases/tag/v0.1.3) 
+- [刨根问底HTTP和WebSocket协议(二） - Kuikui - 掘金专栏](http://gold.xitu.io/post/57b07b6e2e958a005459ece3) 
