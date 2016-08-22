@@ -76,3 +76,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Svgsus - Easier SVG handling for Mac](http://www.svgs.us/) 
 - [Svgsus - Easier SVG handling for Mac](http://www.svgs.us/) 
 - [Keras Documentation](https://keras.io/) 
+- [jikexueyuanwiki/tensorflow-zh: 谷歌全新开源人工智能系统TensorFlow官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh) 
