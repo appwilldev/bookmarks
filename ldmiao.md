@@ -87,3 +87,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Python之asyncio | 光阴的故事 | Valar Morghulis](https://vvl.me/2016/03/python-coroutines/) 
 - [后端的轮子（三）--- 缓存 - 吳YH堅 - 掘金专栏](http://gold.xitu.io/post/579c549d2e958a006649213f) 
 - [opensource.nibr.com/YADA/](http://opensource.nibr.com/YADA/) 
+- [RNNs in Tensorflow, a Practical Guide and Undocumented Features – WildML](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) 
