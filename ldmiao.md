@@ -83,3 +83,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [coala-analyzer/coala: coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.](https://github.com/coala-analyzer/coala) 
 - [Release v0.1.3 · airyland/vux](https://github.com/airyland/vux/releases/tag/v0.1.3) 
 - [刨根问底HTTP和WebSocket协议(二） - Kuikui - 掘金专栏](http://gold.xitu.io/post/57b07b6e2e958a005459ece3) 
+- [Nginx 配置 HTTPS 服务器 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/08/16/nginx-https/?o2src=juejin&o2layout=compat) 
