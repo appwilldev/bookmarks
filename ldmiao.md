@@ -80,3 +80,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### August 23, 2016
 - [zsdonghao/tensorlayer: TensorLayer: Deep learning and Reinforcement learning library for Researchers and Engineers.](https://github.com/zsdonghao/tensorlayer) 
+- [coala-analyzer/coala: coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.](https://github.com/coala-analyzer/coala) 
