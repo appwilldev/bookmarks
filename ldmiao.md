@@ -77,3 +77,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Svgsus - Easier SVG handling for Mac](http://www.svgs.us/) 
 - [Keras Documentation](https://keras.io/) 
 - [jikexueyuanwiki/tensorflow-zh: 谷歌全新开源人工智能系统TensorFlow官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh) 
+
+### August 23, 2016
+- [zsdonghao/tensorlayer: TensorLayer: Deep learning and Reinforcement learning library for Researchers and Engineers.](https://github.com/zsdonghao/tensorlayer) 
