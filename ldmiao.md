@@ -90,3 +90,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [RNNs in Tensorflow, a Practical Guide and Undocumented Features – WildML](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) 
 - [Why I Created YADA](https://yadadata.com/2016/08/22/why-i-created-yada/amp/) 
 - [calebmer/postgraphql: A GraphQL API created by reflection over a PostgreSQL schema.](https://github.com/calebmer/postgraphql) 
+- [Introducing iOS Web Debugging for VS Code on Windows and Mac – Web Diagnostics and Tools Blog](https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/) 
