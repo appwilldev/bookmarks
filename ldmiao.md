@@ -89,3 +89,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [opensource.nibr.com/YADA/](http://opensource.nibr.com/YADA/) 
 - [RNNs in Tensorflow, a Practical Guide and Undocumented Features – WildML](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) 
 - [Why I Created YADA](https://yadadata.com/2016/08/22/why-i-created-yada/amp/) 
+- [calebmer/postgraphql: A GraphQL API created by reflection over a PostgreSQL schema.](https://github.com/calebmer/postgraphql) 
