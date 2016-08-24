@@ -96,3 +96,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [I Don't Need No Stinking API - Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/) 
 - [vuikit/vuikit: UIkit with all the power of Vue](https://github.com/vuikit/vuikit) 
 - [uikit/uikit: A lightweight and modular front-end framework for developing fast and powerful web interfaces.](https://github.com/uikit/uikit) 
+- [zhuhaow/NEKit: A toolkit for Network Extension Framework](https://github.com/zhuhaow/NEKit) 
