@@ -91,3 +91,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Why I Created YADA](https://yadadata.com/2016/08/22/why-i-created-yada/amp/) 
 - [calebmer/postgraphql: A GraphQL API created by reflection over a PostgreSQL schema.](https://github.com/calebmer/postgraphql) 
 - [Introducing iOS Web Debugging for VS Code on Windows and Mac – Web Diagnostics and Tools Blog](https://blogs.msdn.microsoft.com/webdiagnostics/2016/08/22/introducing-ios-web-debugging-for-vs-code-on-windows-and-mac/) 
+
+### August 24, 2016
+- [I Don't Need No Stinking API - Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/) 
