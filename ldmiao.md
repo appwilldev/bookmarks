@@ -116,3 +116,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Google 开源 RPC 框架 gRPC 初探 | JR's Blog](http://blog.jrwang.me/2016/grpc-at-first-view/) 
 - [leancloud/ChatKit-OC: An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features.](https://github.com/leancloud/ChatKit-OC) 
 - [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/) 
+- [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux) 
