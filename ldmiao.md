@@ -113,3 +113,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [[1608.05137] IM2CAD](https://arxiv.org/abs/1608.05137) 
 - [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode) 
 - [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/) 
+- [Google 开源 RPC 框架 gRPC 初探 | JR's Blog](http://blog.jrwang.me/2016/grpc-at-first-view/) 
