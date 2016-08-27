@@ -106,3 +106,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [jrainlau/vue-flatpickr: A Vue component that wraps the Flatpickr](https://github.com/jrainlau/vue-flatpickr) 
 - [ufologist/puer-mock: Puer + Mock.js = A configurable mock server with configurable mock(random) data.](https://github.com/ufologist/puer-mock) 
 - [puer-mock/why-your-need-a-mock-server.md at master · ufologist/puer-mock](https://github.com/ufologist/puer-mock/blob/master/why-your-need-a-mock-server.md) 
+
+### August 27, 2016
+- [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view) 
