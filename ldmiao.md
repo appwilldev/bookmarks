@@ -112,3 +112,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [dschep/ntfy: A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy) 
 - [[1608.05137] IM2CAD](https://arxiv.org/abs/1608.05137) 
 - [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode) 
+- [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/) 
