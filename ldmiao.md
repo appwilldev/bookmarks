@@ -109,3 +109,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### August 27, 2016
 - [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view) 
+- [dschep/ntfy: A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy) 
