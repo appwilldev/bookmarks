@@ -122,3 +122,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [david-gpu/srez: Image super-resolution through deep learning](https://github.com/david-gpu/srez) 
 - [paarthneekhara/text-to-image: Tensorflow implementation of text to image synthesis using thought vectors](https://github.com/paarthneekhara/text-to-image) 
 - [vue项目实践（vuex + vue-router + vue-resource） - 南洋前端 - SegmentFault](https://segmentfault.com/a/1190000006747096) 
+
+### August 30, 2016
+- [Google Realtime API Overview  |  Realtime API  |  Google Developers](https://developers.google.com/google-apps/realtime/overview) 
