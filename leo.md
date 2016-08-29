@@ -22,3 +22,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 29, 2016
 - [braumeister.org](http://braumeister.org/) 
+- [PostgreSQL 9.5 发布，带来 UPSERT 等新特性 - 开源中国社区](http://www.oschina.net/news/69695/postgresql-9-5) 
