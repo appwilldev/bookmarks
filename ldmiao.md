@@ -117,3 +117,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [leancloud/ChatKit-OC: An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features.](https://github.com/leancloud/ChatKit-OC) 
 - [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/) 
 - [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux) 
+
+### August 29, 2016
+- [david-gpu/srez: Image super-resolution through deep learning](https://github.com/david-gpu/srez) 
