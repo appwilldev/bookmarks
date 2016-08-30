@@ -28,3 +28,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 30, 2016
 - [PostgreSQL的MVCC并发处理 | piglei's blog](http://www.zlovezl.cn/articles/postgresql-concurrency-with-mvcc/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [两阶段提交 two-phase commit 分布式事务 JTA | Jason's Blog | 分布式事务,两阶段提交,two-phase commit,Jason's Blog,郭俊 Jason,大数据架构](http://www.jasongj.com/big_data/two_phase_commit/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
