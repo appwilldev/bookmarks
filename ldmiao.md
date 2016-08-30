@@ -128,3 +128,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [动态追踪技术漫谈 –](https://openresty.org/posts/dynamic-tracing/) 
 - [Btree vs LSM · wiredtiger/wiredtiger Wiki](https://github.com/wiredtiger/wiredtiger/wiki/Btree-vs-LSM) 
 - [SRL - Simple Regex Language](https://simple-regex.com/) 
+- [zyedidia/micro: A modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro) 
