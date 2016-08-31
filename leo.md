@@ -33,3 +33,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 31, 2016
 - [Torch | Scientific computing for LuaJIT.](http://torch.ch/) 
+- [前言 | Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/index.html) 
