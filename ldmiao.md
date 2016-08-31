@@ -134,3 +134,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### August 31, 2016
 - [Minio](https://minio.io/) 
 - [minio/minio: Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License](https://github.com/minio/minio) 
+- [baidu/Paddle: PArallel Distributed Deep LEarning](https://github.com/baidu/Paddle) 
