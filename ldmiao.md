@@ -130,3 +130,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [SRL - Simple Regex Language](https://simple-regex.com/) 
 - [zyedidia/micro: A modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro) 
 - [Grade.js](http://benhowdle.im/grade/) 
+
+### August 31, 2016
+- [Minio](https://minio.io/) 
