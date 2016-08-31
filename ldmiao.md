@@ -137,3 +137,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [baidu/Paddle: PArallel Distributed Deep LEarning](https://github.com/baidu/Paddle) 
 - [【重磅】微信开源PhxSQL：高可用、强一致的MySQL集群](http://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247483783&idx=1&sn=a2d6e589f1f591ded7703eb74aefccbe&scene=1&srcid=0831D95TBCm3hgtNBd6uygs2#rd) 
 - [tencent-wechat/phxsql: A high availability MySQL cluster that guarantees data consistency between a master and slaves.](https://github.com/tencent-wechat/phxsql) 
+- [利用Python进行数据分析 基础系列随笔汇总 - 简书](http://www.jianshu.com/p/5eb45f165707) 
