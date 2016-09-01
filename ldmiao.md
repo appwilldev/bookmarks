@@ -146,3 +146,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [tealeg/xlsx: Google Go (golang) library for reading and writing XLSX files.](https://github.com/tealeg/xlsx) 
 - [Luxurioust/excelize: Golang library for reading and writing XLSX files.](https://github.com/Luxurioust/excelize) 
 - [WordDocX/DocX: DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, in an easy and intuitive manor. DocX is fast, lightweight and best of all it does not require Microsoft Word or Office to be installed.](https://github.com/WordDocX/DocX) 
+- [python-openxml/python-docx: Create and modify Word documents with Python](https://github.com/python-openxml/python-docx) 
