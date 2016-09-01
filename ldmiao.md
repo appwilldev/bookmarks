@@ -144,3 +144,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [How a Japanese cucumber farmer is using deep learning and TensorFlow | Google Cloud Big Data and Machine Learning Blog  |  Google Cloud Platform](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow) 
 - [quiet/quiet: Transmit data with sound. Includes binaries for soundcards and .wav files.](https://github.com/quiet/quiet) 
 - [tealeg/xlsx: Google Go (golang) library for reading and writing XLSX files.](https://github.com/tealeg/xlsx) 
+- [Luxurioust/excelize: Golang library for reading and writing XLSX files.](https://github.com/Luxurioust/excelize) 
