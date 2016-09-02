@@ -149,3 +149,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [python-openxml/python-docx: Create and modify Word documents with Python](https://github.com/python-openxml/python-docx) 
 - [janschulz/knitpy: knitpy: Elegant, flexible and fast dynamic report generation with python](https://github.com/janschulz/knitpy/) 
 - [咕咕监控 | 专注于网站、服务器监控](https://gugujiankong.com/) 
+
+### September 2, 2016
+- [2016 Report | One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/2016-report) 
