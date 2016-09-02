@@ -34,3 +34,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### August 31, 2016
 - [Torch | Scientific computing for LuaJIT.](http://torch.ch/) 
 - [前言 | Go语言圣经](https://docs.ruanjiadeng.com/gopl-zh/index.html) 
+
+### September 2, 2016
+- [微信开发中网页授权access_token与基础支持的access_token异同 - coder狼 - 博客园](http://www.cnblogs.com/wellsoho/p/5089409.html) 
