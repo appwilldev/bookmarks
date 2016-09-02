@@ -152,3 +152,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 2, 2016
 - [2016 Report | One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/2016-report) 
+- [ai_100_report_0901fnlb.pdf](https://ai100.stanford.edu/sites/default/files/ai_100_report_0901fnlb.pdf) 
