@@ -39,3 +39,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [微信开发中网页授权access_token与基础支持的access_token异同 - coder狼 - 博客园](http://www.cnblogs.com/wellsoho/p/5089409.html) 
 - [Qix/golang.md at master · ty4z2008/Qix](https://github.com/ty4z2008/Qix/blob/master/golang.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Go的pprof使用 - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/archive/2012/12/27/2835331.html) 
+- [Profiling Go Programs - The Go Blog](https://blog.golang.org/profiling-go-programs) 
