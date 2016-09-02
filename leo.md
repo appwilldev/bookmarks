@@ -37,3 +37,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 2, 2016
 - [微信开发中网页授权access_token与基础支持的access_token异同 - coder狼 - 博客园](http://www.cnblogs.com/wellsoho/p/5089409.html) 
+- [Qix/golang.md at master · ty4z2008/Qix](https://github.com/ty4z2008/Qix/blob/master/golang.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
