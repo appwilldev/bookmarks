@@ -154,3 +154,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [2016 Report | One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/2016-report) 
 - [ai_100_report_0901fnlb.pdf](https://ai100.stanford.edu/sites/default/files/ai_100_report_0901fnlb.pdf) 
 - [Websocket Shootout: Clojure, C++, Elixir, Go, NodeJS, and Ruby | The Hashrocket Blog](https://hashrocket.com/blog/posts/websocket-shootout) 
+- [Open Source Time Series DB Comparison - Google Sheets](https://docs.google.com/spreadsheets/d/1sMQe9oOKhMhIVw9WmuCEWdPtAoccJ4a-IuZv4fXDHxM/edit#gid=0) 
