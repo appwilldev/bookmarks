@@ -162,3 +162,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [still-life-studios/txt.wav: some weird text animations the internet deserves](https://github.com/still-life-studios/txt.wav) 
 - [tmrts/go-patterns: A curated list of Go patterns and idioms](https://github.com/tmrts/go-patterns) 
 - [xcatliu/mobi.css: A lightweight, flexible css framework that focus on mobile.](https://github.com/xcatliu/mobi.css) 
+- [david-gpu/srez: Image super-resolution through deep learning](https://github.com/david-gpu/srez) 
