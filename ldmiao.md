@@ -160,3 +160,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 5, 2016
 - [still-life-studios/txt.wav: some weird text animations the internet deserves](https://github.com/still-life-studios/txt.wav) 
+- [tmrts/go-patterns: A curated list of Go patterns and idioms](https://github.com/tmrts/go-patterns) 
