@@ -40,3 +40,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Qix/golang.md at master · ty4z2008/Qix](https://github.com/ty4z2008/Qix/blob/master/golang.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Go的pprof使用 - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/archive/2012/12/27/2835331.html) 
 - [Profiling Go Programs - The Go Blog](https://blog.golang.org/profiling-go-programs) 
+
+### September 5, 2016
+- [Postgres 的全文搜索已经足够好了 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/postgres-full-text-search-is-good-enough) 
