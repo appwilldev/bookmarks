@@ -167,3 +167,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### September 6, 2016
 - [Insomnia REST Client](https://insomnia.rest/) 
 - [接口限流算法总结 | 夜有所思，日有所梦](http://www.kissyu.org/2016/08/13/%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/) 
+- [Camel 开源啦 - 软负载管理中间件，通过界面及接口管理 Nginx 集群 来自大众点评～ - V2EX](https://www.v2ex.com/t/303489#reply0) 
