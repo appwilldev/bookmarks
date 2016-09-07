@@ -43,3 +43,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 5, 2016
 - [Postgres 的全文搜索已经足够好了 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/postgres-full-text-search-is-good-enough) 
+
+### September 7, 2016
+- [分布式RPC框架性能大比拼 | 鸟窝](http://colobu.com/2016/09/05/benchmarks-of-popular-rpc-frameworks/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
