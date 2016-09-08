@@ -174,3 +174,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [How to Convert a PDF File to Editable Text Using the Command Line in Linux](http://www.howtogeek.com/228531/how-to-convert-a-pdf-file-to-editable-text-using-the-command-line-in-linux/amp/) 
 - [PhantomJS | PhantomJS](http://phantomjs.org/) 
 - [免费下载 - 八爪鱼采集器 - 最好用的网页数据采集器](http://www.bazhuayu.com/download) 
+
+### September 9, 2016
+- [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) 
