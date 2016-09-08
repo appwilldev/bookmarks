@@ -49,3 +49,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 8, 2016
 - [我的开源世界观 - Python之美 - 知乎专栏](https://zhuanlan.zhihu.com/p/22217076?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [100+ 超全的web开发工具和资源 - 稀土区](https://xituqu.com/170.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
