@@ -46,3 +46,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 7, 2016
 - [分布式RPC框架性能大比拼 | 鸟窝](http://colobu.com/2016/09/05/benchmarks-of-popular-rpc-frameworks/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### September 8, 2016
+- [我的开源世界观 - Python之美 - 知乎专栏](https://zhuanlan.zhihu.com/p/22217076?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
