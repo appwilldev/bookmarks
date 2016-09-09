@@ -178,3 +178,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### September 9, 2016
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) 
 - [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html) 
+- [WaveNet: A Generative Model for Raw Audio | DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 
