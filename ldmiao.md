@@ -181,3 +181,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [WaveNet: A Generative Model for Raw Audio | DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 
 - [Hakaru](https://hakaru-dev.github.io/#introduction) 
 - [Cleverscript - turn scripts into bots - conversational AI engine by Existor - virtual assistants and artificial personalities](http://www.cleverscript.com/about/) 
+- [Getting started with Raspberry Pi — PaulStamatiou.com](http://paulstamatiou.com/getting-started-raspberry-pi/#piframe) 
