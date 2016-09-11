@@ -185,3 +185,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [superscriptjs/superscript: A dialogue engine for creating chat bots](https://github.com/superscriptjs/superscript) 
 - [Microsoft Bot Framework](https://dev.botframework.com/) 
 - [Conversational UX Platform for Bots, Apps, Devices, Services - Api.ai](https://api.ai/) 
+
+### September 11, 2016
+- [christabor/flask_jsondash: Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.](https://github.com/christabor/flask_jsondash) 
