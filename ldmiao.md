@@ -194,3 +194,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [lengstrom/falcon: Chrome extension for full text browsing history search!](https://github.com/lengstrom/falcon) 
 - [缓存使用总结 | 林堂辉的博客](http://lintanghui.com/2016/09/10/cache.html) 
 - [521xueweihan/HelloGithub: HelloGithub月刊](https://github.com/521xueweihan/HelloGithub) 
+- [CC-CEDICT Home [CC-CEDICT WIKI]](https://cc-cedict.org/wiki/) 
