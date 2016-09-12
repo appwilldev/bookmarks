@@ -189,3 +189,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### September 11, 2016
 - [christabor/flask_jsondash: Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.](https://github.com/christabor/flask_jsondash) 
 - [The Open Source Data Science Masters by datasciencemasters](http://datasciencemasters.org/) 
+
+### September 12, 2016
+- [lengstrom/falcon: Chrome extension for full text browsing history search!](https://github.com/lengstrom/falcon) 
