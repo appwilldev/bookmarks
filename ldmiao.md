@@ -199,3 +199,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 13, 2016
 - [Scalable and secure access with SSH | Engineering Blog | Facebook Code](https://code.facebook.com/posts/365787980419535/scalable-and-secure-access-with-ssh/) 
+
+### September 14, 2016
+- [I: Building a Deep Learning (Dream) Machine – Machine Ponderings](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/) 
