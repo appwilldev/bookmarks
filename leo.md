@@ -57,3 +57,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [GitHub Ranking - Top GitHub users and repositories](https://github-ranking.com/) 
 - [docker学习(4) 一些常用操作 - 菩提树下的杨过 - 博客园](http://www.cnblogs.com/yjmyzz/p/docker-usage.html) 
 - [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.87887&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
+
+### September 14, 2016
+- [build-web-application-with-golang/11.2.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/11.2.md) 
