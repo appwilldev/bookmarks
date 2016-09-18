@@ -60,3 +60,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 14, 2016
 - [build-web-application-with-golang/11.2.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/11.2.md) 
+
+### September 18, 2016
+- [智能金融的发展路径 – 文因互联](http://blog.memect.cn/?p=1932) 
