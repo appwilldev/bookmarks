@@ -206,3 +206,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [tidwall/tile38: Tile38 is a geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.](https://github.com/tidwall/tile38) 
 - [tidwall/buntdb: BuntDB is a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support](https://github.com/tidwall/buntdb) 
 - [TensorFlow in a Nutshell — Part One: Basics – Camron's Blog](http://camron.xyz/index.php/2016/08/22/in_a_nutshell_part_one/) 
+
+### September 18, 2016
+- [Data Structures: A high level overview of what they are and why we need them – Com Sci U](http://www.comsciu.com/2016/09/17/data-structures-a-high-level-overview-of-what-they-are-and-why-we-need-them/) 
