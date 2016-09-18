@@ -209,3 +209,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 18, 2016
 - [Data Structures: A high level overview of what they are and why we need them – Com Sci U](http://www.comsciu.com/2016/09/17/data-structures-a-high-level-overview-of-what-they-are-and-why-we-need-them/) 
+- [浏览Paddle C++源码 - Occam's Razor - 知乎专栏](https://zhuanlan.zhihu.com/p/22484207) 
