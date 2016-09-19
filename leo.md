@@ -68,3 +68,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### September 19, 2016
 - [www.shareditor.com/blogshow/?blogId=63](http://www.shareditor.com/blogshow/?blogId=63) 
 - [自己动手做聊天机器人 一-涉及知识 - SharEDITor - 关注大数据技术](http://www.shareditor.com/blogshow/?blogId=63) 
+- [Office Open XML (OOXML) - Word Processing - Document](http://officeopenxml.com/WPdocument.php) 
