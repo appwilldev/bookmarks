@@ -73,3 +73,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### September 20, 2016
 - [我的Python订阅列表 - Python之美 - 知乎专栏](https://zhuanlan.zhihu.com/p/22481120?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [UML tools : Our curated selection of free, online, OSS, for MAC,... tools](http://modeling-languages.com/uml-tools/#python) 
+
+### September 22, 2016
+- [Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/) 
