@@ -218,3 +218,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### September 21, 2016
 - [Google’s Go language ventures into machine learning](http://www.infoworld.com/article/3121694/artificial-intelligence/googles-go-language-ventures-into-machine-learning.amp.html) 
 - [fogleman/primitive: Reproducing images with geometric primitives.](https://github.com/fogleman/primitive) 
+
+### September 23, 2016
+- [https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html is not available](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html) 
