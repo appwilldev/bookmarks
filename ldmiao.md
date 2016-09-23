@@ -223,3 +223,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html is not available](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html) 
 - [GitHub GraphQL API | GitHub Developer Guide](https://developer.github.com/early-access/graphql/) 
 - [How to Get a Job In Deep Learning](http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/) 
+- [Ostagram](http://ostagram.ru/static_pages/lenta?last_days=30&locale=en) 
