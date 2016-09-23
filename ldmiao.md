@@ -225,3 +225,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [How to Get a Job In Deep Learning](http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/) 
 - [Ostagram](http://ostagram.ru/static_pages/lenta?last_days=30&locale=en) 
 - [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html) 
+
+### September 24, 2016
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog](http://blog.burntsushi.net/ripgrep/) 
