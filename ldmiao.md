@@ -228,3 +228,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 24, 2016
 - [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog](http://blog.burntsushi.net/ripgrep/) 
+
+### September 25, 2016
+- [codemade.io Projects made with code](https://www.codemade.io/) 
