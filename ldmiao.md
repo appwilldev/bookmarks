@@ -237,3 +237,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Appropriate Uses For SQLite](https://sqlite.org/whentouse.html) 
 - [BDR is coming to PostgreSQL 9.6 |](http://blog.2ndquadrant.com/bdr-is-coming-to-postgresql-9-6/) 
 - [bluquar/cubr: Rubik's Cube Solver -- Uses OpenCV](https://github.com/bluquar/cubr) 
+- [Twitch](https://www.twitch.tv/gary_bernhardt/v/90796516) 
