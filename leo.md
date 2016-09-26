@@ -76,3 +76,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 22, 2016
 - [Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/) 
+
+### September 26, 2016
+- [微信小程序开发资料收集 - 简书](http://www.jianshu.com/p/03568b06164c) 
