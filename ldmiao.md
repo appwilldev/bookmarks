@@ -231,3 +231,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 25, 2016
 - [codemade.io Projects made with code](https://www.codemade.io/) 
+
+### September 26, 2016
+- [junyanz/iGAN: iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN) 
