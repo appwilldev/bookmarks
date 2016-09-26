@@ -234,3 +234,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 26, 2016
 - [junyanz/iGAN: iGAN: Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN) 
+- [Appropriate Uses For SQLite](https://sqlite.org/whentouse.html) 
