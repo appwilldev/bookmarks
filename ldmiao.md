@@ -242,3 +242,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### September 27, 2016
 - [evo-cloud/hmake: HyperMake - Makes Builds Green without Worrying about Pre-requisites](https://github.com/evo-cloud/hmake) 
+- [wwj718/paperweekly_forum: paperweekly's forum](https://github.com/wwj718/paperweekly_forum) 
