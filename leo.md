@@ -83,3 +83,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 27, 2016
 - [一篇教程读懂微信应用号开发_36氪](http://36kr.com/p/5053382.html) 
+- [微信小程序开发:http请求 - 姜家志 - SegmentFault](https://segmentfault.com/a/1190000007003240) 
