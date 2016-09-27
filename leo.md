@@ -80,3 +80,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### September 26, 2016
 - [微信小程序开发资料收集 - 简书](http://www.jianshu.com/p/03568b06164c) 
 - [GroupDocs - API Reference](http://www.groupdocs.com/api) 
+
+### September 27, 2016
+- [一篇教程读懂微信应用号开发_36氪](http://36kr.com/p/5053382.html) 
