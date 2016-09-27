@@ -239,3 +239,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [bluquar/cubr: Rubik's Cube Solver -- Uses OpenCV](https://github.com/bluquar/cubr) 
 - [Twitch](https://www.twitch.tv/gary_bernhardt/v/90796516) 
 - [The Fundamental Limits of Machine Learning - Facts So Romantic - Nautilus](http://nautil.us/blog/the-fundamental-limits-of-machine-learning) 
+
+### September 27, 2016
+- [evo-cloud/hmake: HyperMake - Makes Builds Green without Worrying about Pre-requisites](https://github.com/evo-cloud/hmake) 
