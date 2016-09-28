@@ -84,3 +84,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### September 27, 2016
 - [一篇教程读懂微信应用号开发_36氪](http://36kr.com/p/5053382.html) 
 - [微信小程序开发:http请求 - 姜家志 - SegmentFault](https://segmentfault.com/a/1190000007003240) 
+
+### September 28, 2016
+- [不需内测账号，带你体验微信小程序完整开发过程 | Swift Cafe | 关于 iOS 开发，Swift,Objective-C 语言，Cocoa 框架的原创精品内容交流](http://swiftcafe.io/2016/09/24/wx-app/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
