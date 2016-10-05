@@ -248,3 +248,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### September 29, 2016
 - [Figma: the collaborative interface design tool.](https://www.figma.com/) 
 - [树莓派 kali linux MT7601U安装 - 简书](http://www.jianshu.com/p/4a0246a4d9d7) 
+
+### October 6, 2016
+- [MicheleNuijten/statcheck](https://github.com/MicheleNuijten/statcheck) 
