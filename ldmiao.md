@@ -253,3 +253,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [MicheleNuijten/statcheck](https://github.com/MicheleNuijten/statcheck) 
 - [A bot crawled thousands of studies looking for simple math errors. The results are concerning. - Vox](http://www.vox.com/platform/amp/science-and-health/2016/9/30/13077658/statcheck-psychology-replication) 
 - [GraphQL Client | Apollo](http://dev.apollodata.com/) 
+- [Smallpdf.com – 您所有PDF问题的免费解决方案](https://smallpdf.com/cn) 
