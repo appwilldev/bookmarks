@@ -255,3 +255,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [GraphQL Client | Apollo](http://dev.apollodata.com/) 
 - [Smallpdf.com – 您所有PDF问题的免费解决方案](https://smallpdf.com/cn) 
 - [Data Mining in Python: A Guide - Springboard Blog](https://www.springboard.com/blog/data-mining-python-tutorial/) 
+- [《大数据智能》第2章：知识图谱_刘知远THU_新浪博客](http://blog.sina.com.cn/s/blog_574a437f0102w2bk.html) 
