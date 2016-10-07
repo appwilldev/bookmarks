@@ -259,3 +259,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 7, 2016
 - [Scaling Raft | Blog | Cockroach Labs](https://www.cockroachlabs.com/blog/scaling-raft/) 
+- [Tracing HTTP request latency in Go with OpenTracing – OpenTracing – Medium](https://medium.com/opentracing/tracing-http-request-latency-in-go-with-opentracing-7cc1282a100a#.pdbo24o6c) 
