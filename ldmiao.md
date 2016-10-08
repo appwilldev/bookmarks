@@ -261,3 +261,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Scaling Raft | Blog | Cockroach Labs](https://www.cockroachlabs.com/blog/scaling-raft/) 
 - [Tracing HTTP request latency in Go with OpenTracing – OpenTracing – Medium](https://medium.com/opentracing/tracing-http-request-latency-in-go-with-opentracing-7cc1282a100a#.pdbo24o6c) 
 - [agentzh的微博_微博](http://weibo.com/agentzh?is_hot=1) 
+
+### October 8, 2016
+- [How to make an autonomous car (code included) - Jabelone](http://jabelone.com.au/blog/make-autonomous-car-code-included/) 
