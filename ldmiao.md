@@ -267,3 +267,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [深度 |《财富》万字长文回溯深度学习革命，盘点 16 大历史时刻](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651987496&idx=1&sn=5aff70c2e953602b5fc4bdd72b26f3dc&chksm=f1216ad9c656e3cf5efc162ca5c1f9c539a13621dae1b70b209a285bae0628e91e3fa4d0c973&scene=21#wechat_redirect) 
 - [Texture](http://substance.io/texture/) 
 - [web-pal/DBGlass: PostgreSQL client built with Electron.](https://github.com/web-pal/DBGlass) 
+- [teleport/user-manual.md at master · gravitational/teleport](https://github.com/gravitational/teleport/blob/master/docs/user-manual.md) 
