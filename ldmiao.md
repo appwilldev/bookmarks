@@ -268,3 +268,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Texture](http://substance.io/texture/) 
 - [web-pal/DBGlass: PostgreSQL client built with Electron.](https://github.com/web-pal/DBGlass) 
 - [teleport/user-manual.md at master · gravitational/teleport](https://github.com/gravitational/teleport/blob/master/docs/user-manual.md) 
+
+### October 9, 2016
+- [A Natural Language Query Engine without Machine Learning – ayoungprogrammer's blog](http://blog.ayoungprogrammer.com/2016/10/natural-lang-query-engine.html/) 
