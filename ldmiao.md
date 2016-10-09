@@ -271,3 +271,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 9, 2016
 - [A Natural Language Query Engine without Machine Learning – ayoungprogrammer's blog](http://blog.ayoungprogrammer.com/2016/10/natural-lang-query-engine.html/) 
+- [ayoungprogrammer/nlquery: Natural Language Engine on WikiData](https://github.com/ayoungprogrammer/nlquery) 
