@@ -273,3 +273,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [A Natural Language Query Engine without Machine Learning – ayoungprogrammer's blog](http://blog.ayoungprogrammer.com/2016/10/natural-lang-query-engine.html/) 
 - [ayoungprogrammer/nlquery: Natural Language Engine on WikiData](https://github.com/ayoungprogrammer/nlquery) 
 - [黑科技：把第三方 iOS 应用转成动态库](http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545228&idx=1&sn=7a47a0de32e06f9c465319e8db8ca13f&chksm=828f0bd2b5f882c46416ab20cd9ea482b3c57b202d876b75d5625a1bb036d40fe01d31c2679a&mpshare=1&scene=1&srcid=1009N6R6XQyc1MDWhh0MfG7h#rd) 
+- [curl-to-Go: Convert curl commands to Go code](https://mholt.github.io/curl-to-go/) 
