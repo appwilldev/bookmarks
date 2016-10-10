@@ -96,3 +96,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 10, 2016
 - [Convert cURL command syntax to Python requests, Node.js code](http://curl.trillworks.com/) 
+- [深入理解urllib;urllib2;requests – 段家公子](http://1oscar.github.io/blog/2015/07/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3urllib;urllib2;requests.html) 
