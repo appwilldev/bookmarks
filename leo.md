@@ -93,3 +93,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 9, 2016
 - [Web-scraping JavaScript page with Python - Stack Overflow](http://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python) 
+
+### October 10, 2016
+- [Convert cURL command syntax to Python requests, Node.js code](http://curl.trillworks.com/) 
