@@ -277,3 +277,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 10, 2016
 - [The Best Free Password Manager | bitwarden](https://bitwarden.com/) 
+- [Squash Compression Benchmark](http://quixdb.github.io/squash-benchmark/) 
