@@ -99,3 +99,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [深入理解urllib;urllib2;requests – 段家公子](http://1oscar.github.io/blog/2015/07/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3urllib;urllib2;requests.html) 
 - [深入理解urllib;urllib2;requests – 段家公子](http://1oscar.github.io/blog/2015/07/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3urllib;urllib2;requests.html) 
 - [新标签页](chrome://newtab/) 
+
+### October 11, 2016
+- [Python Excel](http://www.python-excel.org/) 
