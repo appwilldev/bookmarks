@@ -281,3 +281,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 12, 2016
 - [tidwall/summitdb: In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API](https://github.com/tidwall/summitdb) 
+- [Data Mining Hacker News: Front vs Back by David Lettier](https://lettier.github.io/posts/2016-10-10-data-mining-hacker-news-front-vs-back.html) 
