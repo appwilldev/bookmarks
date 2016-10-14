@@ -285,3 +285,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 13, 2016
 - [Tesseract.js | Pure Javascript OCR for 62 Languages!](http://tesseract.projectnaptha.com/) 
+
+### October 14, 2016
+- [Static types in Python, oh my(py)!](http://blog.zulip.org/2016/10/13/static-types-in-python-oh-mypy/amp/) 
