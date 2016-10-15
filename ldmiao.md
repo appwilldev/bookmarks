@@ -288,3 +288,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 14, 2016
 - [Static types in Python, oh my(py)!](http://blog.zulip.org/2016/10/13/static-types-in-python-oh-mypy/amp/) 
+
+### October 15, 2016
+- [Airplay Mirroring Receiver Library](http://www.xindawn.com/) 
