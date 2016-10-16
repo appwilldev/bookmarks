@@ -295,3 +295,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### October 17, 2016
 - [mikeal/roll-call: ☎️ Free and reliable audio calls for everyone w/ browser p2p.](https://github.com/mikeal/roll-call) 
 - [DemoHouse](https://airen.github.io/DemoHouse/) 
+- [uvloop: Blazing fast Python networking — magicstack](https://magic.io/blog/uvloop-blazing-fast-python-networking/) 
