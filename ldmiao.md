@@ -296,3 +296,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [mikeal/roll-call: ☎️ Free and reliable audio calls for everyone w/ browser p2p.](https://github.com/mikeal/roll-call) 
 - [DemoHouse](https://airen.github.io/DemoHouse/) 
 - [uvloop: Blazing fast Python networking — magicstack](https://magic.io/blog/uvloop-blazing-fast-python-networking/) 
+- [channelcat/sanic: Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic) 
