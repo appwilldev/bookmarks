@@ -298,3 +298,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [uvloop: Blazing fast Python networking — magicstack](https://magic.io/blog/uvloop-blazing-fast-python-networking/) 
 - [channelcat/sanic: Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic) 
 - [介绍 - vue.js](http://vuefe.cn/guide/) 
+
+### October 18, 2016
+- [chemzqm/wept: 微信小程序实时开发工具](https://github.com/chemzqm/wept) 
