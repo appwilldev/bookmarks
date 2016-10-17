@@ -302,3 +302,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### October 18, 2016
 - [chemzqm/wept: 微信小程序实时开发工具](https://github.com/chemzqm/wept) 
 - [Luxurioust/excelize: Golang library for reading and writing XLSX files.](https://github.com/Luxurioust/excelize) 
+- [Luxurioust/excelize: Golang library for reading and writing XLSX files.](https://github.com/Luxurioust/excelize) 
