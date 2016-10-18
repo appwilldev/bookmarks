@@ -316,3 +316,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [python-openxml/opc-diag: Command-line tool for exploring and diagnosing problems with Microsoft Office Open XML files (.docx, .pptx, .xlsx)](https://github.com/python-openxml/opc-diag) 
 - [python-openxml/python-docx: Create and modify Word documents with Python](https://github.com/python-openxml/python-docx) 
 - [wentin/cssicon: icon set made with pure css code, no dependencies, "grab and go" icons](https://github.com/wentin/cssicon) 
+
+### October 19, 2016
+- [Using Microsoft Word with git](http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/) 
