@@ -311,3 +311,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [gosuri/uitable: A go library to improve readability in terminal apps using tabular data](https://github.com/gosuri/uitable) 
 - [Faster PostgreSQL Counting](https://www.citusdata.com/blog/2016/10/12/count-performance) 
 - [OfficeDev/Open-Xml-PowerTools](https://github.com/OfficeDev/Open-Xml-PowerTools) 
+- [OfficeDev/Open-XML-SDK: Open XML SDK by Microsoft Open Technologies, Inc.](https://github.com/officedev/open-xml-sdk) 
