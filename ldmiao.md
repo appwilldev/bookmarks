@@ -314,3 +314,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [OfficeDev/Open-XML-SDK: Open XML SDK by Microsoft Open Technologies, Inc.](https://github.com/officedev/open-xml-sdk) 
 - [Screen-Cast: Using Open XML SDK on Linux using Mono - OpenXML Developer - Blog - OpenXML Developer](http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2014/07/03/screen-cast-using-open-xml-sdk-on-linux-using-mono.aspx) 
 - [python-openxml/opc-diag: Command-line tool for exploring and diagnosing problems with Microsoft Office Open XML files (.docx, .pptx, .xlsx)](https://github.com/python-openxml/opc-diag) 
+- [python-openxml/python-docx: Create and modify Word documents with Python](https://github.com/python-openxml/python-docx) 
