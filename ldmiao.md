@@ -321,3 +321,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Using Microsoft Word with git](http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/) 
 - [Introducing Rakali](http://blog.martinfenner.org/2014/08/18/introducing-rakali/) 
 - [Vive la git diff! | Atlassian Blogs](http://blogs.atlassian.com/2013/06/git-diff/) 
+- [Version control for DOCX and PDF? - Stack Overflow](http://stackoverflow.com/questions/3298525/version-control-for-docx-and-pdf) 
