@@ -309,3 +309,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [ewhal/Pastebin: Modern pastebin written in golang](https://github.com/ewhal/Pastebin) 
 - [dutchcoders/transfer.sh: Easy and fast file sharing from the command-line.](https://github.com/dutchcoders/transfer.sh/) 
 - [gosuri/uitable: A go library to improve readability in terminal apps using tabular data](https://github.com/gosuri/uitable) 
+- [Faster PostgreSQL Counting](https://www.citusdata.com/blog/2016/10/12/count-performance) 
