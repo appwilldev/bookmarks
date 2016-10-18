@@ -322,3 +322,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Introducing Rakali](http://blog.martinfenner.org/2014/08/18/introducing-rakali/) 
 - [Vive la git diff! | Atlassian Blogs](http://blogs.atlassian.com/2013/06/git-diff/) 
 - [Version control for DOCX and PDF? - Stack Overflow](http://stackoverflow.com/questions/3298525/version-control-for-docx-and-pdf) 
+- [na-ka-na/ExcelCompare: Command line tool (and API) for diffing Excel Workbooks](https://github.com/na-ka-na/ExcelCompare) 
