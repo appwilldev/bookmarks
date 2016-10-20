@@ -323,3 +323,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Vive la git diff! | Atlassian Blogs](http://blogs.atlassian.com/2013/06/git-diff/) 
 - [Version control for DOCX and PDF? - Stack Overflow](http://stackoverflow.com/questions/3298525/version-control-for-docx-and-pdf) 
 - [na-ka-na/ExcelCompare: Command line tool (and API) for diffing Excel Workbooks](https://github.com/na-ka-na/ExcelCompare) 
+
+### October 20, 2016
+- [超小PM2.5 甲醛 空气质量检测仪 攀藤G5激光 雾霾污染-淘宝网](https://item.taobao.com/item.htm?spm=686.1000925.0.0.p36Jxc&id=526960753448) 
