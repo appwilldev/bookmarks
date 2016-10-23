@@ -331,3 +331,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 21, 2016
 - [搜集了上万部高清纪录片种子_纪录片吧_百度贴吧](http://tieba.baidu.com/p/2697028358) 
+
+### October 23, 2016
+- [Automated browser testing for the modern web development stack | TestCafe](https://devexpress.github.io/testcafe/) 
