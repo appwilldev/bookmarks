@@ -338,3 +338,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [khamidou/lptrace: strace for Python programs.](https://github.com/khamidou/lptrace) 
 - [lyst/lightfm: A Python implementation of LightFM, a hybrid recommendation algorithm.](https://github.com/lyst/lightfm) 
 - [Automated browser testing for the modern web development stack | TestCafe](https://devexpress.github.io/testcafe/) 
+
+### October 24, 2016
+- [khamidou/lptrace: strace for Python programs.](https://github.com/khamidou/lptrace) 
