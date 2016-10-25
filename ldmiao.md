@@ -346,3 +346,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 25, 2016
 - [Supported Operations](http://jsonlogic.com/operations.html) 
+- [joewalnes/websocketd: Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.](https://github.com/joewalnes/websocketd) 
