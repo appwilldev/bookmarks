@@ -104,3 +104,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python Excel](http://www.python-excel.org/) 
 - [Python profiling](http://tech.glowing.com/cn/python-profiling/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [python requests接收chunked编码问题 - 5debug 的技术博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/wangzuxi/article/details/40377467) 
+
+### October 25, 2016
+- [入门Webpack，看这篇就够了 - 简书](http://www.jianshu.com/p/42e11515c10f) 
