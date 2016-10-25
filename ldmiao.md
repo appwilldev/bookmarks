@@ -343,3 +343,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [khamidou/lptrace: strace for Python programs.](https://github.com/khamidou/lptrace) 
 - [Mooder团队贡献系统文档 - Mooder是一款开源、安全、简洁、强大的（安全）团队贡献平台，基于Django、全封闭保证私密性、支持Markdown、支持Postgres/Mysql/Sqlite等多种数据库、支持Docker-compose一键化安装与更新，易于二次开发。](https://phith0n.github.io/mooder/#mooder) 
 - [phith0n/mooder: Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。](https://github.com/phith0n/mooder) 
+
+### October 25, 2016
+- [Supported Operations](http://jsonlogic.com/operations.html) 
