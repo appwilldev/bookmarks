@@ -349,3 +349,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [joewalnes/websocketd: Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.](https://github.com/joewalnes/websocketd) 
 - [sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages](https://github.com/sourcegraph/checkup) 
 - [minio/minio: Minio is an Amazon S3 compatible object storage server.](https://github.com/minio/minio) 
+
+### October 27, 2016
+- [GangZhuo/BaiduPCS: 百度网盘命令行工具。The terminal utility for Baidu Network Disk.](https://github.com/GangZhuo/BaiduPCS) 
