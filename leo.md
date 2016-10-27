@@ -107,3 +107,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 25, 2016
 - [入门Webpack，看这篇就够了 - 简书](http://www.jianshu.com/p/42e11515c10f) 
+
+### October 27, 2016
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) 
