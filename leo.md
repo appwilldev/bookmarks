@@ -110,3 +110,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 27, 2016
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) 
+
+### October 28, 2016
+- [Postgresql死锁的处理 - xiaoxiong1212的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiaoxiong1212/article/details/8188167) 
