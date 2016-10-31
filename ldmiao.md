@@ -357,3 +357,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### October 31, 2016
 - [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh) 
+- [VoLuong/Begin-Latex-in-minutes: Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. Comments and Contributions are welcomed](https://github.com/VoLuong/Begin-Latex-in-minutes) 
