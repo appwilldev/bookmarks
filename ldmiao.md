@@ -362,3 +362,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [ivanceras/svgbobrus: Convert your ascii diagram scribbles into happy little SVG](https://github.com/ivanceras/svgbobrus) 
 - [nenadg/traquer: Records and reproduces user's in-page behavior](https://github.com/nenadg/traquer) 
 - [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh) 
+- [veertuinc/vdhh: Veertu Desktop Hosted Hypervisor](https://github.com/veertuinc/vdhh) 
