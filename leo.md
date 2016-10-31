@@ -113,3 +113,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 28, 2016
 - [Postgresql死锁的处理 - xiaoxiong1212的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiaoxiong1212/article/details/8188167) 
+
+### October 31, 2016
+- [JSON.is - Open-source documentation for common JSON formats including bower.json, package.json, and install.json](http://json.is/) 
