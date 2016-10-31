@@ -117,3 +117,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### October 31, 2016
 - [JSON.is - Open-source documentation for common JSON formats including bower.json, package.json, and install.json](http://json.is/) 
 - [Python - Auto generate requirements.txt - IdiotInside.com](http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) 
+- [HTTP Caching  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#no-cache_and_no-store) 
