@@ -354,3 +354,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [GangZhuo/BaiduPCS: 百度网盘命令行工具。The terminal utility for Baidu Network Disk.](https://github.com/GangZhuo/BaiduPCS) 
 - [kendricktan/laice: Train your own Natural Language Processor from a browser 🤖 (Prototype)](https://github.com/kendricktan/laice) 
 - [RyanZotti/Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) 
+
+### October 31, 2016
+- [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh) 
