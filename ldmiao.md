@@ -367,3 +367,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 1, 2016
 - [Etcher by resin.io](https://www.etcher.io/) 
+- [A fast and open replacement for Windows and macOS ⋅ elementary OS](https://elementary.io/) 
