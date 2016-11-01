@@ -121,3 +121,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 1, 2016
 - [python-docx使用简介 - Hacker and Geeker's Way](http://zhaozhiming.github.io/blog/2015/08/16/hello-python-doxc/) 
+- [浅析PAC，教你动手修改你的PAC文件及user-rule文件实现自动代理 - 推酷](http://www.tuicool.com/articles/V77jyu) 
