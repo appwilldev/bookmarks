@@ -126,3 +126,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [OOXML wml.xsd - Complete documentation and samples](http://www.datypic.com/sc/ooxml/s-wml.xsd.html) 
 - [Home | Mono](http://www.mono-project.com/) 
 - [office-content/b3406fcc-f10b-4075-a18f-116400f35faf.md at master · OfficeDev/office-content](https://github.com/OfficeDev/office-content/blob/master/en-us/OpenXMLCon/articles/b3406fcc-f10b-4075-a18f-116400f35faf.md) 
+- [python-docx insertion point - Stack Overflow](http://stackoverflow.com/questions/24965042/python-docx-insertion-point) 
