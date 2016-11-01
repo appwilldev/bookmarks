@@ -125,3 +125,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [where is the word/_rels/document.xml.rels in python docx object? - Stack Overflow](http://stackoverflow.com/questions/36235031/where-is-the-word-rels-document-xml-rels-in-python-docx-object) 
 - [OOXML wml.xsd - Complete documentation and samples](http://www.datypic.com/sc/ooxml/s-wml.xsd.html) 
 - [Home | Mono](http://www.mono-project.com/) 
+- [office-content/b3406fcc-f10b-4075-a18f-116400f35faf.md at master · OfficeDev/office-content](https://github.com/OfficeDev/office-content/blob/master/en-us/OpenXMLCon/articles/b3406fcc-f10b-4075-a18f-116400f35faf.md) 
