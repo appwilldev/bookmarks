@@ -130,3 +130,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 2, 2016
 - [python - How to process SIGTERM signal gracefully? - Stack Overflow](http://stackoverflow.com/questions/18499497/how-to-process-sigterm-signal-gracefully) 
+- [Python 2.7.x 与 Python 3.x 的主要差异 | ShinChan's Blog](http://chenqx.github.io/2014/11/10/Key-differences-between-Python-2-7-x-and-Python-3-x/) 
