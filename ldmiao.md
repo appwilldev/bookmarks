@@ -377,3 +377,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 4, 2016
 - [Intro to Benthos · Jeffail](http://jeffs.eu/post/intro-to-benthos/) 
+- [Jeffail/benthos: A persistent stream buffer](https://github.com/jeffail/benthos) 
