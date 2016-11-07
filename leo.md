@@ -137,3 +137,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 7, 2016
 - [golang 垃圾回收机制 | 水能载舟 亦可赛艇](https://lengzzz.com/note/gc-in-golang) 
+- [bash - Symlinks not working when link is made in another directory? - Stack Overflow](http://stackoverflow.com/questions/8601988/symlinks-not-working-when-link-is-made-in-another-directory) 
