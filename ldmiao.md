@@ -379,3 +379,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Intro to Benthos · Jeffail](http://jeffs.eu/post/intro-to-benthos/) 
 - [Jeffail/benthos: A persistent stream buffer](https://github.com/jeffail/benthos) 
 - [mikaa123/imapmq: IMAP based message broker client](https://github.com/mikaa123/imapmq) 
+
+### November 7, 2016
+- [skelterjohn/pipeline](https://github.com/skelterjohn/pipeline) 
