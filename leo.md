@@ -134,3 +134,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 4, 2016
 - [微信小程序的想象力与不可想象域](http://mp.weixin.qq.com/s?__biz=MjM5ODQwMjA4MA==&mid=2649293661&idx=1&sn=cfa57f34aee709690f70993a3942e8f1&chksm=bed6e21289a16b04806dcdc22065d682deb3cf26719ca3c607ad9e7a4d053b761402abe8a8dd&mpshare=1&scene=23&srcid=1103DztgXFV2gVEl7y76mO7T#rd) 
+
+### November 7, 2016
+- [golang 垃圾回收机制 | 水能载舟 亦可赛艇](https://lengzzz.com/note/gc-in-golang) 
