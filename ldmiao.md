@@ -383,3 +383,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### November 7, 2016
 - [skelterjohn/pipeline](https://github.com/skelterjohn/pipeline) 
 - [LessPass How Does It Works?](https://blog.lesspass.com/lesspass-how-it-works-dde742dd18a4#.x8vx82mpi) 
+
+### November 9, 2016
+- [tmuxp — tmuxp 0.1-dev 文档](http://tmuxp.readthedocs.io/zh_CN/latest/) 
