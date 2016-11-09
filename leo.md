@@ -150,3 +150,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Chinese - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Chinese) 
 - [PostgreSQL 9.4.4 中文手册](http://www.postgres.cn/docs/9.4/index.html) 
 - [How To Set Up Master Slave Replication on PostgreSQL on an Ubuntu 12.04 VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps) 
+- [费良宏 | 程序员的深度学习入门指南](http://mp.weixin.qq.com/s?__biz=MzA4ODMwMDcxMQ==&mid=2650891687&idx=1&sn=5cacb7cc40907c4b3080f95a2f007396&chksm=8bd9886fbcae0179ffb26e77cf448827870827fb24c3b4c6df7889f46ae59955f278eccba19a&mpshare=1&scene=2&srcid=1107xRQnB44aPEpI8Tvtatls&from=timeline&isappinstalled=0#wechat_redirect) 
