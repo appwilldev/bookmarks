@@ -143,3 +143,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [python-docx insertion point - Stack Overflow](http://stackoverflow.com/questions/24965042/python-docx-insertion-point) 
 - [https://groups.google.com/forum/#!topic/python-docx/0sX7DstKgto](https://groups.google.com/forum/#!topic/python-docx/0sX7DstKgto) 
 - [Python爬虫利器三之Xpath语法与lxml库的用法 | 静觅](http://cuiqingcai.com/2621.html) 
+
+### November 9, 2016
+- [Setting up Re:dash instance — Re:dash documentation](http://docs.redash.io/en/latest/setup.html) 
