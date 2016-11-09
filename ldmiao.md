@@ -387,3 +387,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### November 9, 2016
 - [tmuxp — tmuxp 0.1-dev 文档](http://tmuxp.readthedocs.io/zh_CN/latest/) 
 - [cweill/gotests: Generate Go tests from your source code.](https://github.com/cweill/gotests) 
+- [getredash/redash: Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.](https://github.com/getredash/redash/) 
