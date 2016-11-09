@@ -149,3 +149,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [postgres配置主从流复制 - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/p/4499547.html) 
 - [Chinese - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Chinese) 
 - [PostgreSQL 9.4.4 中文手册](http://www.postgres.cn/docs/9.4/index.html) 
+- [How To Set Up Master Slave Replication on PostgreSQL on an Ubuntu 12.04 VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps) 
