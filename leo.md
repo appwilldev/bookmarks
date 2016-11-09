@@ -147,3 +147,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 9, 2016
 - [Setting up Re:dash instance — Re:dash documentation](http://docs.redash.io/en/latest/setup.html) 
 - [postgres配置主从流复制 - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/p/4499547.html) 
+- [Chinese - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Chinese) 
