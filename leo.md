@@ -155,3 +155,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 10, 2016
 - [PostgreSQL基于预写日志的复制 - BYVoid](https://www.byvoid.com/zhs/blog/postgresql-wal-replication) 
 - [[翻译]手把手教你配置流复制 | PostgreSQL DBA](https://dreamer-yzy.github.io/2015/01/24/-%E7%BF%BB%E8%AF%91-%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E9%85%8D%E7%BD%AE%E6%B5%81%E5%A4%8D%E5%88%B6/) 
+- [架构设计基础知识整理 | Jacks Blog](https://blog.dreamtobe.cn/2016/10/25/oo_architecture/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
