@@ -391,3 +391,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 10, 2016
 - [dop251/goja: ECMAScript 5.1(+) implementation written in Go](https://github.com/dop251/goja) 
+
+### November 13, 2016
+- [josephyzhou/github-trending: Tracking the most popular Github repos, updated daily](https://github.com/josephyzhou/github-trending) 
