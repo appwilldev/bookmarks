@@ -394,3 +394,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 13, 2016
 - [josephyzhou/github-trending: Tracking the most popular Github repos, updated daily](https://github.com/josephyzhou/github-trending) 
+
+### November 14, 2016
+- [boppreh/keyboard: Hook and simulate keyboard events on Windows and Linux.](https://github.com/boppreh/keyboard) 
