@@ -162,3 +162,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python高级编程技巧 - 文章 - 伯乐在线](http://blog.jobbole.com/61171/) 
 - [Hidden features of Python - Stack Overflow](http://stackoverflow.com/questions/101268/hidden-features-of-python) 
 - [Python的GIL是什么鬼，多线程性能究竟如何 • cenalulu's Tech Blog](http://cenalulu.github.io/python/gil-in-python/) 
+- [[译] Python 3.5 协程究竟是个啥 - Yu's](http://blog.rainy.im/2016/03/10/how-the-heck-does-async-await-work-in-python-3-5/) 
