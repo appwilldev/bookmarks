@@ -167,3 +167,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 15, 2016
 - [机器学习中的并行计算：GPU、CUDA和实际应用_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1796?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Python GPU编程之入门篇 - 栖迟於一丘](https://www.hongweipeng.com/index.php/archives/236/) 
