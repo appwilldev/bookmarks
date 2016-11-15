@@ -397,3 +397,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 14, 2016
 - [boppreh/keyboard: Hook and simulate keyboard events on Windows and Linux.](https://github.com/boppreh/keyboard) 
+
+### November 15, 2016
+- [nsf/termbox-go: Pure Go termbox implementation](https://github.com/nsf/termbox-go) 
