@@ -171,3 +171,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Linux 查看系统硬件信息(实例详解) - ggjucheng - 博客园](http://www.cnblogs.com/ggjucheng/archive/2013/01/14/2859613.html) 
 - [linux下显卡信息的查看 - marken - 博客频道 - CSDN.NET](http://blog.csdn.net/wind19/article/details/17095541) 
 - [机器之心，专业的人工智能媒体和产业服务平台_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/) 
+- [NGINX缓存使用官方指南-系统运维|Linux.中国-开源社区](https://linux.cn/article-5945-1.html) 
