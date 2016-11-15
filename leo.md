@@ -170,3 +170,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python GPU编程之入门篇 - 栖迟於一丘](https://www.hongweipeng.com/index.php/archives/236/) 
 - [Linux 查看系统硬件信息(实例详解) - ggjucheng - 博客园](http://www.cnblogs.com/ggjucheng/archive/2013/01/14/2859613.html) 
 - [linux下显卡信息的查看 - marken - 博客频道 - CSDN.NET](http://blog.csdn.net/wind19/article/details/17095541) 
+- [机器之心，专业的人工智能媒体和产业服务平台_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/) 
