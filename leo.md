@@ -172,3 +172,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [linux下显卡信息的查看 - marken - 博客频道 - CSDN.NET](http://blog.csdn.net/wind19/article/details/17095541) 
 - [机器之心，专业的人工智能媒体和产业服务平台_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/) 
 - [NGINX缓存使用官方指南-系统运维|Linux.中国-开源社区](https://linux.cn/article-5945-1.html) 
+- [WebSocket的简单介绍及应用 - acgtofe](http://acgtofe.com/posts/2016/03/websocket-how-to) 
