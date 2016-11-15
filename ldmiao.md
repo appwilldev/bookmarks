@@ -400,3 +400,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 15, 2016
 - [nsf/termbox-go: Pure Go termbox implementation](https://github.com/nsf/termbox-go) 
+- [Use and automate letsencrypt certificates (ACME) in an high-availability environment - chr4](https://chr4.org/blog/2016/11/14/use-letsencrypt-acme-in-an-high-availability-environment/) 
