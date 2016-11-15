@@ -164,3 +164,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python的GIL是什么鬼，多线程性能究竟如何 • cenalulu's Tech Blog](http://cenalulu.github.io/python/gil-in-python/) 
 - [[译] Python 3.5 协程究竟是个啥 - Yu's](http://blog.rainy.im/2016/03/10/how-the-heck-does-async-await-work-in-python-3-5/) 
 - [One year later / fuzzy notepad](https://eev.ee/blog/2016/06/12/one-year-later/) 
+
+### November 15, 2016
+- [机器学习中的并行计算：GPU、CUDA和实际应用_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1796?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
