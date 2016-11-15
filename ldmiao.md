@@ -404,3 +404,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [ParhamP/altify: Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption](https://github.com/ParhamP/altify) 
 - [API Tutorial (Task Pane)](https://store.office.com/en-us/app.aspx?assetid=WA104379613&ui=en-US&rs=en-US&ad=US&clickedfilter=OfficeProductFilter%3AWord&productgroup=Word&homprd=Word&sourcecorrid=94b8311d-e649-44b4-9612-98977c6daccb&homappcat=Reference&homapppos=0&homchv=2&appredirect=false#0-2-0) 
 - [Add-ins for Word](https://store.office.com/en-us/appshome.aspx?ui=en-US&rs=en-US&ad=US&clickedfilter=OfficeProductFilter%3aWord&productgroup=Word) 
+- [Platform overview - Docs - Office Dev Center](https://dev.office.com/docs/add-ins/overview/office-add-ins) 
