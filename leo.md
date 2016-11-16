@@ -191,3 +191,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [开源包管理系统和环境管理系统 Conda](http://kuanghy.github.io/2016/03/18/conda) 
 - [Matplotlib 教程 | 始终](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/) 
 - [编写高效且优雅的 Python 代码（1） - Python - 伯乐在线](http://python.jobbole.com/86808/) 
+- [[python]用profile协助程序性能优化 - 赖勇浩的编程私伙局 - 博客频道 - CSDN.NET](http://blog.csdn.net/gzlaiyonghao/article/details/1483728) 
