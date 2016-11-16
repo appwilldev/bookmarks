@@ -185,3 +185,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [开源派 – OSP(Open Source Pie)介绍新奇，有趣，实用的免费开源软硬件，为IT爱好者提供了一个发现、使用、并交流开源技术的平台](http://osp.io/) 
 - [开源派 – OSP(Open Source Pie)介绍新奇，有趣，实用的免费开源软硬件，为IT爱好者提供了一个发现、使用、并交流开源技术的平台](http://osp.io/) 
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/) 
+- [Welcome to Bokeh — Bokeh 0.12.3 documentation](http://bokeh.pydata.org/en/latest/) 
