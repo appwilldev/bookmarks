@@ -183,3 +183,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [牛大拿设计师导航_Niudana.com](http://niudana.com/) 
 - [开源的数据可视化工具 re:dash - 开发者头条](https://toutiao.io/posts/so2jnt/preview) 
 - [开源派 – OSP(Open Source Pie)介绍新奇，有趣，实用的免费开源软硬件，为IT爱好者提供了一个发现、使用、并交流开源技术的平台](http://osp.io/) 
+- [开源派 – OSP(Open Source Pie)介绍新奇，有趣，实用的免费开源软硬件，为IT爱好者提供了一个发现、使用、并交流开源技术的平台](http://osp.io/) 
