@@ -176,3 +176,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [python使用websocket的几种方式 | 惊鸟的技术小站](http://letus.club/2016/04/10/python-websocket/) 
 - [用tornado实现一个简单的websocket样例 - aguncn - 博客园](http://www.cnblogs.com/aguncn/p/5665916.html) 
 - [Tornado Web Server — Tornado 4.3 文档](https://tornado-zh.readthedocs.io/zh/latest/) 
+
+### November 16, 2016
+- [JavaScript 全栈工程师培训教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/11/javascript.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
