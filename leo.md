@@ -189,3 +189,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Plotly | Make charts and dashboards online](https://plot.ly/) 
 - [Python - 伯乐在线](http://python.jobbole.com/) 
 - [开源包管理系统和环境管理系统 Conda](http://kuanghy.github.io/2016/03/18/conda) 
+- [Matplotlib 教程 | 始终](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/) 
