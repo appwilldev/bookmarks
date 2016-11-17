@@ -193,3 +193,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [编写高效且优雅的 Python 代码（1） - Python - 伯乐在线](http://python.jobbole.com/86808/) 
 - [[python]用profile协助程序性能优化 - 赖勇浩的编程私伙局 - 博客频道 - CSDN.NET](http://blog.csdn.net/gzlaiyonghao/article/details/1483728) 
 - [使用cProfile分析Python程序性能 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/analysis-python-application-performance-using-cProfile/) 
+
+### November 17, 2016
+- [技术分享|乱谈Python并发](http://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247484013&idx=1&sn=c4403efdb47bfb7f7d420859ad55debf&chksm=ea8024f8ddf7adeecb0131a67e4415a2a49129faa8f14a363d67babaa91b04399209fed7b30a#rd) 
