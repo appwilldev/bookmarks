@@ -196,3 +196,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 17, 2016
 - [技术分享|乱谈Python并发](http://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247484013&idx=1&sn=c4403efdb47bfb7f7d420859ad55debf&chksm=ea8024f8ddf7adeecb0131a67e4415a2a49129faa8f14a363d67babaa91b04399209fed7b30a#rd) 
+- [Python: 陌生的 metaclass · FunHacks](https://funhacks.net/2016/11/12/metaclass/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
