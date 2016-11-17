@@ -198,3 +198,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [技术分享|乱谈Python并发](http://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247484013&idx=1&sn=c4403efdb47bfb7f7d420859ad55debf&chksm=ea8024f8ddf7adeecb0131a67e4415a2a49129faa8f14a363d67babaa91b04399209fed7b30a#rd) 
 - [Python: 陌生的 metaclass · FunHacks](https://funhacks.net/2016/11/12/metaclass/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [阿里巴巴前架构师 360 度无死角剖析微服务 - OSC源创君的个人空间 - 开源中国社区](https://my.oschina.net/osccreate/blog/785004) 
+- [Flask, Tornado, GEvent, 以及它们的结合的性能比较 - 系统架构 - Python4cn(news, jobs)](http://simple-is-better.com/news/730) 
