@@ -201,3 +201,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Flask, Tornado, GEvent, 以及它们的结合的性能比较 - 系统架构 - Python4cn(news, jobs)](http://simple-is-better.com/news/730) 
 - [greenlet:轻量级的并发编程 - 游响云停 - 51CTO技术博客](http://rangochen.blog.51cto.com/2445286/1410927) 
 - [greenlet:轻量级的并发编程 - 游响云停 - 51CTO技术博客](http://rangochen.blog.51cto.com/2445286/1410927) 
+- [python fabric实现远程操作和部署 - wklken的笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/wklken/article/details/8719541/) 
