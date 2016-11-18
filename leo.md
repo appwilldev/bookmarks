@@ -209,3 +209,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 
 - [ngrep命令_Linux ngrep 命令用法详解：方便的数据包匹配和显示工具](http://man.linuxde.net/ngrep) 
 - [SQLAlchemy参考 - YS.Zou](https://www.zouyesheng.com/sqlalchemy.html) 
+- [Python包管理：pip、easy_install、eggs和wheel - 初来乍到 - 博客频道 - CSDN.NET](http://blog.csdn.net/u010458170/article/details/46438763) 
