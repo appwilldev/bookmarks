@@ -210,3 +210,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [ngrep命令_Linux ngrep 命令用法详解：方便的数据包匹配和显示工具](http://man.linuxde.net/ngrep) 
 - [SQLAlchemy参考 - YS.Zou](https://www.zouyesheng.com/sqlalchemy.html) 
 - [Python包管理：pip、easy_install、eggs和wheel - 初来乍到 - 博客频道 - CSDN.NET](http://blog.csdn.net/u010458170/article/details/46438763) 
+- [PyPIXmlRpc - Python Wiki](https://wiki.python.org/moin/PyPIXmlRpc) 
