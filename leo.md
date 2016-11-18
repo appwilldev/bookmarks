@@ -206,3 +206,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 18, 2016
 - [Treation - 让一切井井有条](https://treation.com/) 
 - [PhantomJS & NodeJS 在京东网站前端监控平台的最佳实践 - FE-player - 知乎专栏](https://zhuanlan.zhihu.com/p/22271290?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 
