@@ -211,3 +211,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [SQLAlchemy参考 - YS.Zou](https://www.zouyesheng.com/sqlalchemy.html) 
 - [Python包管理：pip、easy_install、eggs和wheel - 初来乍到 - 博客频道 - CSDN.NET](http://blog.csdn.net/u010458170/article/details/46438763) 
 - [PyPIXmlRpc - Python Wiki](https://wiki.python.org/moin/PyPIXmlRpc) 
+- [将自己写的Python代码打包放到PyPI上](http://blog.useasp.net/archive/2014/09/09/packaging-python-libraries-and-upload-to-pypi-python-package-index.aspx) 
