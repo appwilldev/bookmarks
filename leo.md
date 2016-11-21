@@ -218,3 +218,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [人工智能之机器学习常见算法 - 博客频道 - CSDN.NET](http://blog.csdn.net/baihuaxiu123/article/details/51475384) 
 - [DeepMind背后的人工智能：深度学习原理初探](http://www.infoq.com/cn/news/2014/10/deepmind) 
 - [DeepMind背后的人工智能：深度学习原理初探](http://www.infoq.com/cn/news/2014/10/deepmind) 
+- [Python之美[从菜鸟到高手]--玩转描述符和属性 - Skycrab - 博客频道 - CSDN.NET](http://blog.csdn.net/yueguanghaidao/article/details/10291147) 
