@@ -212,3 +212,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python包管理：pip、easy_install、eggs和wheel - 初来乍到 - 博客频道 - CSDN.NET](http://blog.csdn.net/u010458170/article/details/46438763) 
 - [PyPIXmlRpc - Python Wiki](https://wiki.python.org/moin/PyPIXmlRpc) 
 - [将自己写的Python代码打包放到PyPI上](http://blog.useasp.net/archive/2014/09/09/packaging-python-libraries-and-upload-to-pypi-python-package-index.aspx) 
+
+### November 21, 2016
+- [听说你会 Python ？ | Manjusaka](http://manjusaka.itscoder.com/2016/11/18/Someone-tell-me-that-you-think-Python-is-simple/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
