@@ -417,3 +417,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 21, 2016
 - [gen2brain/url2img: HTTP server with API for capturing screenshots of websites](https://github.com/gen2brain/url2img) 
+
+### November 22, 2016
+- [kalliope-project/kalliope: Kalliope is a modular always-on voice controlled personal assistant designed for home automation.](https://github.com/kalliope-project/kalliope) 
