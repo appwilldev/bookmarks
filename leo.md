@@ -233,3 +233,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [scikit-learn: machine learning in Python — scikit-learn 0.18.1 documentation](http://scikit-learn.org/stable/) 
 - [使用cProfile分析Python程序性能 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/analysis-python-application-performance-using-cProfile/) 
 - [检测Python程序执行效率及内存和CPU使用的7种方法 - Python - 伯乐在线](http://python.jobbole.com/80754/) 
+- [5.2 代码回滚：Reset、Checkout、Revert的选择 · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki/5.2-%E4%BB%A3%E7%A0%81%E5%9B%9E%E6%BB%9A%EF%BC%9AReset%E3%80%81Checkout%E3%80%81Revert%E7%9A%84%E9%80%89%E6%8B%A9) 
