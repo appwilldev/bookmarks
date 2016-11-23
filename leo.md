@@ -226,3 +226,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [如何避开 Go 中的各种陷阱 [译] · newton.log](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [13. Python Realtime — 一起写Python文章，一起看Python文章](http://pyzh.readthedocs.io/en/latest/python-realtime.html) 
 - [循环神经网络(RNN, Recurrent Neural Networks)介绍 - 我和我追逐的梦~~~ - 博客频道 - CSDN.NET](http://blog.csdn.net/heyongluoyao8/article/details/48636251) 
+
+### November 23, 2016
+- [你可能不知道的Python用法 - 简书](http://www.jianshu.com/p/101ee742475e) 
