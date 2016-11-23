@@ -238,3 +238,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [互联网已经老了，这个行业还是早上七八点的太阳 - 君临投资观察 - 知乎专栏](https://zhuanlan.zhihu.com/p/23880788) 
 - [如何像Python高手(Pythonista)一样编程 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/) 
 - [[转] 为什么有这么多Python? - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/why-are-there-so-many-pythons/) 
+- [Python状况：为什么PyPy是Python的未来？ - 文章 - 伯乐在线](http://blog.jobbole.com/39757/) 
