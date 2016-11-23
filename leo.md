@@ -239,3 +239,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [如何像Python高手(Pythonista)一样编程 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/) 
 - [[转] 为什么有这么多Python? - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/why-are-there-so-many-pythons/) 
 - [Python状况：为什么PyPy是Python的未来？ - 文章 - 伯乐在线](http://blog.jobbole.com/39757/) 
+- [Python 性能分析入门指南 | IT瘾](http://itindex.net/detail/50507-python-%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90) 
