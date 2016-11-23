@@ -234,3 +234,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用cProfile分析Python程序性能 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/analysis-python-application-performance-using-cProfile/) 
 - [检测Python程序执行效率及内存和CPU使用的7种方法 - Python - 伯乐在线](http://python.jobbole.com/80754/) 
 - [5.2 代码回滚：Reset、Checkout、Revert的选择 · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki/5.2-%E4%BB%A3%E7%A0%81%E5%9B%9E%E6%BB%9A%EF%BC%9AReset%E3%80%81Checkout%E3%80%81Revert%E7%9A%84%E9%80%89%E6%8B%A9) 
+- [97.5%准确率的深度学习中文分词（字嵌入+Bi-LSTM+CRF）](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=2649966433&idx=1&sn=be6c0e5485003d6f33804261df7c3ecf&chksm=beca376789bdbe71ef28c509776132d96e7e662be0adf0460cfd9963ad782b32d2d5787ff499&mpshare=1&scene=2&srcid=1122cZnCbEKZCCzf9LOSAyZ6&from=timeline&key=&ascene=2&uin=&devicetype=android-19&version=26031f30&nettype=WIFI) 
