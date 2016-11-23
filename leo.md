@@ -237,3 +237,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [97.5%准确率的深度学习中文分词（字嵌入+Bi-LSTM+CRF）](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=2649966433&idx=1&sn=be6c0e5485003d6f33804261df7c3ecf&chksm=beca376789bdbe71ef28c509776132d96e7e662be0adf0460cfd9963ad782b32d2d5787ff499&mpshare=1&scene=2&srcid=1122cZnCbEKZCCzf9LOSAyZ6&from=timeline&key=&ascene=2&uin=&devicetype=android-19&version=26031f30&nettype=WIFI) 
 - [互联网已经老了，这个行业还是早上七八点的太阳 - 君临投资观察 - 知乎专栏](https://zhuanlan.zhihu.com/p/23880788) 
 - [如何像Python高手(Pythonista)一样编程 - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/) 
+- [[转] 为什么有这么多Python? - 降龙 | 记录生活与工作的点滴，分享旅行与技术的乐趣。](http://xianglong.me/article/why-are-there-so-many-pythons/) 
