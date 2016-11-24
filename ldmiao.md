@@ -420,3 +420,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 22, 2016
 - [kalliope-project/kalliope: Kalliope is a modular always-on voice controlled personal assistant designed for home automation.](https://github.com/kalliope-project/kalliope) 
+
+### November 24, 2016
+- [phillipi/pix2pix: Image-to-image translation using conditional adversarial nets](https://github.com/phillipi/pix2pix) 
