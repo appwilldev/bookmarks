@@ -247,3 +247,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [想了解自己的性格？用人工智能分析社交网络行为可能比星座更靠谱 | 爱范儿](http://www.ifanr.com/602134) 
 - [使用镜像解决Python pip安装软件包失败 | 扩软博客](https://blog.kuoruan.com/74.html) 
 - [pypy / pypy / wiki / JitFriendliness — Bitbucket](https://bitbucket.org/pypy/pypy/wiki/JitFriendliness) 
+- [淘宝 NPM 镜像](https://npm.taobao.org/) 
