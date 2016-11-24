@@ -245,3 +245,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 24, 2016
 - [Python性能优化的20条建议 - 开元 - SegmentFault](https://segmentfault.com/a/1190000000666603) 
 - [想了解自己的性格？用人工智能分析社交网络行为可能比星座更靠谱 | 爱范儿](http://www.ifanr.com/602134) 
+- [使用镜像解决Python pip安装软件包失败 | 扩软博客](https://blog.kuoruan.com/74.html) 
