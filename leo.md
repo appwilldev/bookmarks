@@ -252,3 +252,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 25, 2016
 - [HowTo: Install LAPACK and BLAS on Mac OS | pheiter](https://pheiter.wordpress.com/2012/09/04/howto-installing-lapack-and-blas-on-mac-os/) 
 - [在PostgreSQL ， 你如何创建一个只读用户_How do you create a read-only user in PostgreSQL_postgresql_帮酷问答](http://qa.helplib.com/163304) 
+- [Base Configuration — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/config.html) 
