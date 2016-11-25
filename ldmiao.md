@@ -423,3 +423,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 24, 2016
 - [phillipi/pix2pix: Image-to-image translation using conditional adversarial nets](https://github.com/phillipi/pix2pix) 
+
+### November 26, 2016
+- [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/#hn) 
