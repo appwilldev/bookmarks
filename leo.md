@@ -248,3 +248,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用镜像解决Python pip安装软件包失败 | 扩软博客](https://blog.kuoruan.com/74.html) 
 - [pypy / pypy / wiki / JitFriendliness — Bitbucket](https://bitbucket.org/pypy/pypy/wiki/JitFriendliness) 
 - [淘宝 NPM 镜像](https://npm.taobao.org/) 
+
+### November 25, 2016
+- [HowTo: Install LAPACK and BLAS on Mac OS | pheiter](https://pheiter.wordpress.com/2012/09/04/howto-installing-lapack-and-blas-on-mac-os/) 
