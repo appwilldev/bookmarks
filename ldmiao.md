@@ -428,3 +428,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/#hn) 
 - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 
 - [siscia/rediSQL](https://github.com/siscia/rediSQL) 
+- [koth/kcws: Deep Learning Chinese Word Segment](https://github.com/koth/kcws) 
