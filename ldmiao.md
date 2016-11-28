@@ -432,3 +432,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### November 28, 2016
 - [Regex Hub - Useful Regex Patterns](https://projects.lukehaas.me/regexhub/) 
+- [](http://www.sse.com.cn/disclosure/bond/announcement/bookentry/) 
