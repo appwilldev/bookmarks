@@ -263,3 +263,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [运行和部署 — Tornado 文档](http://tornado-zh-cn.readthedocs.io/zh_CN/latest/guide/running.html) 
 - [Tornado logging: "No handlers could be found for logger "tornado.application" - Stack Overflow](http://stackoverflow.com/questions/32656076/tornado-logging-no-handlers-could-be-found-for-logger-tornado-application) 
 - [异步和非阻塞I/O — Tornado 4.3 文档](http://tornado-zh.readthedocs.io/zh/latest/guide/async.html) 
+- [Tornado异步笔记（一）--- 异步任务 - 简书](http://www.jianshu.com/p/31fae7dd05ba) 
