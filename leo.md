@@ -259,3 +259,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [程序员的书籍资源 - IT干货分享 - 知乎专栏](https://zhuanlan.zhihu.com/p/23857699?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [pythondocument/Python Weekly Issue 271.md at master · ictar/pythondocument](https://github.com/ictar/pythondocument/blob/master/Python%20Weekly/Python%20Weekly%20Issue%20271.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [How to get superior text processing in Python with Pynini - O'Reilly Media](https://www.oreilly.com/ideas/how-to-get-superior-text-processing-in-python-with-pynini) 
+- [操作系统内存配置overcommit_memory - SQL Server Deep Dive - 51CTO技术博客](http://ultrasql.blog.51cto.com/9591438/1659717/) 
