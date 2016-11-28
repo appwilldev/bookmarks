@@ -429,3 +429,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 
 - [siscia/rediSQL](https://github.com/siscia/rediSQL) 
 - [koth/kcws: Deep Learning Chinese Word Segment](https://github.com/koth/kcws) 
+
+### November 28, 2016
+- [Regex Hub - Useful Regex Patterns](https://projects.lukehaas.me/regexhub/) 
