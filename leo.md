@@ -257,3 +257,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 28, 2016
 - [Mac 软件推荐续(!程序猿篇)](http://www.tanglei.name/blog/app-in-mac-for-common.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [程序员的书籍资源 - IT干货分享 - 知乎专栏](https://zhuanlan.zhihu.com/p/23857699?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [pythondocument/Python Weekly Issue 271.md at master · ictar/pythondocument](https://github.com/ictar/pythondocument/blob/master/Python%20Weekly/Python%20Weekly%20Issue%20271.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
