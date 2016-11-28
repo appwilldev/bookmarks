@@ -266,3 +266,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Tornado异步笔记（一）--- 异步任务 - 简书](http://www.jianshu.com/p/31fae7dd05ba) 
 - [Tornado与线程池 | AsyncWay](http://cyrusin.github.io/2016/04/07/tornado-threadpool-20160407/) 
 - [Tornado异步与延迟任务 - 简书](http://www.jianshu.com/p/3d20a092588d) 
+- [Tornado异步与延迟任务 - 简书](http://www.jianshu.com/p/3d20a092588d) 
