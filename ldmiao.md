@@ -434,3 +434,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Regex Hub - Useful Regex Patterns](https://projects.lukehaas.me/regexhub/) 
 - [](http://www.sse.com.cn/disclosure/bond/announcement/bookentry/) 
 - [文电通│首屈一指的PDF专家，企业级PDF解决方案的首选 - 概览](http://www.gaaiho.cn/index.php/zh-cn/products/conversion/pdf-driver/overview) 
+- [pdf转word - PDF宝](http://www.pdfbao.com/pdf2word.html) 
