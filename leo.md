@@ -267,3 +267,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Tornado与线程池 | AsyncWay](http://cyrusin.github.io/2016/04/07/tornado-threadpool-20160407/) 
 - [Tornado异步与延迟任务 - 简书](http://www.jianshu.com/p/3d20a092588d) 
 - [Tornado异步与延迟任务 - 简书](http://www.jianshu.com/p/3d20a092588d) 
+- [使用Tornado进行异步编程 | Amyangfei's Blog](http://amyangfei.me/2013/06/17/asynchronous-programming-with-tornado/) 
