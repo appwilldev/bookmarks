@@ -275,3 +275,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用 supervisor 管理进程 - 李林克斯](http://liyangliang.me/posts/2015/06/using-supervisor/) 
 - [supervisor(一)基础篇 - 小城运维 - 51CTO技术博客](http://lixcto.blog.51cto.com/4834175/1539136) 
 - [Tornado + Supervisord + Nginx 配置](http://gracece.com/2014/03/Tornado-supervisor+nginx/) 
+- [Running Supervisor — Supervisor 3.3.1 documentation](http://supervisord.org/running.html) 
