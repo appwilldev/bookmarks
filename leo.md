@@ -273,3 +273,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 29, 2016
 - [部署项目Nginx+Tornado+Supervisor - 简书](http://www.jianshu.com/p/9bebb99368ea) 
 - [使用 supervisor 管理进程 - 李林克斯](http://liyangliang.me/posts/2015/06/using-supervisor/) 
+- [supervisor(一)基础篇 - 小城运维 - 51CTO技术博客](http://lixcto.blog.51cto.com/4834175/1539136) 
