@@ -283,3 +283,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Is there a WebSocket client implemented for python? - Stack Overflow](http://stackoverflow.com/questions/3142705/is-there-a-websocket-client-implemented-for-python) 
 - [Python-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html) 
 - [Python-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html) 
+- [Changing default encoding of Python? - Stack Overflow](http://stackoverflow.com/questions/2276200/changing-default-encoding-of-python) 
