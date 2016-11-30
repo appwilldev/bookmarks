@@ -439,3 +439,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 1, 2016
 - [Polly – Text to Speech in 47 Voices and 24 Languages | AWS Blog](https://aws.amazon.com/blogs/aws/polly-text-to-speech-in-47-voices-and-24-languages/) 
+- [monterail/vuelidate: Simple, lightweight model-based validation for Vue.js](https://github.com/monterail/vuelidate) 
