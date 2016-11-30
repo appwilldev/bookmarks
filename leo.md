@@ -281,3 +281,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [2016年Web框架性能基准 | 鸟窝](http://colobu.com/2016/11/28/techempower-benchmarks-round13/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [快速上手 — Requests 2.10.0 文档](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html) 
 - [Is there a WebSocket client implemented for python? - Stack Overflow](http://stackoverflow.com/questions/3142705/is-there-a-websocket-client-implemented-for-python) 
+- [Python-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html) 
