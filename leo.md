@@ -286,3 +286,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Changing default encoding of Python? - Stack Overflow](http://stackoverflow.com/questions/2276200/changing-default-encoding-of-python) 
 - [立即停止使用 setdefaultencoding('utf-8')， 以及为什么](http://blog.ernest.me/post/python-setdefaultencoding-unicode-bytes) 
 - [Python 编码 - feesland - 博客园](http://www.cnblogs.com/feeland/p/4448812.html) 
+- [VIM 文件编码识别与乱码处理](http://edyfox.codecarver.org/html/vim_fileencodings_detection.html) 
