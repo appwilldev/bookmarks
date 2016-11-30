@@ -276,3 +276,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [supervisor(一)基础篇 - 小城运维 - 51CTO技术博客](http://lixcto.blog.51cto.com/4834175/1539136) 
 - [Tornado + Supervisord + Nginx 配置](http://gracece.com/2014/03/Tornado-supervisor+nginx/) 
 - [Running Supervisor — Supervisor 3.3.1 documentation](http://supervisord.org/running.html) 
+
+### November 30, 2016
+- [2016年Web框架性能基准 | 鸟窝](http://colobu.com/2016/11/28/techempower-benchmarks-round13/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
