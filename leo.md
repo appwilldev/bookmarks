@@ -299,3 +299,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用sphinx记笔记 — sdut-jwch 0.1 documentation](http://jwch.sdut.edu.cn/book/tool/UseSphinx.html) 
 - [Sphinx 文档目录 — Sphinx 使用手册](http://zh-sphinx-doc.readthedocs.io/en/latest/contents.html) 
 - [用sphinx生成python文档 | Bond Lee](http://bondlee.github.io/2016/04/24/%E7%94%A8sphinx%E7%94%9F%E6%88%90python%E6%96%87%E6%A1%A3/) 
+- [使用 Keras 实现简单的 Sequence to Sequence 模型 · ZMonster's Blog](http://www.zmonster.me/2016/05/29/sequence_to_sequence_with_keras.html) 
