@@ -287,3 +287,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [立即停止使用 setdefaultencoding('utf-8')， 以及为什么](http://blog.ernest.me/post/python-setdefaultencoding-unicode-bytes) 
 - [Python 编码 - feesland - 博客园](http://www.cnblogs.com/feeland/p/4448812.html) 
 - [VIM 文件编码识别与乱码处理](http://edyfox.codecarver.org/html/vim_fileencodings_detection.html) 
+
+### December 1, 2016
+- [也谈 Python 的中文编码处理 - in355hz - ITeye技术网站](http://in355hz.iteye.com/blog/1860787) 
