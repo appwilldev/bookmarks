@@ -290,3 +290,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 1, 2016
 - [也谈 Python 的中文编码处理 - in355hz - ITeye技术网站](http://in355hz.iteye.com/blog/1860787) 
+- [字符编码笔记：ASCII，Unicode和UTF-8 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html) 
