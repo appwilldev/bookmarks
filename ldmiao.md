@@ -441,3 +441,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Polly – Text to Speech in 47 Voices and 24 Languages | AWS Blog](https://aws.amazon.com/blogs/aws/polly-text-to-speech-in-47-voices-and-24-languages/) 
 - [monterail/vuelidate: Simple, lightweight model-based validation for Vue.js](https://github.com/monterail/vuelidate) 
 - [Amazon Rekognition – Image Detection and Recognition Powered by Deep Learning | AWS Blog](https://aws.amazon.com/blogs/aws/amazon-rekognition-image-detection-and-recognition-powered-by-deep-learning/) 
+- [Amazon Lex – Build Conversational Voice & Text Interfaces | AWS Blog](https://aws.amazon.com/blogs/aws/amazon-lex-build-conversational-voice-text-interfaces/) 
