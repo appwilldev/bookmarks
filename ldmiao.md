@@ -446,3 +446,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### December 2, 2016
 - [实用的开源百度云分享爬虫项目yunshare - 安装篇 - 蓝猫的博客 - 分享前端开发经验和教程](https://lanmaowz.com/opensource-baidu-share-1/) 
 - [Deep Learning : What, Why and Applications - AIeHive.com](http://aiehive.com/deep-learning-applications/) 
+- [tera/readme-cn.md at master · baidu/tera](https://github.com/baidu/tera/blob/master/readme-cn.md) 
