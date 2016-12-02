@@ -442,3 +442,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [monterail/vuelidate: Simple, lightweight model-based validation for Vue.js](https://github.com/monterail/vuelidate) 
 - [Amazon Rekognition – Image Detection and Recognition Powered by Deep Learning | AWS Blog](https://aws.amazon.com/blogs/aws/amazon-rekognition-image-detection-and-recognition-powered-by-deep-learning/) 
 - [Amazon Lex – Build Conversational Voice & Text Interfaces | AWS Blog](https://aws.amazon.com/blogs/aws/amazon-lex-build-conversational-voice-text-interfaces/) 
+
+### December 2, 2016
+- [实用的开源百度云分享爬虫项目yunshare - 安装篇 - 蓝猫的博客 - 分享前端开发经验和教程](https://lanmaowz.com/opensource-baidu-share-1/) 
