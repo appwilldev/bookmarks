@@ -301,3 +301,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [用sphinx生成python文档 | Bond Lee](http://bondlee.github.io/2016/04/24/%E7%94%A8sphinx%E7%94%9F%E6%88%90python%E6%96%87%E6%A1%A3/) 
 - [使用 Keras 实现简单的 Sequence to Sequence 模型 · ZMonster's Blog](http://www.zmonster.me/2016/05/29/sequence_to_sequence_with_keras.html) 
 - [Capture and report JavaScript errors with window.onerror](https://blog.sentry.io/2016/01/04/client-javascript-reporting-window-onerror.html) 
+
+### December 2, 2016
+- [python中如何用sys.excepthook来对全局异常进行捕获、显示及输出到error日志中 - |残阳|露 - 博客园](http://www.cnblogs.com/ankier/p/3263871.html) 
