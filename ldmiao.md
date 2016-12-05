@@ -451,3 +451,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### December 5, 2016
 - [gitql/gitql: SQL interface to Git repositories, written in Go.](https://github.com/gitql/gitql) 
 - [simeji/jid: json incremental digger](https://github.com/simeji/jid) 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
