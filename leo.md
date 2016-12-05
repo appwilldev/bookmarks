@@ -306,3 +306,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [python中如何用sys.excepthook来对全局异常进行捕获、显示及输出到error日志中 - |残阳|露 - 博客园](http://www.cnblogs.com/ankier/p/3263871.html) 
 - [如何用 Python 提高效率 - facert的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/24097377?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Python中的logging模块 - Python - 伯乐在线](http://python.jobbole.com/86887/) 
+
+### December 5, 2016
+- [Python最差实践 | 一根笨茄子](http://blog.guoyb.com/2016/12/03/bad-py-style/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
