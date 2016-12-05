@@ -315,3 +315,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python描述符（descriptor）解密 - 极客范 - GeekFan.net](http://www.geekfan.net/7862/) 
 - [深度学习笔记（六）：RNN与LSTM模型入门理解 - 程序园](http://www.voidcn.com/blog/dream_catcher_10/article/p-2421992.html) 
 - [[译] 理解 LSTM 网络 - 简书](http://www.jianshu.com/p/9dc9f41f0b29) 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
