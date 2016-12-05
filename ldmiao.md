@@ -456,3 +456,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Performance Calendar » HTTP/2 Push: The details](http://calendar.perfplanet.com/2016/http2-push-the-details/) 
 - [wellsjo/JSON-Splora: GUI for editing, visualizing, and manipulating JSON data](https://github.com/wellsjo/JSON-Splora) 
 - [OctoLinker/browser-extension: OctoLinker – Available on Chrome, Firefox and Opera](https://github.com/OctoLinker/browser-extension) 
+- [zeit/hyper: A terminal built on web technologies](https://github.com/zeit/hyper) 
