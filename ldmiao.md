@@ -453,3 +453,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [simeji/jid: json incremental digger](https://github.com/simeji/jid) 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+- [Performance Calendar » HTTP/2 Push: The details](http://calendar.perfplanet.com/2016/http2-push-the-details/) 
