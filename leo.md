@@ -316,3 +316,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [深度学习笔记（六）：RNN与LSTM模型入门理解 - 程序园](http://www.voidcn.com/blog/dream_catcher_10/article/p-2421992.html) 
 - [[译] 理解 LSTM 网络 - 简书](http://www.jianshu.com/p/9dc9f41f0b29) 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
+- [Learning RNN from scratch (ＲＮＮ神经网络参数推导) - Work Hard, Play Harder! - 博客频道 - CSDN.NET](http://blog.csdn.net/watkinsong/article/details/51773524) 
