@@ -318,3 +318,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 - [Learning RNN from scratch (ＲＮＮ神经网络参数推导) - Work Hard, Play Harder! - 博客频道 - CSDN.NET](http://blog.csdn.net/watkinsong/article/details/51773524) 
 - [Learning RNN from scratch (ＲＮＮ神经网络参数推导) - Work Hard, Play Harder! - 博客频道 - CSDN.NET](http://blog.csdn.net/watkinsong/article/details/51773524) 
+- [深入探究递归神经网络：大牛级的训练和优化如何修成？-CSDN.NET](http://www.csdn.net/article/2015-01-28/2823747) 
