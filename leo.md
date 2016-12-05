@@ -324,3 +324,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [递归神经网络的不可思议的有效性 - YaoyaoLiu - 博客园](http://www.cnblogs.com/yaoyaoliu/p/5860525.html) 
 - [ConvNetJS demo: Classify toy 2D data](http://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html) 
 - [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14829&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
+- [Google发布机器学习平台Tensorflow游乐场～带你玩神经网络 - 商业智能-炼数成金-Dataguru专业数据分析社区](http://f.dataguru.cn/article-9324-1.html) 
