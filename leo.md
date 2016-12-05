@@ -323,3 +323,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
 - [递归神经网络的不可思议的有效性 - YaoyaoLiu - 博客园](http://www.cnblogs.com/yaoyaoliu/p/5860525.html) 
 - [ConvNetJS demo: Classify toy 2D data](http://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html) 
+- [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14829&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
