@@ -320,3 +320,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Learning RNN from scratch (ＲＮＮ神经网络参数推导) - Work Hard, Play Harder! - 博客频道 - CSDN.NET](http://blog.csdn.net/watkinsong/article/details/51773524) 
 - [深入探究递归神经网络：大牛级的训练和优化如何修成？-CSDN.NET](http://www.csdn.net/article/2015-01-28/2823747) 
 - [数盟-大数据|数据科学|数据分析|机器学习|深度学习|数据挖掘|数据可视化](http://dataunion.org/) 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) 
