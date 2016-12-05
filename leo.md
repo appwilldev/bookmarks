@@ -314,3 +314,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [python中__get__,__getattr__,__getattribute__的区别 - MWI - ITeye技术网站](http://luozhaoyu.iteye.com/blog/1506426) 
 - [Python描述符（descriptor）解密 - 极客范 - GeekFan.net](http://www.geekfan.net/7862/) 
 - [深度学习笔记（六）：RNN与LSTM模型入门理解 - 程序园](http://www.voidcn.com/blog/dream_catcher_10/article/p-2421992.html) 
+- [[译] 理解 LSTM 网络 - 简书](http://www.jianshu.com/p/9dc9f41f0b29) 
