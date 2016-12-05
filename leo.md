@@ -312,3 +312,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Number plate recognition with Tensorflow - Matt's ramblings](http://matthewearl.github.io/2016/05/06/cnn-anpr/) 
 - [深度学习笔记（七）：RNN模型 - 程序园](http://www.voidcn.com/blog/dream_catcher_10/article/p-2421994.html) 
 - [python中__get__,__getattr__,__getattribute__的区别 - MWI - ITeye技术网站](http://luozhaoyu.iteye.com/blog/1506426) 
+- [Python描述符（descriptor）解密 - 极客范 - GeekFan.net](http://www.geekfan.net/7862/) 
