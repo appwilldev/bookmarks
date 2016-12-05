@@ -309,3 +309,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 5, 2016
 - [Python最差实践 | 一根笨茄子](http://blog.guoyb.com/2016/12/03/bad-py-style/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Number plate recognition with Tensorflow - Matt's ramblings](http://matthewearl.github.io/2016/05/06/cnn-anpr/) 
