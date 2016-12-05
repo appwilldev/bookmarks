@@ -311,3 +311,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python最差实践 | 一根笨茄子](http://blog.guoyb.com/2016/12/03/bad-py-style/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Number plate recognition with Tensorflow - Matt's ramblings](http://matthewearl.github.io/2016/05/06/cnn-anpr/) 
 - [深度学习笔记（七）：RNN模型 - 程序园](http://www.voidcn.com/blog/dream_catcher_10/article/p-2421994.html) 
+- [python中__get__,__getattr__,__getattribute__的区别 - MWI - ITeye技术网站](http://luozhaoyu.iteye.com/blog/1506426) 
