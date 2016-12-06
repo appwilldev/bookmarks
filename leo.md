@@ -330,3 +330,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [区块链的那些事，你知道和不知道的都在这里！-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65264?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [RNN以及LSTM的介绍和公式梳理 - DarkScope从这里开始 - 博客频道 - CSDN.NET](http://blog.csdn.net/dark_scope/article/details/47056361) 
 - [单服务器node.js和php性能测试 - CNode技术社区](https://cnodejs.org/topic/4f16442ccae1f4aa2700109d) 
+- [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目-CSDN.NET](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects) 
