@@ -325,3 +325,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [ConvNetJS demo: Classify toy 2D data](http://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html) 
 - [A Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.14829&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
 - [Google发布机器学习平台Tensorflow游乐场～带你玩神经网络 - 商业智能-炼数成金-Dataguru专业数据分析社区](http://f.dataguru.cn/article-9324-1.html) 
+
+### December 6, 2016
+- [区块链的那些事，你知道和不知道的都在这里！-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65264?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
