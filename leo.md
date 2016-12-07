@@ -342,3 +342,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Celery的实践指南 - fandyst - 博客园](http://www.cnblogs.com/ToDoToTry/p/5453149.html) 
 - [celery有什么难理解的? | Leo Shang 的 BLOG](http://shangliuyan.github.io/2015/07/04/celery%E6%9C%89%E4%BB%80%E4%B9%88%E9%9A%BE%E7%90%86%E8%A7%A3%E7%9A%84/) 
 - [定时任务管理之python篇celery使用 - - ITeye技术网站](http://student-lp.iteye.com/blog/2093397) 
+- [淘宝 NPM 镜像](https://npm.taobao.org/) 
