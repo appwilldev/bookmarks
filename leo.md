@@ -338,3 +338,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Homepage | Celery: Distributed Task Queue](http://www.celeryproject.org/) 
 - [RQ: Simple job queues for Python](http://python-rq.org/) 
 - [使用celery之了解celery | 小明明s à domicile | Python之美](http://www.dongwm.com/archives/shi-yong-celeryzhi-liao-jie-celery/) 
+- [异步任务神器 Celery 简明笔记 - 简书](http://www.jianshu.com/p/1840035cb510) 
