@@ -340,3 +340,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用celery之了解celery | 小明明s à domicile | Python之美](http://www.dongwm.com/archives/shi-yong-celeryzhi-liao-jie-celery/) 
 - [异步任务神器 Celery 简明笔记 - 简书](http://www.jianshu.com/p/1840035cb510) 
 - [Celery的实践指南 - fandyst - 博客园](http://www.cnblogs.com/ToDoToTry/p/5453149.html) 
+- [celery有什么难理解的? | Leo Shang 的 BLOG](http://shangliuyan.github.io/2015/07/04/celery%E6%9C%89%E4%BB%80%E4%B9%88%E9%9A%BE%E7%90%86%E8%A7%A3%E7%9A%84/) 
