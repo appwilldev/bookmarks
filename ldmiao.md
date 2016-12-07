@@ -462,3 +462,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [llSourcell/tensorflow_chatbot: Tensorflow chatbot demo by @Sirajology on Youtube](https://github.com/llSourcell/tensorflow_chatbot) 
 - [firehol/netdata: Real-time performance monitoring, done right!](https://github.com/firehol/netdata) 
 - [iView介绍 - iView](https://www.iviewui.com/docs/guide/introduce) 
+
+### December 7, 2016
+- [OpenResty Con 2016](http://con.openresty.org/cn/2016/) 
