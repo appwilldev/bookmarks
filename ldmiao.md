@@ -465,3 +465,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 7, 2016
 - [OpenResty Con 2016](http://con.openresty.org/cn/2016/) 
+
+### December 8, 2016
+- [rtsao/styletron: Universal, high-performance JavaScript styles](https://github.com/rtsao/styletron) 
