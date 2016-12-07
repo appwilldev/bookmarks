@@ -335,3 +335,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### December 7, 2016
 - [我终于弄懂了各种前端build工具 - WEB前端 - 伯乐在线](http://web.jobbole.com/89279/) 
 - [Celery 使用简介 – Jason's blog](http://liuzxc.github.io/blog/celery/) 
+- [Homepage | Celery: Distributed Task Queue](http://www.celeryproject.org/) 
