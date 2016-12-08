@@ -356,3 +356,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [自动化工具——ansible中文指南 | the5fire的技术博客](https://www.the5fire.com/ansible-guide-cn.html) 
 - [Ansible is Simple IT Automation](https://www.ansible.com/) 
 - [什么是Ansible · Ansible入门](https://ansible-book.gitbooks.io/ansible-first-book/content/) 
+- [ansible 基础模块介绍 - 简书](http://www.jianshu.com/p/b9956ea83a78) 
