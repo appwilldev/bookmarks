@@ -347,3 +347,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 8, 2016
 - [20 天持续压测，告诉你云存储性能哪家强 - V2EX](https://www.v2ex.com/t/326038#reply7) 
+- [Introduction · A layman's guide to Vim](https://hanaasagi.gitbooks.io/vim/content/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
