@@ -349,3 +349,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [20 天持续压测，告诉你云存储性能哪家强 - V2EX](https://www.v2ex.com/t/326038#reply7) 
 - [Introduction · A layman's guide to Vim](https://hanaasagi.gitbooks.io/vim/content/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Yhat: End-to-End Data Science Platform](https://www.yhat.com/products/rodeo/) 
+- [python - vim ultisnips 如何配置，安装后发现不能正常补全。 - SegmentFault](https://segmentfault.com/q/1010000000610373) 
