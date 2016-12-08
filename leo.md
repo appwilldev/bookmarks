@@ -351,3 +351,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Yhat: End-to-End Data Science Platform](https://www.yhat.com/products/rodeo/) 
 - [python - vim ultisnips 如何配置，安装后发现不能正常补全。 - SegmentFault](https://segmentfault.com/q/1010000000610373) 
 - [Vim Awesome](http://vimawesome.com/) 
+- [NERDTree插件（vim笔记三） - 简书](http://www.jianshu.com/p/eXMxGx) 
