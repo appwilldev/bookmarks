@@ -350,3 +350,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Introduction · A layman's guide to Vim](https://hanaasagi.gitbooks.io/vim/content/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Yhat: End-to-End Data Science Platform](https://www.yhat.com/products/rodeo/) 
 - [python - vim ultisnips 如何配置，安装后发现不能正常补全。 - SegmentFault](https://segmentfault.com/q/1010000000610373) 
+- [Vim Awesome](http://vimawesome.com/) 
