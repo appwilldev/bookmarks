@@ -344,3 +344,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [定时任务管理之python篇celery使用 - - ITeye技术网站](http://student-lp.iteye.com/blog/2093397) 
 - [淘宝 NPM 镜像](https://npm.taobao.org/) 
 - [债有主](http://localhost:8070/#/search) 
+
+### December 8, 2016
+- [20 天持续压测，告诉你云存储性能哪家强 - V2EX](https://www.v2ex.com/t/326038#reply7) 
