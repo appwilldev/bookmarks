@@ -357,3 +357,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Ansible is Simple IT Automation](https://www.ansible.com/) 
 - [什么是Ansible · Ansible入门](https://ansible-book.gitbooks.io/ansible-first-book/content/) 
 - [ansible 基础模块介绍 - 简书](http://www.jianshu.com/p/b9956ea83a78) 
+- [PyVmMonitor by brainwy](http://www.pyvmmonitor.com/) 
