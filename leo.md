@@ -358,3 +358,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [什么是Ansible · Ansible入门](https://ansible-book.gitbooks.io/ansible-first-book/content/) 
 - [ansible 基础模块介绍 - 简书](http://www.jianshu.com/p/b9956ea83a78) 
 - [PyVmMonitor by brainwy](http://www.pyvmmonitor.com/) 
+
+### December 9, 2016
+- [理解Python并发编程一篇就够了|线程篇](http://mp.weixin.qq.com/s/O3fBaGd2QvSGNreLpUz1AQ) 
