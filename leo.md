@@ -364,3 +364,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Swiper中文网](http://www.swiper.com.cn/) 
 - [快速入门 — Flask 0.10.1 文档](http://docs.jinkan.org/docs/flask/quickstart.html#a-minimal-application) 
 - [Share your Local Server with a Friend | Flask (A Python Microframework)](http://flask.pocoo.org/snippets/89/) 
+- [欢迎使用 Flask — Flask 0.10.1 文档](http://docs.jinkan.org/docs/flask/) 
