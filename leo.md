@@ -366,3 +366,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Share your Local Server with a Friend | Flask (A Python Microframework)](http://flask.pocoo.org/snippets/89/) 
 - [欢迎使用 Flask — Flask 0.10.1 文档](http://docs.jinkan.org/docs/flask/) 
 - [蓝图 | Flask之旅](https://spacewander.github.io/explore-flask-zh/7-blueprints.html) 
+
+### December 12, 2016
+- [NewSQL究竟新在哪里？ | Charles的技术博客](http://oserror.com/distributed/newsql/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
