@@ -478,3 +478,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 15, 2016
 - [o1egl/govatar: Avatar generator library for GO language](https://github.com/o1egl/govatar) 
+- [neelance/graphql-go: GraphQL server with a focus on ease of use](https://github.com/neelance/graphql-go) 
