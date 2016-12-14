@@ -379,3 +379,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [七步精通Python机器学习 - Python - 伯乐在线](http://python.jobbole.com/84108/) 
 - [Keras Documentation](https://keras.io/) 
 - [DeepLearning tutorial（6）易用的深度学习框架Keras简介 - wepon的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u012162613/article/details/45397033) 
+- [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/) 
