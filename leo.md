@@ -380,3 +380,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Keras Documentation](https://keras.io/) 
 - [DeepLearning tutorial（6）易用的深度学习框架Keras简介 - wepon的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u012162613/article/details/45397033) 
 - [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/) 
+- [一份不负责任的Keras介绍 - BigMoyan的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yichenmoyan/article/details/52327702) 
