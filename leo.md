@@ -376,3 +376,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Making publication ready Python Notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook) 
 - [Complex neural networks made easy by Chainer - O'Reilly Media](https://www.oreilly.com/learning/complex-neural-networks-made-easy-by-chainer) 
 - [我最喜欢的9个 Python深度学习库 | 数盟社区](http://dataunion.org/24888.html) 
+- [七步精通Python机器学习 - Python - 伯乐在线](http://python.jobbole.com/84108/) 
