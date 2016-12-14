@@ -378,3 +378,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [我最喜欢的9个 Python深度学习库 | 数盟社区](http://dataunion.org/24888.html) 
 - [七步精通Python机器学习 - Python - 伯乐在线](http://python.jobbole.com/84108/) 
 - [Keras Documentation](https://keras.io/) 
+- [DeepLearning tutorial（6）易用的深度学习框架Keras简介 - wepon的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u012162613/article/details/45397033) 
