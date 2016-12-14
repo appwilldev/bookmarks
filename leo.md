@@ -375,3 +375,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [异步任务神器 Celery 简明笔记 · FunHacks](https://funhacks.net/2016/12/13/celery/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Making publication ready Python Notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook) 
 - [Complex neural networks made easy by Chainer - O'Reilly Media](https://www.oreilly.com/learning/complex-neural-networks-made-easy-by-chainer) 
+- [我最喜欢的9个 Python深度学习库 | 数盟社区](http://dataunion.org/24888.html) 
