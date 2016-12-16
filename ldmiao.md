@@ -483,3 +483,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### December 16, 2016
 - [syrusakbary/Flask-SuperAdmin: The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.](https://github.com/syrusakbary/Flask-SuperAdmin) 
 - [graphql-python/graphene: GraphQL framework for Python](https://github.com/graphql-python/graphene) 
+- [graphql-python/flask-graphql: Adds GraphQL support to your Flask application.](https://github.com/graphql-python/flask-graphql) 
