@@ -488,3 +488,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 17, 2016
 - [vuetifyjs/vuetify: Material Component Framework for Vue JS 2.0](https://github.com/vuetifyjs/vuetify) 
+
+### December 18, 2016
+- [golastmile/rasa_nlu](https://github.com/golastmile/rasa_nlu) 
