@@ -485,3 +485,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [graphql-python/graphene: GraphQL framework for Python](https://github.com/graphql-python/graphene) 
 - [graphql-python/flask-graphql: Adds GraphQL support to your Flask application.](https://github.com/graphql-python/flask-graphql) 
 - [graphql-python/graphene-sqlalchemy: Graphene SQLAlchemy integration](https://github.com/graphql-python/graphene-sqlalchemy) 
+
+### December 17, 2016
+- [vuetifyjs/vuetify: Material Component Framework for Vue JS 2.0](https://github.com/vuetifyjs/vuetify) 
