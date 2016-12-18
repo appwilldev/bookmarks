@@ -493,3 +493,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [golastmile/rasa_nlu](https://github.com/golastmile/rasa_nlu) 
 - [rasa NLU: Open-source bot tool for natural language understanding](https://rasa.ai/) 
 - [Language Understanding with rasa NLU — rasa NLU 0.4.0 documentation](http://rasa-nlu.readthedocs.io/en/latest/) 
+- [720kb/ndm: npm desktop manager https://720kb.github.io/ndm](https://github.com/720kb/ndm) 
