@@ -385,3 +385,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### December 19, 2016
 - [How to Import Web Data into Google Docs with ImportHTML](http://www.labnol.org/internet/import-html-in-google-docs/28125/) 
 - [ImportJSON | Fast Fedora | Trevor Lohrbeer](http://blog.fastfedora.com/projects/import-json) 
+- [Google 电子表格函数列表 - 文档编辑器帮助](https://support.google.com/docs/table/25273?visit_id=1-636177254539019378-3568705988&rd=2) 
