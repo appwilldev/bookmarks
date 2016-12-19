@@ -381,3 +381,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [DeepLearning tutorial（6）易用的深度学习框架Keras简介 - wepon的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u012162613/article/details/45397033) 
 - [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/) 
 - [一份不负责任的Keras介绍 - BigMoyan的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yichenmoyan/article/details/52327702) 
+
+### December 19, 2016
+- [How to Import Web Data into Google Docs with ImportHTML](http://www.labnol.org/internet/import-html-in-google-docs/28125/) 
