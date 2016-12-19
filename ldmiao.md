@@ -494,3 +494,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [rasa NLU: Open-source bot tool for natural language understanding](https://rasa.ai/) 
 - [Language Understanding with rasa NLU — rasa NLU 0.4.0 documentation](http://rasa-nlu.readthedocs.io/en/latest/) 
 - [720kb/ndm: npm desktop manager https://720kb.github.io/ndm](https://github.com/720kb/ndm) 
+
+### December 19, 2016
+- [DynamicCocoa：滴滴 iOS 动态化方案的诞生与起航](http://mp.weixin.qq.com/s?__biz=MzIyNjcxODc3MA==&mid=2247483669&idx=1&sn=e8a8c996702f87727f4f3bac83d8b2ff&chksm=e86d6448df1aed5e9ea222c1b69c07b88c3090b4981f1fb7e6e07693904fd962debc6d541007&mpshare=1&scene=23&srcid=1219cbWXWS9ozAbOuEciUZfH#rd) 
