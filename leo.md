@@ -386,3 +386,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [How to Import Web Data into Google Docs with ImportHTML](http://www.labnol.org/internet/import-html-in-google-docs/28125/) 
 - [ImportJSON | Fast Fedora | Trevor Lohrbeer](http://blog.fastfedora.com/projects/import-json) 
 - [Google 电子表格函数列表 - 文档编辑器帮助](https://support.google.com/docs/table/25273?visit_id=1-636177254539019378-3568705988&rd=2) 
+- [How to import JSON data into Google Spreadsheets in less than 5 minutes – Medium](https://medium.com/@paulgambill/how-to-import-json-data-into-google-spreadsheets-in-less-than-5-minutes-a3fede1a014a#.vzzvmpglj) 
