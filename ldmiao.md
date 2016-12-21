@@ -515,3 +515,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Welcome to Bokeh — Bokeh 0.12.3 documentation](http://bokeh.pydata.org/en/latest/) 
 - [MagicStack/asyncpg: A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg) 
 - [Miserlou/Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa) 
+- [rholder/retrying: Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.](https://github.com/rholder/retrying) 
