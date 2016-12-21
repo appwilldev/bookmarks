@@ -514,3 +514,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Top 10 Python libraries of 2016 - Tryolabs Blog](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/) 
 - [Welcome to Bokeh — Bokeh 0.12.3 documentation](http://bokeh.pydata.org/en/latest/) 
 - [MagicStack/asyncpg: A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/MagicStack/asyncpg) 
+- [Miserlou/Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa) 
