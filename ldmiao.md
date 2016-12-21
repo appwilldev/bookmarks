@@ -517,3 +517,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Miserlou/Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa) 
 - [rholder/retrying: Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.](https://github.com/rholder/retrying) 
 - [tomerfiliba/plumbum: Plumbum: Shell Combinators](https://github.com/tomerfiliba/plumbum) 
+- [RaRe-Technologies/gensim: Topic Modelling for Humans](https://github.com/RaRe-Technologies/gensim) 
