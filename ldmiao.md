@@ -510,3 +510,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 21, 2016
 - [antimatter15/ocrad.js: OCR in Javascript via Emscripten](https://github.com/antimatter15/ocrad.js) 
+- [OpenNMT/OpenNMT: Open-Source Neural Machine Translation in Torch](http://moonbingbing.gitbooks.io/openresty-best-practices/content/) 
