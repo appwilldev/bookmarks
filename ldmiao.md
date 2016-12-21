@@ -507,3 +507,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [So you want to expose Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/) 
 - [Boto 3 Documentation — Boto 3 Docs 1.4.2 documentation](http://boto3.readthedocs.io/en/latest/) 
 - [OpenNMT · NMT](http://opennmt.net/) 
+
+### December 21, 2016
+- [antimatter15/ocrad.js: OCR in Javascript via Emscripten](https://github.com/antimatter15/ocrad.js) 
