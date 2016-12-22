@@ -521,3 +521,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 22, 2016
 - [code.kx.com - Resources for kdb+ programmers](http://code.kx.com/mkdocs/) 
+- [斯坦福大学公开课 ：机器学习课程_全20集_网易公开课](http://open.163.com/special/opencourse/machinelearning.html) 
