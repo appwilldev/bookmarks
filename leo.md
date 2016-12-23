@@ -391,3 +391,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 22, 2016
 - [nginx配置location总结及rewrite规则写法 | Sean's Notes](http://seanlook.com/2015/05/17/nginx-location-rewrite/) 
+
+### December 23, 2016
+- [探究如何给Python程序做hotfix | 一根笨茄子](http://blog.guoyb.com/2016/12/13/py-hotfix/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
