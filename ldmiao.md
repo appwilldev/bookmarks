@@ -528,3 +528,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### December 24, 2016
 - [facebookincubator/beringei: Beringei is a high performance, in-memory storage engine for time series data.](https://github.com/facebookincubator/beringei) 
 - [SmartisanTech/Wrench: A scriptable Desktop tool to control your Android](https://github.com/SmartisanTech/Wrench) 
+
+### December 25, 2016
+- [amark/gun: A realtime, decentralized, offline-first, graph database engine.](https://github.com/amark/gun) 
