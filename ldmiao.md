@@ -531,3 +531,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 25, 2016
 - [amark/gun: A realtime, decentralized, offline-first, graph database engine.](https://github.com/amark/gun) 
+- [HIT-SCIR/ltp: Language Technology Platform](https://github.com/HIT-SCIR/ltp) 
