@@ -524,3 +524,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [斯坦福大学公开课 ：机器学习课程_全20集_网易公开课](http://open.163.com/special/opencourse/machinelearning.html) 
 - [devongovett/regexgen: Generate regular expressions that match a set of strings](https://github.com/devongovett/regexgen) 
 - [Polyglot - Rami Al-Rfou](https://sites.google.com/site/rmyeid/projects/polyglot) 
+
+### December 24, 2016
+- [facebookincubator/beringei: Beringei is a high performance, in-memory storage engine for time series data.](https://github.com/facebookincubator/beringei) 
