@@ -399,3 +399,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### December 26, 2016
 - [Python语法速览与机器学习开发环境搭建 - 某熊的全栈之路 - 知乎专栏](https://zhuanlan.zhihu.com/p/24536868?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [sed command a expects followed by text | 网络进行时](http://www.netingcn.com/mac-osx-sed-command-expects-followed-by-text.html) 
+- [2016 AI 巨头开源 IP 超级盘点，Top 50 最常用深度学习库](http://36kr.com/p/5060304.html) 
