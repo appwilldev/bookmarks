@@ -541,3 +541,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 27, 2016
 - [Gitea](https://gitea.io/zh-CN/) 
+- [go-gitea/gitea: Gitea: Git with a cup of tea](https://github.com/go-gitea/gitea) 
