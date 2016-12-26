@@ -534,3 +534,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [HIT-SCIR/ltp: Language Technology Platform](https://github.com/HIT-SCIR/ltp) 
 - [devongovett/pdfkit: A JavaScript PDF generation library for Node and the browser](https://github.com/devongovett/pdfkit) 
 - [GraphQL: Tips after a year in production](https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3#.2t0ik69er) 
+
+### December 26, 2016
+- [Navigating your transition to GraphQL](https://dev-blog.apollodata.com/navigating-your-transition-to-graphql-28a4dfa3acfb#.zeoqm6jo5) 
