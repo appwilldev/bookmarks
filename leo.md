@@ -395,3 +395,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### December 23, 2016
 - [探究如何给Python程序做hotfix | 一根笨茄子](http://blog.guoyb.com/2016/12/13/py-hotfix/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [AI,DM,ML,PR的区别与联系](http://www.mamicode.com/info-detail-1487985.html) 
+
+### December 26, 2016
+- [Python语法速览与机器学习开发环境搭建 - 某熊的全栈之路 - 知乎专栏](https://zhuanlan.zhihu.com/p/24536868?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
