@@ -400,3 +400,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python语法速览与机器学习开发环境搭建 - 某熊的全栈之路 - 知乎专栏](https://zhuanlan.zhihu.com/p/24536868?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [sed command a expects followed by text | 网络进行时](http://www.netingcn.com/mac-osx-sed-command-expects-followed-by-text.html) 
 - [2016 AI 巨头开源 IP 超级盘点，Top 50 最常用深度学习库](http://36kr.com/p/5060304.html) 
+
+### December 27, 2016
+- [5.2 代码回滚：Reset、Checkout、Revert的选择 · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki/5.2-%E4%BB%A3%E7%A0%81%E5%9B%9E%E6%BB%9A%EF%BC%9AReset%E3%80%81Checkout%E3%80%81Revert%E7%9A%84%E9%80%89%E6%8B%A9) 
