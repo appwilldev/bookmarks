@@ -544,3 +544,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [go-gitea/gitea: Gitea: Git with a cup of tea](https://github.com/go-gitea/gitea) 
 - [equator - Search for Stock Images & Stock Videos | Bigstock](http://www.bigstockphoto.com/zh/search/equator/?vectors=y) 
 - [HandBrake: Open Source Video Transcoder](https://handbrake.fr/) 
+
+### December 28, 2016
+- [machine-learning-for-software-engineers/README-zh-CN.md at master · ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) 
