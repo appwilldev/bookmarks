@@ -409,3 +409,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 28, 2016
 - [Application Performance Management & Monitoring | New Relic](https://newrelic.com/) 
+
+### December 29, 2016
+- [.bash_profile和.bashrc的什么区别及启动过程 - mzer - 博客园](http://www.cnblogs.com/liduanjun/p/3536993.html) 
