@@ -547,3 +547,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### December 28, 2016
 - [machine-learning-for-software-engineers/README-zh-CN.md at master · ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) 
+
+### December 29, 2016
+- [mozillazg/python-pinyin: 汉字拼音转换工具 Python 版(pypinyin)。](https://github.com/mozillazg/python-pinyin) 
