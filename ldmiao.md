@@ -551,3 +551,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### December 29, 2016
 - [mozillazg/python-pinyin: 汉字拼音转换工具 Python 版(pypinyin)。](https://github.com/mozillazg/python-pinyin) 
 - [Markdown.css - make HTML look like plain-text](http://mrcoles.com/demo/markdown-css/) 
+
+### December 30, 2016
+- [bevacqua/dragula: Drag and drop so simple it hurts](https://github.com/bevacqua/dragula) 
