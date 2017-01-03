@@ -415,3 +415,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### December 30, 2016
 - [Git 中的 ~ 和 ^ | Scarletsky](http://scarletsky.github.io/2016/12/29/tilde-and-caret-in-git/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### January 3, 2017
+- [高性能服务器架构思路【不仅是思路】 - 腾讯WeTest](http://wetest.qq.com/lab/view/?hmsr=toutiao.io&id=80&utm_medium=toutiao.io&utm_source=toutiao.io) 
