@@ -562,3 +562,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Home - Viz](http://donnemartin.com/viz/) 
 - [Castor](https://app.getcastor.com/#!/home) 
 - [I Wrote a Faster Sorting Algorithm – Probably Dance](https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/amp/) 
+
+### January 4, 2017
+- [Three challenges you’re going to face when building a chatbot](https://blog.infermedica.com/three-challenges-youre-going-to-face-when-building-a-chatbot/amp/) 
