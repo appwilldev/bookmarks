@@ -418,3 +418,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 3, 2017
 - [高性能服务器架构思路【不仅是思路】 - 腾讯WeTest](http://wetest.qq.com/lab/view/?hmsr=toutiao.io&id=80&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### January 4, 2017
+- [2017 年应该学习的编程语言、框架和工具 - 综合讨论区 葡萄城产品技术社区](http://gcdn.gcpowertools.com.cn/showtopic-28706-1-3.html?utm_source=gold.xitu.io&utm_medium=referral&utm_campaign=20170104) 
