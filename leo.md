@@ -423,3 +423,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [2017 年应该学习的编程语言、框架和工具 - 综合讨论区 葡萄城产品技术社区](http://gcdn.gcpowertools.com.cn/showtopic-28706-1-3.html?utm_source=gold.xitu.io&utm_medium=referral&utm_campaign=20170104) 
 - [普通程序员如何转向人工智能方向？ - 文章 - 伯乐在线](http://blog.jobbole.com/109352/) 
 - [脑芯编：摆脱冯·诺依曼的深度学习硬件_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/index/id/2070) 
+
+### January 5, 2017
+- [Python与C之间的相互调用（Python C API及Python ctypes库） - 九天雁翎的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/vagrxie/article/details/5251306) 
