@@ -570,3 +570,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [osquery :: Home](https://osquery.io/) 
 - [Etcher by resin.io](https://etcher.io/) 
 - [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711#.1x7uhwhmk) 
+- [lhc70000/iina: The modern video player for macOS.](https://github.com/lhc70000/iina) 
