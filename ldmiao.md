@@ -569,3 +569,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### January 5, 2017
 - [osquery :: Home](https://osquery.io/) 
 - [Etcher by resin.io](https://etcher.io/) 
+- [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711#.1x7uhwhmk) 
