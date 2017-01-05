@@ -429,3 +429,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [nginx分析日志利器goaccess - 简书](http://www.jianshu.com/p/33e2e79d0373) 
 - [GoAccess - Visual Web Log Analyzer](https://goaccess.io/) 
 - [Deep Learning（深度学习）学习笔记整理系列之（一） - zouxy09的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zouxy09/article/details/8775360) 
+- [实例解析防抖动（Debouncing）和节流阀（Throttling） - 为程序员服务](http://outofmemory.cn/javascript/js-debouce-throttle) 
