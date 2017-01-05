@@ -565,3 +565,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 4, 2017
 - [Three challenges you’re going to face when building a chatbot](https://blog.infermedica.com/three-challenges-youre-going-to-face-when-building-a-chatbot/amp/) 
+
+### January 5, 2017
+- [osquery :: Home](https://osquery.io/) 
