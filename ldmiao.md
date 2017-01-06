@@ -572,3 +572,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711#.1x7uhwhmk) 
 - [lhc70000/iina: The modern video player for macOS.](https://github.com/lhc70000/iina) 
 - [The Ultimate Guide to Deploying Static Sites on AWS - Stormpath User Identity API](https://stormpath.com/blog/ultimate-guide-deploying-static-site-aws) 
+
+### January 6, 2017
+- [havoc-io/mutagen: Simple, cross-platform, continuous, bi-directional file synchronization](https://github.com/havoc-io/mutagen) 
