@@ -437,3 +437,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### January 9, 2017
 - [2016 年十大 Python 开发者必读好文 | 年度盘点（七）](http://mp.weixin.qq.com/s/boh2F4FddILW1VOMr7k5ig) 
 - [HTTP协议详解](http://mp.weixin.qq.com/s/27zpNIGhVbx-on9FDs_6dw) 
+- [深度学习新星：GAN的基本原理、应用和走向 | 硬创公开课 | 雷锋网](http://m.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
