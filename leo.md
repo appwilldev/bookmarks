@@ -433,3 +433,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 6, 2017
 - [金融圈的科技革命：FinTech到底是什么?-搜狐](http://mt.sohu.com/20160429/n446881690.shtml) 
+
+### January 9, 2017
+- [2016 年十大 Python 开发者必读好文 | 年度盘点（七）](http://mp.weixin.qq.com/s/boh2F4FddILW1VOMr7k5ig) 
