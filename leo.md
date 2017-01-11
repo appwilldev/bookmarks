@@ -446,3 +446,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 11, 2017
 - [用Python写有趣的脚本（上） - 简书](http://www.jianshu.com/p/7b36975318ac) 
+- [Anaconda使用总结 - 简书](http://www.jianshu.com/p/2f3be7781451) 
