@@ -590,3 +590,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [pender/chatbot-rnn: A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn) 
 - [pender/chatbot-rnn: A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn) 
 - [Russell91/sshrc: bring your .bashrc, .vimrc, etc. with you when you ssh](https://github.com/Russell91/sshrc) 
+- [jwilm/alacritty: A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty) 
