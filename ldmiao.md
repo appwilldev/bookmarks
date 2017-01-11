@@ -588,3 +588,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### January 12, 2017
 - [nuveo/prest: Serve a RESTful API from any PostgreSQL database](https://github.com/nuveo/prest) 
 - [pender/chatbot-rnn: A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn) 
+- [pender/chatbot-rnn: A toy chatbot powered by deep learning and trained on data from Reddit](https://github.com/pender/chatbot-rnn) 
