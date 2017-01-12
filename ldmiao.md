@@ -592,3 +592,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Russell91/sshrc: bring your .bashrc, .vimrc, etc. with you when you ssh](https://github.com/Russell91/sshrc) 
 - [jwilm/alacritty: A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty) 
 - [olebedev/when: A natural language date/time parser with pluggable rules](https://github.com/olebedev/when) 
+
+### January 13, 2017
+- [The Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/sutime.shtml) 
