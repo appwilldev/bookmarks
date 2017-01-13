@@ -600,3 +600,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [atpaino/deep-text-correcter: Deep learning models trained to correct input errors in short, message-like text](https://github.com/atpaino/deep-text-correcter) 
 - [percyliang/sempre: Semantic Parser with Execution](https://github.com/percyliang/sempre) 
 - [Rubik - Vue.js UI library](https://ccforward.github.io/rubik/#/tab) 
+- [wangdahoo/vonic: Mobile UI Components, based on Vue.js and ionic CSS. https://wangdahoo.github.io/vonic/docs/](https://github.com/wangdahoo/vonic) 
