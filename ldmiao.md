@@ -602,3 +602,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Rubik - Vue.js UI library](https://ccforward.github.io/rubik/#/tab) 
 - [wangdahoo/vonic: Mobile UI Components, based on Vue.js and ionic CSS. https://wangdahoo.github.io/vonic/docs/](https://github.com/wangdahoo/vonic) 
 - [ElemeFE/vue-amap: vue-amap - 基于Vue2.0和高德地图的地图组件](https://github.com/ElemeFE/vue-amap) 
+
+### January 14, 2017
+- [google/key-transparency: A transparent and secure way to look up public keys.](https://github.com/google/key-transparency) 
