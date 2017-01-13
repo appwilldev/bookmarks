@@ -599,3 +599,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Deep Text Correcter](http://atpaino.com/2017/01/03/deep-text-correcter.html) 
 - [atpaino/deep-text-correcter: Deep learning models trained to correct input errors in short, message-like text](https://github.com/atpaino/deep-text-correcter) 
 - [percyliang/sempre: Semantic Parser with Execution](https://github.com/percyliang/sempre) 
+- [Rubik - Vue.js UI library](https://ccforward.github.io/rubik/#/tab) 
