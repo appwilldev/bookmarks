@@ -595,3 +595,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 13, 2017
 - [The Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/sutime.shtml) 
+- [Writing with the machine](https://www.robinsloan.com/notes/writing-with-the-machine/) 
