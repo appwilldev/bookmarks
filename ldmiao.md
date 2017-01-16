@@ -605,3 +605,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 14, 2017
 - [google/key-transparency: A transparent and secure way to look up public keys.](https://github.com/google/key-transparency) 
+
+### January 16, 2017
+- [minimaxir/big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.](https://github.com/minimaxir/big-list-of-naughty-strings) 
