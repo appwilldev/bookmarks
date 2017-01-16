@@ -453,3 +453,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 16, 2017
 - [Python开发微信公众号后台（系列三）](http://mp.weixin.qq.com/s/I4jguQakZC3iEYlD9G8PtA) 
+- [TensorFlow学习笔记1：入门 | Jey Zhang](http://www.jeyzhang.com/tensorflow-learning-notes.html) 
