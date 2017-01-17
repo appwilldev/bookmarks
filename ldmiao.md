@@ -611,3 +611,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 17, 2017
 - [json.browse](https://jsonbrowse.com/) 
+- [chenz24/vue-blu: UI Component Library Base on Vue.js(2.x) and Bulma](https://github.com/chenz24/vue-blu) 
