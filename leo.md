@@ -459,3 +459,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [挖掘微信Web版通信的全过程 | 老谭笔记](http://www.tanhao.me/talk/1466.html/) 
 - [tensorflow架构 - 雨石 - 博客频道 - CSDN.NET](http://blog.csdn.net/stdcoutzyx/article/details/51645396) 
 - [学习CSS布局](http://zh.learnlayout.com/) 
+- [[译] TensorFlow 白皮书 - 简书](http://www.jianshu.com/p/65dc64e4c81f) 
