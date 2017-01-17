@@ -457,3 +457,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 17, 2017
 - [挖掘微信Web版通信的全过程 | 老谭笔记](http://www.tanhao.me/talk/1466.html/) 
+- [tensorflow架构 - 雨石 - 博客频道 - CSDN.NET](http://blog.csdn.net/stdcoutzyx/article/details/51645396) 
