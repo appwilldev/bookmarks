@@ -460,3 +460,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [tensorflow架构 - 雨石 - 博客频道 - CSDN.NET](http://blog.csdn.net/stdcoutzyx/article/details/51645396) 
 - [学习CSS布局](http://zh.learnlayout.com/) 
 - [[译] TensorFlow 白皮书 - 简书](http://www.jianshu.com/p/65dc64e4c81f) 
+- [Tensorflow一些常用基本概念与函数（4） - lenbow的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/lenbow/article/details/52218551) 
