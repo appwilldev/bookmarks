@@ -465,3 +465,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Marcher](http://blog.cvmarcher.com/) 
 - [简介 - TensorFlow 官方文档中文版 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/introduction.html) 
 - [TensorFlow的分布式学习框架简介 - lenbow的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/lenbow/article/details/52130565) 
+
+### January 18, 2017
+- [一个前端开发工程师的Vim跟IDE一样 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000008097357?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
