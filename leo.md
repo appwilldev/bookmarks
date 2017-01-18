@@ -468,3 +468,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 18, 2017
 - [一个前端开发工程师的Vim跟IDE一样 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000008097357?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [TensorLayer 中文文档 — TensorLayer 中文版 1.2.8 文档](http://tensorlayercn.readthedocs.io/zh/latest/) 
