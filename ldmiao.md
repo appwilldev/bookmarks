@@ -614,3 +614,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [chenz24/vue-blu: UI Component Library Base on Vue.js(2.x) and Bulma](https://github.com/chenz24/vue-blu) 
 - [yuche/vue-strap: Bootstrap components built with Vue.js](https://github.com/yuche/vue-strap) 
 - [olebedev/when: A natural language date/time parser with pluggable rules](https://github.com/olebedev/when) 
+
+### January 18, 2017
+- [oklog/oklog: A distributed and coördination-free log management system](https://github.com/oklog/oklog) 
