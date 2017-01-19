@@ -617,3 +617,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 18, 2017
 - [oklog/oklog: A distributed and coördination-free log management system](https://github.com/oklog/oklog) 
+
+### January 19, 2017
+- [DeepTraffic | 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/deeptraffic/) 
