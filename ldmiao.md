@@ -620,3 +620,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 19, 2017
 - [DeepTraffic | 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/deeptraffic/) 
+- [anthonynsimon/parrot: Self-hosted Localization Management Platform built with Go and Angular 2](https://github.com/anthonynsimon/parrot) 
