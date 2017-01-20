@@ -479,3 +479,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [人工智能核心概念辨析](https://mp.weixin.qq.com/s?__biz=MzA3MzQwNzI3OA==&mid=2651382007&idx=1&sn=70aac139c38eae8fc54b5fd3d78b40d0) 
 - [RAWGraphs](http://rawgraphs.io/) 
 - [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
+- [TensorFlow官方教程学习 TensorFlow Mechanics 101 - 格物致知-IT大道](http://www.itdadao.com/articles/c15a793546p0.html) 
