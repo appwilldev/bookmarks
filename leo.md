@@ -473,3 +473,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 19, 2017
 - [理解dropout - 雨石 - 博客频道 - CSDN.NET](http://blog.csdn.net/stdcoutzyx/article/details/49022443) 
+
+### January 20, 2017
+- [2017年1月1日闰秒事件复盘](http://mp.weixin.qq.com/s/rvZJd3QdCm1lPyjlHmD3dw) 
