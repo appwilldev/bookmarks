@@ -478,3 +478,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [2017年1月1日闰秒事件复盘](http://mp.weixin.qq.com/s/rvZJd3QdCm1lPyjlHmD3dw) 
 - [人工智能核心概念辨析](https://mp.weixin.qq.com/s?__biz=MzA3MzQwNzI3OA==&mid=2651382007&idx=1&sn=70aac139c38eae8fc54b5fd3d78b40d0) 
 - [RAWGraphs](http://rawgraphs.io/) 
+- [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
