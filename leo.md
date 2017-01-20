@@ -483,3 +483,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [存储Tensorflow训练网络的参数 - 简书](http://www.jianshu.com/p/83fa3aa2d0e9) 
 - [TensorFlow中遇到的问题及解决方法 | Jey Zhang](http://www.jeyzhang.com/problems-with-solution-in-tensorflow.html) 
 - [如何通过玩TensorFlow Playground来理解神经网络--百度百家](http://synchuman.baijia.baidu.com/article/561642) 
+- [官方指南：如何通过玩TensorFlow来理解神经网络_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1348) 
