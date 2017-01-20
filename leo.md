@@ -480,3 +480,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [RAWGraphs](http://rawgraphs.io/) 
 - [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
 - [TensorFlow官方教程学习 TensorFlow Mechanics 101 - 格物致知-IT大道](http://www.itdadao.com/articles/c15a793546p0.html) 
+- [存储Tensorflow训练网络的参数 - 简书](http://www.jianshu.com/p/83fa3aa2d0e9) 
