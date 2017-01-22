@@ -636,3 +636,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [travisjeffery/jocko: Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install)](https://github.com/travisjeffery/jocko) 
 - [cloudflare/hellogopher: Hellogopher: "just clone and make" your conventional Go project](https://github.com/cloudflare/hellogopher) 
 - [emreler/finch: Source code for https://usefinch.co](https://github.com/emreler/finch) 
+- [kennethreitz/pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv.](https://github.com/kennethreitz/pipenv) 
