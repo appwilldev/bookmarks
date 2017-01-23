@@ -487,3 +487,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 23, 2017
 - [Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html) 
+- [CS231n课程笔记翻译：反向传播笔记 - 智能单元 - 知乎专栏](https://zhuanlan.zhihu.com/p/21407711?refer=intelligentunit) 
