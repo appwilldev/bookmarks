@@ -638,3 +638,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [emreler/finch: Source code for https://usefinch.co](https://github.com/emreler/finch) 
 - [kennethreitz/pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv.](https://github.com/kennethreitz/pipenv) 
 - [kennethreitz/pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv.](https://github.com/kennethreitz/pipenv) 
+
+### January 25, 2017
+- [Introduction · SILOTA Documentation](http://www.silota.com/docs/recipes/?utm_source=reddit&utm_medium=social) 
