@@ -645,3 +645,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### January 28, 2017
 - [sergiotapia/magnetissimo: Web application that indexes all popular torrent sites, and saves it to the local database.](https://github.com/sergiotapia/magnetissimo?utm=hn) 
 - [bfirsh/whalebrew: Homebrew, but with Docker images](https://github.com/bfirsh/whalebrew) 
+- [Tutorial on Deep Learning | Simons Institute for the Theory of Computing](https://simons.berkeley.edu/talks/tutorial-deep-learning) 
