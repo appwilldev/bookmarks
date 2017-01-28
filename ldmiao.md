@@ -647,3 +647,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [bfirsh/whalebrew: Homebrew, but with Docker images](https://github.com/bfirsh/whalebrew) 
 - [Tutorial on Deep Learning | Simons Institute for the Theory of Computing](https://simons.berkeley.edu/talks/tutorial-deep-learning) 
 - [deepsyx/home-automation: Raspberry Pi 3 based home automation with NodeJS and React Native.](https://github.com/deepsyx/home-automation) 
+- [knq/chromedp: Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc).](https://github.com/knq/chromedp) 
