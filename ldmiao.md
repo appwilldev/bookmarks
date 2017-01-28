@@ -641,3 +641,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 25, 2017
 - [Introduction · SILOTA Documentation](http://www.silota.com/docs/recipes/?utm_source=reddit&utm_medium=social) 
+
+### January 28, 2017
+- [sergiotapia/magnetissimo: Web application that indexes all popular torrent sites, and saves it to the local database.](https://github.com/sergiotapia/magnetissimo?utm=hn) 
