@@ -652,3 +652,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### January 29, 2017
 - [taizan/PaintsChainer: line drawing colorization using chainer](https://github.com/taizan/PaintsChainer) 
+
+### January 31, 2017
+- [jarrekk/imgkit: 🎆 Wkhtmltoimage python wrapper to convert html to image](https://github.com/jarrekk/imgkit) 
