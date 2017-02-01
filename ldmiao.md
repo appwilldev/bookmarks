@@ -656,3 +656,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### January 31, 2017
 - [jarrekk/imgkit: 🎆 Wkhtmltoimage python wrapper to convert html to image](https://github.com/jarrekk/imgkit) 
 - [lhc70000/iina: The modern video player for macOS.](https://github.com/lhc70000/iina) 
+
+### February 1, 2017
+- [murlokswarm/app: Package to create apps with GO, HTML and CSS.](https://github.com/murlokswarm/app) 
