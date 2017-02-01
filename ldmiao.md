@@ -660,3 +660,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### February 1, 2017
 - [murlokswarm/app: Package to create apps with GO, HTML and CSS.](https://github.com/murlokswarm/app) 
 - [blynkkk/blynk-library: Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.](https://github.com/blynkkk/blynk-library) 
+- [david-gpu/deep-makeover: Deep learning project to transform male portraits into female and vice versa](https://github.com/david-gpu/deep-makeover) 
