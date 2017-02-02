@@ -668,3 +668,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [bodymovin/bodymovin: after effects to html library](https://github.com/bodymovin/bodymovin) 
 - [EveryCircuit - Home](http://everycircuit.com/#0) 
 - [Think OS](http://greenteapress.com/thinkos/) 
+- [kaedroho/rusticsearch: A lightweight, Elasticsearch-compatible search server. Built on RocksDB and Rust](https://github.com/kaedroho/rusticsearch/) 
