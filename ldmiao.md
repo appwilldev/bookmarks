@@ -666,3 +666,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Introducing Lottie – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.ntg6ni6sz) 
 - [FredKSchott/CoVim: Collaborative Editing for Vim](https://github.com/FredKSchott/CoVim) 
 - [bodymovin/bodymovin: after effects to html library](https://github.com/bodymovin/bodymovin) 
+- [EveryCircuit - Home](http://everycircuit.com/#0) 
