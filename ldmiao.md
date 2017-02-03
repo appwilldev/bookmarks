@@ -669,3 +669,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [EveryCircuit - Home](http://everycircuit.com/#0) 
 - [Think OS](http://greenteapress.com/thinkos/) 
 - [kaedroho/rusticsearch: A lightweight, Elasticsearch-compatible search server. Built on RocksDB and Rust](https://github.com/kaedroho/rusticsearch/) 
+
+### February 3, 2017
+- [Vue 2 components for creating hybrid mobile apps with Onsen UI](https://onsen.io/vue/) 
