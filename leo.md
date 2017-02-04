@@ -491,3 +491,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 3, 2017
 - [前端优化不完全指南 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/03/16/optimization/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### February 4, 2017
+- [AI - TensorFlow](http://mp.weixin.qq.com/s/qmm1xyvnHvWhuUvd9lDjfw) 
