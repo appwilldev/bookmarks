@@ -687,3 +687,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Beringei: A high-performance time series storage engine | Engineering Blog | Facebook Code](https://code.facebook.com/posts/952820474848503/beringei-a-high-performance-time-series-storage-engine/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed) 
 - [tidwall/summitdb: In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API](https://github.com/tidwall/summitdb) 
 - [下一代 Web 应用模型 —— Progressive Web App - 极客头条 - CSDN.NET](http://geek.csdn.net/news/detail/135595) 
+
+### February 6, 2017
+- [soft question - What are the most misleading alternate definitions in taught mathematics? - MathOverflow](https://mathoverflow.net/questions/7584/what-are-the-most-misleading-alternate-definitions-in-taught-mathematics/7952#7952?newreg=0ad5cad1b4604fc394b013c76813b8e3) 
