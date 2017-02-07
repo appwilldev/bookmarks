@@ -695,3 +695,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Office Solutions Development Overview (VSTO)](https://msdn.microsoft.com/en-us/library/hy7c6z9k.aspx) 
 - [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
 - [mitchellh/pointerstructure: Go library for addressing and reading/writing a specific value within any Go structure using a string syntax.](https://github.com/mitchellh/pointerstructure) 
+- [csurfer/pyheat: pprofile + matplotlib = Python program profiled as an awesome heatmap!](https://github.com/csurfer/pyheat) 
