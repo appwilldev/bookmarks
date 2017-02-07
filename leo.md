@@ -504,3 +504,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [[图解tensorflow源码] [原创] Tensorflow 图解分析 （Session, Graph, Kernels, Devices） - yj0306 - 博客园](http://www.cnblogs.com/yao62995/p/5773578.html) 
 - [从算法、硬件到研究社区，全面回顾2016年机器学习领域主要进展_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2216) 
 - [jquery - How to render word document(DOC,DOCX) in browser using Javascript - Stack Overflow](http://stackoverflow.com/questions/27957766/how-to-render-word-documentdoc-docx-in-browser-using-javascript) 
+- [深度学习（三）theano入门学习 - hjimce的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hjimce/article/details/46806923) 
