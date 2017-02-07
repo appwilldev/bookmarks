@@ -690,3 +690,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 6, 2017
 - [soft question - What are the most misleading alternate definitions in taught mathematics? - MathOverflow](https://mathoverflow.net/questions/7584/what-are-the-most-misleading-alternate-definitions-in-taught-mathematics/7952#7952?newreg=0ad5cad1b4604fc394b013c76813b8e3) 
+
+### February 7, 2017
+- [Office Solutions Development Overview (VSTO)](https://msdn.microsoft.com/en-us/library/hy7c6z9k.aspx) 
