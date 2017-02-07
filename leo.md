@@ -501,3 +501,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 7, 2017
 - [详解Facebook全新图像识别系统：无需依赖标记的自由搜索_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2221) 
+- [[图解tensorflow源码] [原创] Tensorflow 图解分析 （Session, Graph, Kernels, Devices） - yj0306 - 博客园](http://www.cnblogs.com/yao62995/p/5773578.html) 
