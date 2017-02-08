@@ -505,3 +505,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [从算法、硬件到研究社区，全面回顾2016年机器学习领域主要进展_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2216) 
 - [jquery - How to render word document(DOC,DOCX) in browser using Javascript - Stack Overflow](http://stackoverflow.com/questions/27957766/how-to-render-word-documentdoc-docx-in-browser-using-javascript) 
 - [深度学习（三）theano入门学习 - hjimce的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hjimce/article/details/46806923) 
+
+### February 8, 2017
+- [熵与生命 · 超智能体](https://yjango.gitbooks.io/superorganism/content/shang_yu_sheng_ming.html) 
