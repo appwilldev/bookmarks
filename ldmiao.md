@@ -709,3 +709,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [超智能体](http://gxiiukk.wixsite.com/super) 
 - [A Brief Introduction to Probability & Statistics – BetterExplained](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/) 
 - [3Blue1Brown](http://www.3blue1brown.com/) 
+- [【双字/合集】“线性代数的本质”系列合集_趣味科普人文_科技_bilibili_哔哩哔哩弹幕视频网](http://www.bilibili.com/video/av6731067/#page=2) 
