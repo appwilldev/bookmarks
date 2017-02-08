@@ -704,3 +704,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [SheetJS/js-xlsx: XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer](https://github.com/SheetJS/js-xlsx) 
 - [densitydesign/raw: The missing link between spreadsheets and data visualization](https://github.com/densitydesign/raw) 
 - [jadeallencook/gDoc.js: Use Google Spreadsheets as your CMS & to save your inputs!](https://github.com/jadeallencook/gDoc.js) 
+- [vue-bulma/handsontable: Vue Handsontable component is based on Handsontable for Vue](https://github.com/vue-bulma/handsontable) 
