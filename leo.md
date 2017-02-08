@@ -508,3 +508,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 8, 2017
 - [熵与生命 · 超智能体](https://yjango.gitbooks.io/superorganism/content/shang_yu_sheng_ming.html) 
+- [如何直观形象的理解梯度，散度，旋度？ - 知乎](https://www.zhihu.com/question/24074028) 
