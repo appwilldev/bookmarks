@@ -708,3 +708,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [wechaty/wechaty: Wechat for Bot. Powered by WebDriver / Node.js / Docker](https://github.com/wechaty/wechaty) 
 - [超智能体](http://gxiiukk.wixsite.com/super) 
 - [A Brief Introduction to Probability & Statistics – BetterExplained](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/) 
+- [3Blue1Brown](http://www.3blue1brown.com/) 
