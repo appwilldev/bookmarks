@@ -696,3 +696,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
 - [mitchellh/pointerstructure: Go library for addressing and reading/writing a specific value within any Go structure using a string syntax.](https://github.com/mitchellh/pointerstructure) 
 - [csurfer/pyheat: pprofile + matplotlib = Python program profiled as an awesome heatmap!](https://github.com/csurfer/pyheat) 
+
+### February 8, 2017
+- [A Geometric Interpretation of Neural Networks | The blog at the bottom of the sea](http://blog.demofox.org/2017/02/07/a-geometric-interpretation-of-neural-networks/) 
