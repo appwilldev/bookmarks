@@ -706,3 +706,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [jadeallencook/gDoc.js: Use Google Spreadsheets as your CMS & to save your inputs!](https://github.com/jadeallencook/gDoc.js) 
 - [vue-bulma/handsontable: Vue Handsontable component is based on Handsontable for Vue](https://github.com/vue-bulma/handsontable) 
 - [wechaty/wechaty: Wechat for Bot. Powered by WebDriver / Node.js / Docker](https://github.com/wechaty/wechaty) 
+- [超智能体](http://gxiiukk.wixsite.com/super) 
