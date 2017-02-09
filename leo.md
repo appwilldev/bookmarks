@@ -514,3 +514,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### February 9, 2017
 - [全概公式和贝叶斯公式的理解 - Bing's Blog - 博客频道 - CSDN.NET](http://blog.csdn.net/u011240016/article/details/52730807) 
 - [Metabase](http://metabase.bondowner.cn/card/3) 
+- [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
