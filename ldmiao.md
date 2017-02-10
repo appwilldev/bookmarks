@@ -713,3 +713,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 10, 2017
 - [superRaytin/puzzler: 一个高效快速的前端页面切图工具，用于将一张图片快速切割成切片并导出 HTML 文件，所有的工作都通过可视化拖拽完成，让你从重复的 PSD 切图工作中解放出来。](https://github.com/superRaytin/puzzler) 
+- [go-ozzo/ozzo-validation: A Go (golang) package that supports data validation with configurable and extensible validation rules in usual code constructs instead of mysterious and error-prone struct tags.](https://github.com/go-ozzo/ozzo-validation) 
