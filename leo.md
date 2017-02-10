@@ -515,3 +515,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [全概公式和贝叶斯公式的理解 - Bing's Blog - 博客频道 - CSDN.NET](http://blog.csdn.net/u011240016/article/details/52730807) 
 - [Metabase](http://metabase.bondowner.cn/card/3) 
 - [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
+
+### February 10, 2017
+- [对线性回归、逻辑回归、各种回归的概念学习 - viewcode的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/viewcode/article/details/8794401) 
