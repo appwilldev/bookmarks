@@ -710,3 +710,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [A Brief Introduction to Probability & Statistics – BetterExplained](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/) 
 - [3Blue1Brown](http://www.3blue1brown.com/) 
 - [【双字/合集】“线性代数的本质”系列合集_趣味科普人文_科技_bilibili_哔哩哔哩弹幕视频网](http://www.bilibili.com/video/av6731067/#page=2) 
+
+### February 10, 2017
+- [superRaytin/puzzler: 一个高效快速的前端页面切图工具，用于将一张图片快速切割成切片并导出 HTML 文件，所有的工作都通过可视化拖拽完成，让你从重复的 PSD 切图工作中解放出来。](https://github.com/superRaytin/puzzler) 
