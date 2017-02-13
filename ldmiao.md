@@ -720,3 +720,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 13, 2017
 - [chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey) 
+- [Deep Learning Gallery - a curated list of awesome deep learning projects](http://deeplearninggallery.com/) 
