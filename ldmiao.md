@@ -725,3 +725,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 14, 2017
 - [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/) 
+- [CCMenu](http://ccmenu.org/) 
