@@ -525,3 +525,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Stack Overflow 2016年度 20个最佳Python问题（一） - 编程小记 - 知乎专栏](https://zhuanlan.zhihu.com/p/25020763?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [高效的 itertools 模块 | FunHacks](http://funhacks.net/2017/02/13/itertools/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Classifying MNIST digits using Logistic Regression — DeepLearning 0.1 documentation](http://deeplearning.net/tutorial/logreg.html) 
+- [CCMenu](http://ccmenu.org/) 
