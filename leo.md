@@ -526,3 +526,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [高效的 itertools 模块 | FunHacks](http://funhacks.net/2017/02/13/itertools/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Classifying MNIST digits using Logistic Regression — DeepLearning 0.1 documentation](http://deeplearning.net/tutorial/logreg.html) 
 - [CCMenu](http://ccmenu.org/) 
+
+### February 15, 2017
+- [python - Difference between numpy.array shape (R, 1) and (R,) - Stack Overflow](http://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r) 
