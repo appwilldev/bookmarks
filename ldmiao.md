@@ -732,3 +732,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [The spectacles of a web server log file](https://medium.com/@ktsaou/the-spectacles-of-a-web-server-log-file-90c995e9e986#.5zt0trlfa) 
 - [The spectacles of a web server log file](https://medium.com/@ktsaou/the-spectacles-of-a-web-server-log-file-90c995e9e986#.5zt0trlfa) 
 - [Illustrated Binary Search algorithm](https://illustrated-algorithms.now.sh/) 
+- [深度学习、自然语言处理和表征方法 | 数盟社区](http://dataunion.org/9331.html) 
