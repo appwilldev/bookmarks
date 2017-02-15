@@ -529,3 +529,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 15, 2017
 - [python - Difference between numpy.array shape (R, 1) and (R,) - Stack Overflow](http://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r) 
+- [How do you create a read-only user in PostgreSQL? - Stack Overflow](http://stackoverflow.com/questions/760210/how-do-you-create-a-read-only-user-in-postgresql) 
