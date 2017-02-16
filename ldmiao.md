@@ -734,3 +734,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Illustrated Binary Search algorithm](https://illustrated-algorithms.now.sh/) 
 - [深度学习、自然语言处理和表征方法 | 数盟社区](http://dataunion.org/9331.html) 
 - [How to build cross-platform mobile apps using nothing more than a JSON markup](https://medium.freecodecamp.com/how-to-build-cross-platform-mobile-apps-using-nothing-more-than-a-json-markup-f493abec1873#.4dfdri6lt) 
+
+### February 16, 2017
+- [DeepCognition.ai – Visual Deep Learning in Cloud without Programming](http://deepcognition.ai/) 
