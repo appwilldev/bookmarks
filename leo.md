@@ -535,3 +535,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [1.介绍 · python-data-structure-cn](https://facert.gitbooks.io/python-data-structure-cn/) 
 - [40岁财务自由？你明明距离40岁失业更近 - 瞎说职场 - 知乎专栏](https://zhuanlan.zhihu.com/p/25207688) 
 - [40岁财务自由？你明明距离40岁失业更近 - 瞎说职场 - 知乎专栏](https://zhuanlan.zhihu.com/p/25207688) 
+
+### February 17, 2017
+- [循环神经网络RNN打开手册 - 混沌巡洋舰 - 知乎专栏](https://zhuanlan.zhihu.com/p/22930328) 
