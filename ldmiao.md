@@ -740,3 +740,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 17, 2017
 - [ŷhat | R for Excel Users](http://blog.yhat.com/posts/R-for-excel-users.html) 
+- [design-patterns-for-humans/README.md at master · kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) 
