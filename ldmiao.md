@@ -737,3 +737,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 16, 2017
 - [DeepCognition.ai – Visual Deep Learning in Cloud without Programming](http://deepcognition.ai/) 
+
+### February 17, 2017
+- [ŷhat | R for Excel Users](http://blog.yhat.com/posts/R-for-excel-users.html) 
