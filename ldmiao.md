@@ -747,3 +747,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Google Spreadsheets and Python – Twilio Cloud Communications Blog](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) 
 - [From the Dev Desk: Sentiment Analysis Application | SweetIQ Blog](https://sweetiq.com/blog/sentiment-analysis/) 
 - [Users Table Mutations](https://hackernoon.com/users-table-mutations-209fa19412d6#.10e4rhb8o) 
+- [MSDN, 我告诉你](http://msdn.itellyou.cn/) 
