@@ -745,3 +745,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 18, 2017
 - [Google Spreadsheets and Python – Twilio Cloud Communications Blog](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) 
+- [From the Dev Desk: Sentiment Analysis Application | SweetIQ Blog](https://sweetiq.com/blog/sentiment-analysis/) 
