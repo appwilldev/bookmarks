@@ -742,3 +742,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [ŷhat | R for Excel Users](http://blog.yhat.com/posts/R-for-excel-users.html) 
 - [design-patterns-for-humans/README.md at master · kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) 
 - [A Beginner’s Guide to iOS Provisioning Profiles | Theodo](http://www.theodo.fr/blog/2017/02/a-beginners-guide-to-ios-provisioning-profiles/) 
+
+### February 18, 2017
+- [Google Spreadsheets and Python – Twilio Cloud Communications Blog](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) 
