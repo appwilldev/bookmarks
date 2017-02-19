@@ -748,3 +748,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [From the Dev Desk: Sentiment Analysis Application | SweetIQ Blog](https://sweetiq.com/blog/sentiment-analysis/) 
 - [Users Table Mutations](https://hackernoon.com/users-table-mutations-209fa19412d6#.10e4rhb8o) 
 - [MSDN, 我告诉你](http://msdn.itellyou.cn/) 
+
+### February 19, 2017
+- [Hero Patterns | Free repeatable SVG background patterns for your web projects](http://www.heropatterns.com/) 
