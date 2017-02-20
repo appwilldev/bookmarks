@@ -538,3 +538,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 17, 2017
 - [循环神经网络RNN打开手册 - 混沌巡洋舰 - 知乎专栏](https://zhuanlan.zhihu.com/p/22930328) 
+
+### February 20, 2017
+- [微信主动调用接口 — wechatpy 1.3.1 文档](http://docs.wechatpy.org/zh_CN/master/client.html#id2) 
