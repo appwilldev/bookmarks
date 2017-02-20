@@ -751,3 +751,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 19, 2017
 - [Hero Patterns | Free repeatable SVG background patterns for your web projects](http://www.heropatterns.com/) 
+
+### February 20, 2017
+- [RediSearch Documentation](http://redisearch.io/) 
