@@ -760,3 +760,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [YouTube Converter & Downloader - Convert to MP3, MP4, AVI](https://www.onlinevideoconverter.com/video-converter) 
 - [Automatic Colorization](http://tinyclouds.org/colorize/) 
 - [A Story of a Fat Go Binary](https://hackernoon.com/a-story-of-a-fat-go-binary-20edc6549b97#.qxiydo9k2) 
+- [From math to machine: translating a function to machine code](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) 
