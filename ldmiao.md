@@ -758,3 +758,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### February 21, 2017
 - [How we built a backend system for Uber-like map with animated cars on it using Go.](https://blog.maddevs.io/how-we-built-a-backend-system-for-uber-like-map-with-animated-cars-on-it-using-go-29d5dcd517a#.be4xszu65) 
 - [YouTube Converter & Downloader - Convert to MP3, MP4, AVI](https://www.onlinevideoconverter.com/video-converter) 
+- [Automatic Colorization](http://tinyclouds.org/colorize/) 
