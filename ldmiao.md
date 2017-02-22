@@ -766,3 +766,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Fueling the Gold Rush: The Greatest Public Datasets for AI – Startup Grind – Medium](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.qe43viwal) 
 - [posativ/isso: a Disqus alternative](https://github.com/posativ/isso/) 
 - [Image-to-Image Demo - Affine Layer](https://affinelayer.com/pixsrv/) 
+- [Image-to-Image Demo - Affine Layer](https://affinelayer.com/pixsrv/) 
