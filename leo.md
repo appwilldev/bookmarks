@@ -542,3 +542,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### February 20, 2017
 - [微信主动调用接口 — wechatpy 1.3.1 文档](http://docs.wechatpy.org/zh_CN/master/client.html#id2) 
 - [Query API — SQLAlchemy 1.1 Documentation](http://docs.sqlalchemy.org/en/latest/orm/query.html) 
+
+### February 22, 2017
+- [Fueling the Gold Rush: The Greatest Public Datasets for AI – Startup Grind – Medium](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.wfk2b1o0j) 
