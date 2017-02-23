@@ -547,3 +547,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Fueling the Gold Rush: The Greatest Public Datasets for AI – Startup Grind – Medium](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.wfk2b1o0j) 
 - [『深度长文』Tensorflow代码解析（一）](http://mp.weixin.qq.com/s/wC2EKp14lShUf5tAIBg5ow) 
 - [『深度长文』Tensorflow代码解析（一）](http://mp.weixin.qq.com/s/wC2EKp14lShUf5tAIBg5ow) 
+
+### February 23, 2017
+- [Sqitch by theory](http://sqitch.org/) 
