@@ -551,3 +551,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### February 23, 2017
 - [Sqitch by theory](http://sqitch.org/) 
 - [【行研】人工智能行业研究报告（上篇）_36氪](http://36kr.com/p/5064125.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [【行研】 人工智能行业研究报告（下篇）_36氪](http://36kr.com/p/5064126.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
