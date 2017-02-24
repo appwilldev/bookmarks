@@ -556,3 +556,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 24, 2017
 - [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://mp.weixin.qq.com/s/07pyiX6LAZxasKRYkBz6KA) 
+- [首届TensorFlow开发者大会：值得关注的亮点都在这里_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2315) 
