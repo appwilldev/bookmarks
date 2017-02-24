@@ -562,3 +562,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [iView 发布 1.0 正式版，43 个 UI 组件助力中后台业务开发 - Aresn的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/25324298) 
 - [从Chrome源码看浏览器如何计算CSS - 极乐科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/25380611) 
 - [从Chrome源码看浏览器如何计算CSS - 极乐科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/25380611) 
+- [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) 
