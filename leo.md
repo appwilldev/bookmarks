@@ -553,3 +553,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [【行研】人工智能行业研究报告（上篇）_36氪](http://36kr.com/p/5064125.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [【行研】 人工智能行业研究报告（下篇）_36氪](http://36kr.com/p/5064126.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [【行研】 人工智能行业研究报告（下篇）_36氪](http://36kr.com/p/5064126.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### February 24, 2017
+- [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://mp.weixin.qq.com/s/07pyiX6LAZxasKRYkBz6KA) 
