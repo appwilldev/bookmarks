@@ -558,3 +558,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://mp.weixin.qq.com/s/07pyiX6LAZxasKRYkBz6KA) 
 - [首届TensorFlow开发者大会：值得关注的亮点都在这里_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2315) 
 - [首届TensorFlow开发者大会：值得关注的亮点都在这里_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2315) 
+- [[小魔王荐汤] 177位百万富翁生活习惯的总结 - 跨越美利坚 - 面试、创业、技术培训 - 知乎专栏](https://zhuanlan.zhihu.com/p/25221460) 
