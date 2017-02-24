@@ -768,3 +768,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Image-to-Image Demo - Affine Layer](https://affinelayer.com/pixsrv/) 
 - [Image-to-Image Demo - Affine Layer](https://affinelayer.com/pixsrv/) 
 - [理解 Logistic 回归的原理 - Functor](http://functor.me/post/machine-learning/logistic-regression-sigmoid) 
+
+### February 24, 2017
+- [An idiot’s guide to fulltext search in PostgreSQL. – lo.calho.st](https://lo.calho.st/databases/an-idiots-guide-to-fulltext-search-in-postgresql/) 
