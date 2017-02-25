@@ -771,3 +771,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 24, 2017
 - [An idiot’s guide to fulltext search in PostgreSQL. – lo.calho.st](https://lo.calho.st/databases/an-idiots-guide-to-fulltext-search-in-postgresql/) 
+
+### February 25, 2017
+- [teesloane/Auth-Boss: Become an Auth Boss. Learn about different authentication methodologies on the web.](https://github.com/teesloane/Auth-Boss) 
