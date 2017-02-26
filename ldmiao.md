@@ -774,3 +774,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### February 25, 2017
 - [teesloane/Auth-Boss: Become an Auth Boss. Learn about different authentication methodologies on the web.](https://github.com/teesloane/Auth-Boss) 
+
+### February 26, 2017
+- [Save time by transforming images in the command line – Medium](https://medium.com/@martinmalinda/save-time-by-transforming-images-in-the-command-line-c63c83e53b17#.4whswcne4) 
