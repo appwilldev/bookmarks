@@ -782,3 +782,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [WZBSocialScienceCenter/pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract) 
 - [Multihash](http://multiformats.io/multihash/) 
 - [Why Use Eventsourcing Database | Yurii Rashkovskii | Pulse | LinkedIn](http://www.linkedin.com/pulse/why-use-eventsourcing-database-yurii-rashkovskii) 
+- [Event Sourcing Basics — Event Store](http://docs.geteventstore.com/introduction/4.0.0/event-sourcing-basics/) 
