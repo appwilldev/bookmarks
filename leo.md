@@ -563,3 +563,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [从Chrome源码看浏览器如何计算CSS - 极乐科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/25380611) 
 - [从Chrome源码看浏览器如何计算CSS - 极乐科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/25380611) 
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html) 
+
+### February 28, 2017
+- [创业团队技术负责人应该避免的错误 - 简书](http://www.jianshu.com/p/84fc52abb5a9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
