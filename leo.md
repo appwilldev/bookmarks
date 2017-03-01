@@ -570,3 +570,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 1, 2017
 - [Python 2.7.x 与 Python 3.x 的主要差异 | ShinChan's Blog](http://chenqx.github.io/2014/11/10/Key-differences-between-Python-2-7-x-and-Python-3-x/) 
 - [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html) 
+- [Ryzen、Vega、1080Ti发布前，DIY电脑配件价格行情记录 - 知乎专栏](https://zhuanlan.zhihu.com/p/25340313) 
