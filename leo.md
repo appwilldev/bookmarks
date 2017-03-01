@@ -566,3 +566,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 28, 2017
 - [创业团队技术负责人应该避免的错误 - 简书](http://www.jianshu.com/p/84fc52abb5a9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### March 1, 2017
+- [Python 2.7.x 与 Python 3.x 的主要差异 | ShinChan's Blog](http://chenqx.github.io/2014/11/10/Key-differences-between-Python-2-7-x-and-Python-3-x/) 
