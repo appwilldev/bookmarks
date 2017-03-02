@@ -573,3 +573,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Ryzen、Vega、1080Ti发布前，DIY电脑配件价格行情记录 - 知乎专栏](https://zhuanlan.zhihu.com/p/25340313) 
 - [人工智能的开源模式已经过时，我们需要新的开源模式_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/2218) 
 - [2016-09-19_ccks.pdf](http://blog.memect.cn/wp-content/uploads/2016/09/2016-09-19_ccks.pdf) 
+
+### March 2, 2017
+- [胡子大哈](http://huzidaha.com/posts/detail?hmsr=toutiao.io&postId=58b77935204d50674934c3ad&utm_medium=toutiao.io&utm_source=toutiao.io) 
