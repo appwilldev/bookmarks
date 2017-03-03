@@ -581,3 +581,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 3, 2017
 - [独家对话百度副总裁王海峰：NLP 的路还很长 - 知乎专栏](https://zhuanlan.zhihu.com/p/25544459?utm_medium=social&utm_source=wechat_session) 
 - [Gitter — Where developers come to talk.](https://gitter.im/) 
+- [Discourse中文论坛](https://meta.discoursecn.org/) 
