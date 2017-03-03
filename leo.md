@@ -582,3 +582,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [独家对话百度副总裁王海峰：NLP 的路还很长 - 知乎专栏](https://zhuanlan.zhihu.com/p/25544459?utm_medium=social&utm_source=wechat_session) 
 - [Gitter — Where developers come to talk.](https://gitter.im/) 
 - [Discourse中文论坛](https://meta.discoursecn.org/) 
+- [virtualenv - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432712108300322c61f256c74803b43bfd65c6f8d0d0000) 
