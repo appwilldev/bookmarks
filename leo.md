@@ -577,3 +577,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 2, 2017
 - [胡子大哈](http://huzidaha.com/posts/detail?hmsr=toutiao.io&postId=58b77935204d50674934c3ad&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Intel处理器Family、Model、Stepping等的学习 - 为程序员服务](http://ju.outofmemory.cn/entry/247080) 
+
+### March 3, 2017
+- [独家对话百度副总裁王海峰：NLP 的路还很长 - 知乎专栏](https://zhuanlan.zhihu.com/p/25544459?utm_medium=social&utm_source=wechat_session) 
