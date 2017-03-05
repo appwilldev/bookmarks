@@ -795,3 +795,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### March 3, 2017
 - [Use all the Databases - Part 1](https://www.compose.com/articles/use-all-the-databases-part-1/amp/) 
 - [The amazing power of word vectors – the morning paper](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/amp/) 
+
+### March 5, 2017
+- [NoneGG/aredis: An efficient and user-friendly async redis client](https://github.com/NoneGG/aredis) 
