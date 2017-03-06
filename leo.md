@@ -587,3 +587,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 6, 2017
 - [10行Python代码的词云](http://mp.weixin.qq.com/s/HysMAAPMY2zLilQVnTUE5A) 
+- [市场红利期已过，王兴认为下一个机会在这里](http://www.pingwest.com/wangxing-meituan-to-b/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
