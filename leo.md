@@ -592,3 +592,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 7, 2017
 - [52 个有用的机器学习与预测接口盘点](http://www.infoq.com/cn/articles/52-useful-machine-learning-prediction-apis) 
 - [Image tagging and keywording API based on machine learning](https://imagga.com/solutions/auto-tagging.html) 
+- [有了这些 Chrome 插件，效率提升10倍 - _zhijun - 掘金专栏](https://gold.xitu.io/post/5895a4560ce4630056fa3251) 
