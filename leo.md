@@ -597,3 +597,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [PhantomJS -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/tool/phantomjs.html) 
 - [Python 识别验证码 - 简书](http://www.jianshu.com/p/9e97c9b7dab6) 
 - [Command Line Shell For SQLite](https://www.sqlite.org/cli.html) 
+- [隐马尔科夫模型python实现简单拼音输入法 - 知乎专栏](https://zhuanlan.zhihu.com/p/25132270) 
