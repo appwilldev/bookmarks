@@ -804,3 +804,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 7, 2017
 - [Relational Databases: PostgreSQL, MySQL, SQLite - Hyperpolyglot](http://hyperpolyglot.org/db) 
+- [SheetJS/js-xlsx: Multi-format spreadsheet parser and writer](https://github.com/SheetJS/js-xlsx) 
