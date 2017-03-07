@@ -599,3 +599,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Command Line Shell For SQLite](https://www.sqlite.org/cli.html) 
 - [隐马尔科夫模型python实现简单拼音输入法 - 知乎专栏](https://zhuanlan.zhihu.com/p/25132270) 
 - [使用HMM实现简单拼音输入法](http://sobuhu.com/ml/2013/03/07/hmm-pinyin-input-method.html) 
+- [Home - State.of.dev](https://stateofdev.com/) 
