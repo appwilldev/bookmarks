@@ -806,3 +806,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Relational Databases: PostgreSQL, MySQL, SQLite - Hyperpolyglot](http://hyperpolyglot.org/db) 
 - [SheetJS/js-xlsx: Multi-format spreadsheet parser and writer](https://github.com/SheetJS/js-xlsx) 
 - [Screen Capture | PhantomJS](http://phantomjs.org/screen-capture.html) 
+- [Working code for Operational Transformation/CRDT hybrid – Medium](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da#.k6ax1atxv) 
