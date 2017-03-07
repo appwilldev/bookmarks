@@ -807,3 +807,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [SheetJS/js-xlsx: Multi-format spreadsheet parser and writer](https://github.com/SheetJS/js-xlsx) 
 - [Screen Capture | PhantomJS](http://phantomjs.org/screen-capture.html) 
 - [Working code for Operational Transformation/CRDT hybrid – Medium](https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da#.k6ax1atxv) 
+- [字符型图片验证码识别完整过程及Python实现 - 一点一滴的Beer - 博客园](http://www.cnblogs.com/beer/p/5672678.html) 
