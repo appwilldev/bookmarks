@@ -595,3 +595,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [有了这些 Chrome 插件，效率提升10倍 - _zhijun - 掘金专栏](https://gold.xitu.io/post/5895a4560ce4630056fa3251) 
 - [国内值得关注的API集合 - 简书](http://www.jianshu.com/p/ecf037476603) 
 - [PhantomJS -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/tool/phantomjs.html) 
+- [Python 识别验证码 - 简书](http://www.jianshu.com/p/9e97c9b7dab6) 
