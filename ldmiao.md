@@ -811,3 +811,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 8, 2017
 - [Scrimba](https://scrimba.com/) 
+- [How to Write Your First Chrome Extension](http://altitudelabs.com/blog/how-to-write-your-first-chrome-extension/) 
