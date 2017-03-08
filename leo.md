@@ -600,3 +600,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [隐马尔科夫模型python实现简单拼音输入法 - 知乎专栏](https://zhuanlan.zhihu.com/p/25132270) 
 - [使用HMM实现简单拼音输入法](http://sobuhu.com/ml/2013/03/07/hmm-pinyin-input-method.html) 
 - [Home - State.of.dev](https://stateofdev.com/) 
+
+### March 8, 2017
+- [蓄力十年，做一个成就 - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-10-years-planning.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
