@@ -608,3 +608,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [聪明力-一起折腾，让我们每天聪明一点点](http://www.cleverli.cn/) 
 - [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/) 
 - [gensim: Tutorials](https://radimrehurek.com/gensim/tutorial.html) 
+
+### March 9, 2017
+- [PostgreSQL: Documentation: 9.2: The Statistics Collector](https://www.postgresql.org/docs/9.2/static/monitoring-stats.html#PG-STAT-ACTIVITY-VIEW) 
