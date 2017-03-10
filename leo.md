@@ -611,3 +611,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 9, 2017
 - [PostgreSQL: Documentation: 9.2: The Statistics Collector](https://www.postgresql.org/docs/9.2/static/monitoring-stats.html#PG-STAT-ACTIVITY-VIEW) 
+
+### March 10, 2017
+- [东西海朝四区：北京教育疯狂到什么程度](http://mp.weixin.qq.com/s/pqzmgkmaqsHahVV-HG4rSg) 
