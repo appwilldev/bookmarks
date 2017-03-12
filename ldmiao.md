@@ -824,3 +824,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 12, 2017
 - [ssut/py-googletrans: (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.](https://github.com/ssut/py-googletrans) 
+- [Meituan-Dianping/SQLAdvisor: 输入SQL，输出索引优化建议](https://github.com/Meituan-Dianping/SQLAdvisor) 
