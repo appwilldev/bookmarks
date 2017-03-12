@@ -821,3 +821,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 10, 2017
 - [Luxurioust/excelize: Golang library for reading and writing Microsoft Excel (XLSX) files.](https://github.com/Luxurioust/excelize) 
+
+### March 12, 2017
+- [ssut/py-googletrans: (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.](https://github.com/ssut/py-googletrans) 
