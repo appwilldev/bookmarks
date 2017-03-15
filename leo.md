@@ -614,3 +614,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 10, 2017
 - [东西海朝四区：北京教育疯狂到什么程度](http://mp.weixin.qq.com/s/pqzmgkmaqsHahVV-HG4rSg) 
+
+### March 15, 2017
+- [把vim配置成顺手的python轻量级IDE（一） - 简书](http://www.jianshu.com/p/f0513d18742a) 
