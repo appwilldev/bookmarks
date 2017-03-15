@@ -622,3 +622,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [我使用过的Linux命令之dot - 绘制DOT语言脚本描述的图形 - Bash @ Linux - ITeye技术网站](http://codingstandards.iteye.com/blog/840055) 
 - [用 GitLab CI 进行持续集成 | Scarletsky](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/) 
 - [用 GitLab CI 进行持续集成 | Scarletsky](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/) 
+- [基于Gitlab CI搭建持续集成环境 - 简书](http://www.jianshu.com/p/705428ca1410) 
