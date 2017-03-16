@@ -829,3 +829,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### March 16, 2017
 - [spaCy - Industrial-strength Natural Language Processing in Python](https://spacy.io/) 
 - [explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy) 
+- [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read) 
