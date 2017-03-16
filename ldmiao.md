@@ -831,3 +831,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy) 
 - [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read) 
 - [Comparing image tagging services: Google Vision, Microsoft Cognitive Services, Amazon Rekognition and Clarifai • Filestack Blog](http://blog.filestack.com/thoughts-and-knowledge/comparing-google-vision-microsoft-cognitive-amazon-rekognition-clarifai/amp/) 
+- [Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more | sangaline.com](http://sangaline.com/post/advanced-web-scraping-tutorial/) 
