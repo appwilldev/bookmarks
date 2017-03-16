@@ -626,3 +626,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 16, 2017
 - [spaCy - Industrial-strength Natural Language Processing in Python](https://spacy.io/) 
+- [GitLab-CI与GitLab-Runner - 简书](http://www.jianshu.com/p/2b43151fb92e) 
