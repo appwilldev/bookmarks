@@ -832,3 +832,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read) 
 - [Comparing image tagging services: Google Vision, Microsoft Cognitive Services, Amazon Rekognition and Clarifai • Filestack Blog](http://blog.filestack.com/thoughts-and-knowledge/comparing-google-vision-microsoft-cognitive-amazon-rekognition-clarifai/amp/) 
 - [Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more | sangaline.com](http://sangaline.com/post/advanced-web-scraping-tutorial/) 
+
+### March 17, 2017
+- [SyntaxNet学习 | Kiro's Blog](http://kirosummer.github.io/2016/08/20/SyntaxNet%E5%AD%A6%E4%B9%A0/) 
