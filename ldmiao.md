@@ -835,3 +835,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 17, 2017
 - [SyntaxNet学习 | Kiro's Blog](http://kirosummer.github.io/2016/08/20/SyntaxNet%E5%AD%A6%E4%B9%A0/) 
+- [zeeshanu/opus: Open source knowledge base application for Teams](https://github.com/zeeshanu/opus) 
