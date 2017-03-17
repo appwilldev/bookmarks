@@ -838,3 +838,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [zeeshanu/opus: Open source knowledge base application for Teams](https://github.com/zeeshanu/opus) 
 - [Research Blog: Announcing Guetzli: A New Open Source JPEG Encoder](https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Official+Google+Research+Blog)) 
 - [Animista](http://animista.net/) 
+- [google/butteraugli: butteraugli estimates the psychovisual difference between two images](https://github.com/google/butteraugli) 
