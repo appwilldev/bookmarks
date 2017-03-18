@@ -842,3 +842,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 18, 2017
 - [Masterminds/sprig: Useful template functions for Go templates.](https://github.com/Masterminds/sprig) 
+- [ory/ladon: A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.](https://github.com/ory/ladon#installation) 
