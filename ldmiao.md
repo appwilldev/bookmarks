@@ -849,3 +849,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### March 19, 2017
 - [Immersive Math](http://immersivemath.com/ila/index.html) 
 - [The Oblivion Programming Language](http://obliv.me/) 
+- [A new way of blogging about Lua](http://blog.klipse.tech/lua/2017/03/19/blog-lua.html) 
