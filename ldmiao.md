@@ -850,3 +850,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Immersive Math](http://immersivemath.com/ila/index.html) 
 - [The Oblivion Programming Language](http://obliv.me/) 
 - [A new way of blogging about Lua](http://blog.klipse.tech/lua/2017/03/19/blog-lua.html) 
+
+### March 20, 2017
+- [UnnoTed/fileb0x: simple customizable tool to embed files in go](https://github.com/UnnoTed/fileb0x) 
