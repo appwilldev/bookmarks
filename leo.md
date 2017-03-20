@@ -635,3 +635,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 19, 2017
 - [百度一下，你就知道](https://www.baidu.com/) 
+
+### March 20, 2017
+- [Machine Learning - complete course notes](http://www.holehouse.org/mlclass/) 
