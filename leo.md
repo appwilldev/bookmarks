@@ -638,3 +638,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 20, 2017
 - [Machine Learning - complete course notes](http://www.holehouse.org/mlclass/) 
+- [机器之心 | 只需十四步：从零开始掌握Python机器学习（附资源）](http://www.jiqizhixin.com/article/2465) 
