@@ -859,3 +859,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### March 22, 2017
 - [Duplicate image detection with perceptual hashing in Python · Jetsetter Tech](http://tech.jetsetter.com/2017/03/21/duplicate-image-detection/) 
 - [JSON-Schema Powered CMS · Jetsetter Tech](http://tech.jetsetter.com/2016/08/19/json-schema-cms/) 
+- [icebob/vue-form-generator: A schema-based form generator component for Vue.js](https://github.com/icebob/vue-form-generator) 
