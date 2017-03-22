@@ -639,3 +639,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 20, 2017
 - [Machine Learning - complete course notes](http://www.holehouse.org/mlclass/) 
 - [机器之心 | 只需十四步：从零开始掌握Python机器学习（附资源）](http://www.jiqizhixin.com/article/2465) 
+
+### March 22, 2017
+- [使用 git rebase 避免無謂的 merge | ihower { blogging }](https://ihower.tw/blog/archives/3843) 
