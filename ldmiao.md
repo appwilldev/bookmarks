@@ -861,3 +861,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [JSON-Schema Powered CMS · Jetsetter Tech](http://tech.jetsetter.com/2016/08/19/json-schema-cms/) 
 - [icebob/vue-form-generator: A schema-based form generator component for Vue.js](https://github.com/icebob/vue-form-generator) 
 - [mozilla-services/react-jsonschema-form: A React component for building Web forms from JSON Schema.](https://github.com/mozilla-services/react-jsonschema-form) 
+- [Redis as a JSON store | Redis Labs](https://redislabs.com/blog/redis-as-a-json-store/) 
