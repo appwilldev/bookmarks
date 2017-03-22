@@ -649,3 +649,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
 - [GitHub最受欢迎深度学习应用项目Top 16（持续更新）-深度学习世界](http://www.dlworld.cn/ShenDuXueXiYingYong/3134.html) 
 - [深度学习世界--关注深度学习应用，提供深度学习资料下载和技术交流](http://www.dlworld.cn/) 
+- [dotguide.pdf](http://www.graphviz.org/pdf/dotguide.pdf) 
