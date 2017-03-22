@@ -646,3 +646,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [清华教授施一公：压死骆驼的最后一根稻草是鼓励科学家创业。 - 简书](http://www.jianshu.com/p/c05174ea961d) 
 - [Star VC · 任泉：创过业，做过演员，而转型投资人让我获得新生 - 简书](http://www.jianshu.com/p/b5df3fa5ea18) 
 - [深度学习之Neural Image Caption-小石头的码疯窝](http://www.duanshishi.com/?p=1730) 
+- [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
