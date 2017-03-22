@@ -862,3 +862,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [icebob/vue-form-generator: A schema-based form generator component for Vue.js](https://github.com/icebob/vue-form-generator) 
 - [mozilla-services/react-jsonschema-form: A React component for building Web forms from JSON Schema.](https://github.com/mozilla-services/react-jsonschema-form) 
 - [Redis as a JSON store | Redis Labs](https://redislabs.com/blog/redis-as-a-json-store/) 
+- [pbatard/rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus) 
