@@ -643,3 +643,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 22, 2017
 - [使用 git rebase 避免無謂的 merge | ihower { blogging }](https://ihower.tw/blog/archives/3843) 
 - [PhantomJS | PhantomJS](http://phantomjs.org/) 
+- [清华教授施一公：压死骆驼的最后一根稻草是鼓励科学家创业。 - 简书](http://www.jianshu.com/p/c05174ea961d) 
