@@ -650,3 +650,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [GitHub最受欢迎深度学习应用项目Top 16（持续更新）-深度学习世界](http://www.dlworld.cn/ShenDuXueXiYingYong/3134.html) 
 - [深度学习世界--关注深度学习应用，提供深度学习资料下载和技术交流](http://www.dlworld.cn/) 
 - [dotguide.pdf](http://www.graphviz.org/pdf/dotguide.pdf) 
+- [graphics - GraphViz - How to connect subgraphs? - Stack Overflow](http://stackoverflow.com/questions/2012036/graphviz-how-to-connect-subgraphs) 
