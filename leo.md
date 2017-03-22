@@ -647,3 +647,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Star VC · 任泉：创过业，做过演员，而转型投资人让我获得新生 - 简书](http://www.jianshu.com/p/b5df3fa5ea18) 
 - [深度学习之Neural Image Caption-小石头的码疯窝](http://www.duanshishi.com/?p=1730) 
 - [[NLP] 自己动手跑Google的Image Caption模型 - 简书](http://www.jianshu.com/p/18ecbaf9322c) 
+- [GitHub最受欢迎深度学习应用项目Top 16（持续更新）-深度学习世界](http://www.dlworld.cn/ShenDuXueXiYingYong/3134.html) 
