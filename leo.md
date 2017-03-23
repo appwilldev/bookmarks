@@ -658,3 +658,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [绘图工具graphviz学习使用 | lijian](http://hustlijian.github.io/tutorial/2015/05/29/graphviz-learn.html) 
 - [graphviz dot简介](http://rayxulog.appspot.com/article/31/) 
 - [Rufus - 轻松创建USB启动盘](http://rufus.akeo.ie/?locale=zh_CN) 
+- [Publishing in the Distill Research Journal](http://distill.pub/journal/) 
