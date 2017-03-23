@@ -657,3 +657,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用graphviz dot来画图表 - gashero的Geek前哨 - ITeye技术网站](http://gashero.iteye.com/blog/1748795) 
 - [绘图工具graphviz学习使用 | lijian](http://hustlijian.github.io/tutorial/2015/05/29/graphviz-learn.html) 
 - [graphviz dot简介](http://rayxulog.appspot.com/article/31/) 
+- [Rufus - 轻松创建USB启动盘](http://rufus.akeo.ie/?locale=zh_CN) 
