@@ -665,3 +665,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 24, 2017
 - [16.04 - How do I install Python 3.6 using apt-get? - Ask Ubuntu](http://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) 
 - [16.04 - How do I install Python 3.6 using apt-get? - Ask Ubuntu](http://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) 
+- [python 的版本管理-pyenv - 简书](http://www.jianshu.com/p/3b608ce9c6db) 
