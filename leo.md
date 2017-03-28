@@ -671,3 +671,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### March 27, 2017
 - [搭建基本的 Python 开发环境 | 明无梦](http://www.dreamxu.com/build-a-basic-python-development-environment/) 
 - [创新工场汪华：大家想要的AI永远也不会来_36氪](http://36kr.com/p/5068357.html) 
+
+### March 28, 2017
+- [gRPC服务发现&负载均衡 - grpc - SegmentFault](https://segmentfault.com/a/1190000008672912) 
