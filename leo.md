@@ -686,3 +686,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [SQLAlchemy 简单笔记 - 简书](http://www.jianshu.com/p/e6bba189fcbd) 
 - [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/) 
 - [Remote Jobs for Digital Nomads](https://remoteok.io/) 
+- [【直播回顾】趴趴趴第二季 300公里续航趴窝大赛 - 热门话题 - 电动邦论坛 - Powered by Discuz!](http://bbs.diandong.com/forum.php?mod=viewthread&tid=59735) 
