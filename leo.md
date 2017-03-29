@@ -680,3 +680,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 29, 2017
 - [滴滴天使投资人王刚：一个CEO需要经历三次蜕变，领导能力的蜕变最为重要 - 简书](http://www.jianshu.com/p/caa3c333689c) 
+- [Python 的单元测试之 tox](http://wsfdl.com/python/2015/02/01/Python%E7%9A%84%E6%B5%8B%E8%AF%95%E4%B9%8BTox.html) 
