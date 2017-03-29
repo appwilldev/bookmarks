@@ -677,3 +677,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Mare - Mare - Lua 5.3 调试器](http://mare.ejoy.com/) 
 - [电动汽车电池有多贵?小编粗算后惊呆](http://www3.newsmth.net/nForum/#!article/AutoWorld/1940896804) 
 - [Alembic 简明教程 | HX](http://huangx.in/18/alembic-simple-tutorial) 
+
+### March 29, 2017
+- [滴滴天使投资人王刚：一个CEO需要经历三次蜕变，领导能力的蜕变最为重要 - 简书](http://www.jianshu.com/p/caa3c333689c) 
