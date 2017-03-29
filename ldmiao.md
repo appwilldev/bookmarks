@@ -871,3 +871,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### March 29, 2017
 - [Kite - The smart copilot for programmers](https://kite.com/#) 
+- [Pretty Diff - A Diff Algorithm](http://prettydiff.com/guide/unrelated_diff.xhtml) 
