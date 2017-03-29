@@ -868,3 +868,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Motivation — PostgREST 0.4.0.0 documentation](https://postgrest.com/en/v0.4/intro.html) 
 - [begriffs/postgrest: REST API for any Postgres database](https://github.com/begriffs/postgrest) 
 - [txthinking/brook: Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software](https://github.com/txthinking/brook) 
+
+### March 29, 2017
+- [Kite - The smart copilot for programmers](https://kite.com/#) 
