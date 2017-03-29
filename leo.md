@@ -685,3 +685,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [SQLAlchemy 教程 —— 基础入门篇 - 吃咯 - 博客园](http://www.cnblogs.com/mrchige/p/6389588.html) 
 - [SQLAlchemy 简单笔记 - 简书](http://www.jianshu.com/p/e6bba189fcbd) 
 - [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/) 
+- [Remote Jobs for Digital Nomads](https://remoteok.io/) 
