@@ -696,3 +696,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [vim - Exuberant ctags exclude directories - Stack Overflow](http://stackoverflow.com/questions/25819649/exuberant-ctags-exclude-directories) 
 - [explainshell.com - ls](http://explainshell.com/explain?cmd=ls) 
 - [Avro简介 - Eliot - 博客频道 - CSDN.NET](http://blog.csdn.net/xyw_blog/article/details/8967362) 
+- [是什么系列之Avro | kazaff's blog | 种一棵树最佳时间是十年前，其次是现在](http://blog.kazaff.me/2014/07/07/%E6%98%AF%E4%BB%80%E4%B9%88%E7%B3%BB%E5%88%97%E4%B9%8BAvro/) 
