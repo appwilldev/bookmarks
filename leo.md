@@ -692,3 +692,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [优雅的在终端中编写Python | PytLab](http://pytlab.org/2017/03/26/%E4%BC%98%E9%9B%85%E7%9A%84%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E7%BC%96%E5%86%99Python/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [开发者提到最多的十个 GitHub 仓库 - 知乎专栏](https://zhuanlan.zhihu.com/p/26042737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [ctags使用方法 - 技术手札](https://my.oschina.net/hevakelcj/blog/138279) 
+- [🍀 Ctags on OSX · Gmarik Info](http://www.gmarik.info/blog/2010/ctags-on-OSX/) 
