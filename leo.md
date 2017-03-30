@@ -693,3 +693,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [开发者提到最多的十个 GitHub 仓库 - 知乎专栏](https://zhuanlan.zhihu.com/p/26042737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [ctags使用方法 - 技术手札](https://my.oschina.net/hevakelcj/blog/138279) 
 - [🍀 Ctags on OSX · Gmarik Info](http://www.gmarik.info/blog/2010/ctags-on-OSX/) 
+- [vim - Exuberant ctags exclude directories - Stack Overflow](http://stackoverflow.com/questions/25819649/exuberant-ctags-exclude-directories) 
