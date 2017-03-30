@@ -687,3 +687,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Nomad List — Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/) 
 - [Remote Jobs for Digital Nomads](https://remoteok.io/) 
 - [【直播回顾】趴趴趴第二季 300公里续航趴窝大赛 - 热门话题 - 电动邦论坛 - Powered by Discuz!](http://bbs.diandong.com/forum.php?mod=viewthread&tid=59735) 
+
+### March 30, 2017
+- [优雅的在终端中编写Python | PytLab](http://pytlab.org/2017/03/26/%E4%BC%98%E9%9B%85%E7%9A%84%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E7%BC%96%E5%86%99Python/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
