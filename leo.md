@@ -694,3 +694,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [ctags使用方法 - 技术手札](https://my.oschina.net/hevakelcj/blog/138279) 
 - [🍀 Ctags on OSX · Gmarik Info](http://www.gmarik.info/blog/2010/ctags-on-OSX/) 
 - [vim - Exuberant ctags exclude directories - Stack Overflow](http://stackoverflow.com/questions/25819649/exuberant-ctags-exclude-directories) 
+- [explainshell.com - ls](http://explainshell.com/explain?cmd=ls) 
