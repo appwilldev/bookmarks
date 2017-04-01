@@ -704,3 +704,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用graphviz绘制流程图（2015版） - I code it](http://icodeit.org/2015/11/using-graphviz-drawing/) 
 - [Git - 远程分支](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF) 
 - [第 12 期 · HelloGitHub](https://gitbook.hellogithub.com/volume12/HelloGitHub12.html) 
+
+### April 1, 2017
+- [python&&theano系列（2）- theano 手册_wuqiseu_新浪博客](http://blog.sina.com.cn/s/blog_80ce3a550102veyz.html) 
