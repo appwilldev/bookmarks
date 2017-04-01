@@ -707,3 +707,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 1, 2017
 - [python&&theano系列（2）- theano 手册_wuqiseu_新浪博客](http://blog.sina.com.cn/s/blog_80ce3a550102veyz.html) 
+- [How to auto format JSON on save in Vim - Stack Overflow](http://stackoverflow.com/questions/26214156/how-to-auto-format-json-on-save-in-vim) 
