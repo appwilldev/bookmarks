@@ -710,3 +710,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [How to auto format JSON on save in Vim - Stack Overflow](http://stackoverflow.com/questions/26214156/how-to-auto-format-json-on-save-in-vim) 
 - [红杉资本 · 沈南鹏：「黑天鹅」频现的时代，如何做一家伟大的企业？ - 简书](http://www.jianshu.com/p/2ac50b1bc194) 
 - [帝豪EV300能否秒杀中庸的比亚迪e5？](http://www3.newsmth.net/nForum/#!article/AutoWorld/1940858976) 
+
+### April 5, 2017
+- [学习笔记一：改善 Python 程序的 91 个建议 - 知乎专栏](https://zhuanlan.zhihu.com/p/26155739?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
