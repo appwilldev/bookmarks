@@ -713,3 +713,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 5, 2017
 - [学习笔记一：改善 Python 程序的 91 个建议 - 知乎专栏](https://zhuanlan.zhihu.com/p/26155739?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [流利说基于 TensorFlow 的自适应系统实践](https://mp.weixin.qq.com/s/HrrAb05PjXRytwLIICMNMw) 
