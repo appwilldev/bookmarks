@@ -882,3 +882,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### April 5, 2017
 - [nadbm/react-datasheet: Excel-like data grid component for react](https://github.com/nadbm/react-datasheet) 
 - [FancyGrid/awesome-grid: A curated list of grid(table) libraries and resources that developers may find useful.](https://github.com/FancyGrid/awesome-grid) 
+- [heppu/gkill: Easy process killer for macOS, Linux, and Windows](https://github.com/heppu/gkill) 
