@@ -723,3 +723,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Git远程操作详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/06/git_remote.html) 
 - [5.1 代码合并：Merge、Rebase的选择 · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki/5.1-%E4%BB%A3%E7%A0%81%E5%90%88%E5%B9%B6%EF%BC%9AMerge%E3%80%81Rebase%E7%9A%84%E9%80%89%E6%8B%A9) 
 - [7. 使用 rebase 合併【教學1 使用分支】 | 連猴子都能懂的Git入門指南 | 貝格樂（Backlog）](https://backlogtool.com/git-guide/tw/stepup/stepup2_8.html) 
+- [常用 Git 命令清单 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
