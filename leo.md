@@ -717,3 +717,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [机器学习进阶笔记之十 | 那些TensorFlow上好玩的黑科技 - 知乎专栏](https://zhuanlan.zhihu.com/p/25644543?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [TensorFlow识别字母扭曲干扰型验证码-开放源码与98%模型 | | URl-team](https://www.urlteam.org/2017/03/tensorflow%E8%AF%86%E5%88%AB%E5%AD%97%E6%AF%8D%E6%89%AD%E6%9B%B2%E5%B9%B2%E6%89%B0%E5%9E%8B%E9%AA%8C%E8%AF%81%E7%A0%81-%E5%BC%80%E6%94%BE%E6%BA%90%E7%A0%81%E4%B8%8E98%E6%A8%A1%E5%9E%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [iLovePDF | Online PDF tools for PDF lovers](http://www.ilovepdf.com/) 
+
+### April 6, 2017
+- [Supervisord: Restarting and Reloading – Onur Güzel](http://www.onurguzel.com/supervisord-restarting-and-reloading/) 
