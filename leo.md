@@ -721,3 +721,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### April 6, 2017
 - [Supervisord: Restarting and Reloading – Onur Güzel](http://www.onurguzel.com/supervisord-restarting-and-reloading/) 
 - [Git远程操作详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/06/git_remote.html) 
+- [5.1 代码合并：Merge、Rebase的选择 · geeeeeeeeek/git-recipes Wiki](https://github.com/geeeeeeeeek/git-recipes/wiki/5.1-%E4%BB%A3%E7%A0%81%E5%90%88%E5%B9%B6%EF%BC%9AMerge%E3%80%81Rebase%E7%9A%84%E9%80%89%E6%8B%A9) 
