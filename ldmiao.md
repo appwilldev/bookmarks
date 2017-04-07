@@ -888,3 +888,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [timescale/timescaledb: An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.](https://github.com/timescale/timescaledb) 
 - [bitnine-oss/agensgraph: AgensGraph, a transactional graph database based on PostgreSQL](https://github.com/bitnine-oss/agensgraph) 
 - [matcornic/hermes: Golang package that generates clean, responsive HTML e-mails for sending transactional mail](https://github.com/matcornic/hermes) 
+
+### April 7, 2017
+- [Research Blog: Federated Learning: Collaborative Machine Learning without Centralized Training Data](http://research.googleblog.com/2017/04/federated-learning-collaborative.html) 
