@@ -891,3 +891,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### April 7, 2017
 - [Research Blog: Federated Learning: Collaborative Machine Learning without Centralized Training Data](http://research.googleblog.com/2017/04/federated-learning-collaborative.html) 
+
+### April 10, 2017
+- [Magnetico: A Personal Torrent Search Engine That Can't Be Shut Down - TorrentFreak](https://torrentfreak.com/magnetico-a-personal-torrent-search-engine-that-cant-be-shut-down-170409/) 
