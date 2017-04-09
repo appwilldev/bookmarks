@@ -896,3 +896,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Magnetico: A Personal Torrent Search Engine That Can't Be Shut Down - TorrentFreak](https://torrentfreak.com/magnetico-a-personal-torrent-search-engine-that-cant-be-shut-down-170409/) 
 - [dan-v/dosxvpn: One click personal VPN server on DigitalOcean with automated OSX setup.](https://github.com/dan-v/dosxvpn) 
 - [Introducing ReactXP - ReactXP Blog](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html) 
+- [therecipe/qt: Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS](https://github.com/therecipe/qt) 
