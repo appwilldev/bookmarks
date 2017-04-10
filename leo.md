@@ -730,3 +730,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Jenkins](https://jenkins.io/) 
 - [GUI for git|SourceTree|入门基础 - 简书](http://www.jianshu.com/p/be9f0484af9d) 
 - [这 10 个 Python 项目超有趣！ - 后端 - 掘金](https://juejin.im/entry/58e06da1a0bb9f0069e954e2) 
+
+### April 10, 2017
+- [A library for building cross-platform apps - ReactXP](https://microsoft.github.io/reactxp/) 
