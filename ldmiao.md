@@ -904,3 +904,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### April 12, 2017
 - [AutoDraw](http://www.autodraw.com/) 
+
+### April 14, 2017
+- [移动Web开发 小程序开发 开源软件集合 - OpenDigg](http://www.opendigg.com/tags/wechat-app) 
