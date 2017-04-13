@@ -910,3 +910,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [opendigg/awesome-github-wechat-weapp: 微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp) 
 - [微信小程序开发者社区](https://wxappfans.com/) 
 - [wepyjs - 小程序组件化开发框架](https://wepyjs.github.io/wepy/#/) 
+- [WePY 在小程序性能调优上做出的探究 - 码疯窝 - SegmentFault](https://segmentfault.com/a/1190000008975448) 
