@@ -908,3 +908,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### April 14, 2017
 - [移动Web开发 小程序开发 开源软件集合 - OpenDigg](http://www.opendigg.com/tags/wechat-app) 
 - [opendigg/awesome-github-wechat-weapp: 微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp) 
+- [微信小程序开发者社区](https://wxappfans.com/) 
