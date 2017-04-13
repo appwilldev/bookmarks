@@ -737,3 +737,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### April 11, 2017
 - [图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html) 
 - [Readhub](https://readhub.me/) 
+
+### April 13, 2017
+- [CSM-Huan--Register & Sign in](http://www.csm-huan.com/index_nologin.html) 
