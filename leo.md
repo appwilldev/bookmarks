@@ -741,3 +741,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### April 13, 2017
 - [CSM-Huan--Register & Sign in](http://www.csm-huan.com/index_nologin.html) 
 - [策略路由基础命令(Linux) - 51CTO.COM](http://network.51cto.com/art/201311/415498.htm) 
+
+### April 14, 2017
+- [Nginx下配置Http Basic Auth保护目录 « 老N的博客](http://neolee.com/web/nginx-http-basic-auth/?doing_wp_cron=1492160124.9402840137481689453125) 
