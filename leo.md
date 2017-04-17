@@ -753,3 +753,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [ipc - What are the semaphore arrays on Linux? - Server Fault](https://serverfault.com/questions/312982/what-are-the-semaphore-arrays-on-linux) 
 - [8.5. Setting Semaphore Parameters](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Tuning_and_Optimizing_Red_Hat_Enterprise_Linux_for_Oracle_9i_and_10g_Databases/sect-Oracle_9i_and_10g_Tuning_Guide-Setting_Semaphores-Setting_Semaphore_Parameters.html) 
 - [SEMMSL SEMMNS SEMOPM SEMMNI四个参数的含义_Sweet_薇薇毅_新浪博客](http://blog.sina.com.cn/s/blog_525394060100k7g2.html) 
+- [How do you create a read-only user in PostgreSQL? - Stack Overflow](http://stackoverflow.com/questions/760210/how-do-you-create-a-read-only-user-in-postgresql) 
