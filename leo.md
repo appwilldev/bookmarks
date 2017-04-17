@@ -751,3 +751,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Linux CPU affinity - yfk的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yfkiss/article/details/7464968) 
 - [Git深度使用经验总结 - Android/Linux的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kangear/article/details/13169395) 
 - [ipc - What are the semaphore arrays on Linux? - Server Fault](https://serverfault.com/questions/312982/what-are-the-semaphore-arrays-on-linux) 
+- [8.5. Setting Semaphore Parameters](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Tuning_and_Optimizing_Red_Hat_Enterprise_Linux_for_Oracle_9i_and_10g_Databases/sect-Oracle_9i_and_10g_Tuning_Guide-Setting_Semaphores-Setting_Semaphore_Parameters.html) 
