@@ -750,3 +750,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [linux - How to know if a disk is an SSD or an HDD - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/65595/how-to-know-if-a-disk-is-an-ssd-or-an-hdd) 
 - [Linux CPU affinity - yfk的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yfkiss/article/details/7464968) 
 - [Git深度使用经验总结 - Android/Linux的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kangear/article/details/13169395) 
+- [ipc - What are the semaphore arrays on Linux? - Server Fault](https://serverfault.com/questions/312982/what-are-the-semaphore-arrays-on-linux) 
