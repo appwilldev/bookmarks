@@ -748,3 +748,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### April 17, 2017
 - [速8观后实测丨远程控制汽车真的可行吗？反捉奸必备 清除车内跟踪器！ - 知乎专栏](https://zhuanlan.zhihu.com/p/26392705?group_id=837017022528376832) 
 - [linux - How to know if a disk is an SSD or an HDD - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/65595/how-to-know-if-a-disk-is-an-ssd-or-an-hdd) 
+- [Linux CPU affinity - yfk的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yfkiss/article/details/7464968) 
