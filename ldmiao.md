@@ -917,3 +917,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### April 17, 2017
 - [Introduction · Slate](https://docs.slatejs.org/) 
 - [Listly.io - Web page (HTML) to Excel in seconds](http://www.listly.io/) 
+
+### April 20, 2017
+- [adnanh/webhook: webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.](https://github.com/adnanh/webhook) 
