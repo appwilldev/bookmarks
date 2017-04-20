@@ -755,3 +755,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [SEMMSL SEMMNS SEMOPM SEMMNI四个参数的含义_Sweet_薇薇毅_新浪博客](http://blog.sina.com.cn/s/blog_525394060100k7g2.html) 
 - [How do you create a read-only user in PostgreSQL? - Stack Overflow](http://stackoverflow.com/questions/760210/how-do-you-create-a-read-only-user-in-postgresql) 
 - [How do you create a read-only user in PostgreSQL? - Stack Overflow](http://stackoverflow.com/questions/760210/how-do-you-create-a-read-only-user-in-postgresql) 
+
+### April 20, 2017
+- [将Shadownsocks代理转换成http proxy类型 - 蕲春人的博客](http://qichunren.github.io/tool/2014/07/15/Convert-shadowsocks-into-http-proxy-on-mac/) 
