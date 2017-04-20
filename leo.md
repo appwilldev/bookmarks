@@ -758,3 +758,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 20, 2017
 - [将Shadownsocks代理转换成http proxy类型 - 蕲春人的博客](http://qichunren.github.io/tool/2014/07/15/Convert-shadowsocks-into-http-proxy-on-mac/) 
+- [go get 命令得到timeout错误的解决办法（翻墙办法！） - boydfd的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/boydfd/article/details/50923577) 
