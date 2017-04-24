@@ -765,3 +765,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 24, 2017
 - [机器之心 | 三张图读懂机器学习：基本概念、五大流派与九种常见算法](http://jiqizhixin.com/article/2690) 
+- [机器之心 | 自动驾驶计算机视觉研究综述：难题、数据集与前沿成果](http://jiqizhixin.com/article/2694) 
