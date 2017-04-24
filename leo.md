@@ -762,3 +762,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [x86、i386、amd64、ia64的区别 - 运维之路](http://www.361way.com/cpuinfo/1510.html) 
 - [Install Mono on Linux | Mono](http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-and-derivatives) 
 - [Linux 查看CPU信息，机器型号，内存等信息 - hunterli](https://my.oschina.net/hunterli/blog/140783) 
+
+### April 24, 2017
+- [机器之心 | 三张图读懂机器学习：基本概念、五大流派与九种常见算法](http://jiqizhixin.com/article/2690) 
