@@ -928,3 +928,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Painting with Code : Airbnb Design](http://airbnb.design/painting-with-code/) 
 - [adtac/commento: A lightweight, tracking-free comment engine written in Go](https://github.com/adtac/commento) 
 - [Integrating GitLab and Google Calendar. – lo.calho.st](https://lo.calho.st/projects/integrating-gitlab-and-google-calendar/) 
+- [mbasso/awesome-wasm: 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm) 
