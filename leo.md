@@ -774,3 +774,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Getting Started - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/getting-started/) 
 - [Let's Encrypt，免费好用的 HTTPS 证书 | JerryQu 的小站](https://imququ.com/post/letsencrypt-certificate.html) 
 - [申请Let's Encrypt免费ssl证书流程和部署https服务 - 晶晶的博客](http://blog.jjonline.cn/linux/221.html) 
+- [实战申请Let’s Encrypt永久免费SSL证书过程教程及常见问题 | 老左博客](http://www.laozuo.org/7676.html) 
