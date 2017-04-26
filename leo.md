@@ -779,3 +779,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [手把手教你在Nginx上使用CertBot - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005797776) 
 - [HTTPS 简介及使用官方工具 Certbot 配置 Let’s Encrypt SSL 安全证书详细教程 | Linux Story](https://linuxstory.org/deploy-lets-encrypt-ssl-certificate-with-certbot/) 
 - [HTTPS 简介及使用官方工具 Certbot 配置 Let’s Encrypt SSL 安全证书详细教程 | Linux Story](https://linuxstory.org/deploy-lets-encrypt-ssl-certificate-with-certbot/) 
+- [Let's Encrypt 给网站加 HTTPS 完全指南](https://ksmx.me/letsencrypt-ssl-https/) 
