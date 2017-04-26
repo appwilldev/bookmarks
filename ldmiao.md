@@ -923,3 +923,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### April 23, 2017
 - [Make an iOS appstore out of Gitlab Pages – mogui – Medium](https://medium.com/@mogui247/make-an-ios-appstore-out-of-gitlab-pages-99d4d16b0455) 
+
+### April 26, 2017
+- [Painting with Code : Airbnb Design](http://airbnb.design/painting-with-code/) 
