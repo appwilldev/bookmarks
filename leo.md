@@ -784,3 +784,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [【图】E5半年使用心得，顺便来个车主认证_比亚迪e5论坛_汽车之家论坛](http://club.autohome.com.cn/bbs/thread-c-4073-60147185-1.html#pvareaid=101431) 
 - [Nginx Open File Cache](http://kdr2.com/tech/main/1409-nginx-open-file-cache.html) 
 - [在Ubuntu中通过update-alternatives切换软件版本 - 坚持而不浮躁 - ITeye技术网站](http://persevere.iteye.com/blog/1479524) 
+- [Java SE Development Kit 8 - Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
