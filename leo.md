@@ -785,3 +785,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Nginx Open File Cache](http://kdr2.com/tech/main/1409-nginx-open-file-cache.html) 
 - [在Ubuntu中通过update-alternatives切换软件版本 - 坚持而不浮躁 - ITeye技术网站](http://persevere.iteye.com/blog/1479524) 
 - [Java SE Development Kit 8 - Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
+
+### April 27, 2017
+- [如何在 nginx 中缓存静态文件-系统运维|Linux.中国-开源社区](https://linux.cn/article-7726-1.html) 
