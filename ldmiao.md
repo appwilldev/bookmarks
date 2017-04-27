@@ -932,3 +932,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### April 27, 2017
 - [gRPC-Web: Moving past REST+JSON towards type-safe Web APIs - Improbable](https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis) 
+- [Linux Programming - Signals the easy way](https://www.stev.org/post/linuxprogrammingsignalstheeasyway) 
