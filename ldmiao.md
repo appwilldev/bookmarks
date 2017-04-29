@@ -937,3 +937,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### April 28, 2017
 - [A dive into spatial search algorithms – Vladimir Agafonkin – Medium](https://medium.com/@agafonkin/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a) 
 - [zhongjie-chen/wx-drawer: 小程序模仿QQ6.0侧滑菜单 wx-drawer](https://github.com/zhongjie-chen/wx-drawer) 
+
+### April 29, 2017
+- [yandex/gixy: Nginx configuration static analyzer](https://github.com/yandex/gixy) 
