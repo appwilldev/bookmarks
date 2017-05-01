@@ -944,3 +944,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### May 1, 2017
 - [Nanolog: Super Fast Logging for Go · Scott Mansfield](http://blog.sgmansfield.com/2017/04/nanolog-super-fast-logging-for-go/) 
 - [Why use Postgres (Updated for last 5 years) - Craig Kerstiens](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/) 
+- [Sirvasile/Typefont: An algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries.](https://github.com/Sirvasile/Typefont) 
