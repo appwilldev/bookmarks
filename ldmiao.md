@@ -940,3 +940,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### April 29, 2017
 - [yandex/gixy: Nginx configuration static analyzer](https://github.com/yandex/gixy) 
+
+### May 1, 2017
+- [Nanolog: Super Fast Logging for Go · Scott Mansfield](http://blog.sgmansfield.com/2017/04/nanolog-super-fast-logging-for-go/) 
