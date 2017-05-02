@@ -948,3 +948,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### May 2, 2017
 - [Getting Started with Headless Chrome  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome) 
+- [Ingesting Documents (pdf, word, txt, etc) Into ElasticSearch](https://blog.ambar.cloud/ingesting-documents-pdf-word-txt-etc-into-elasticsearch/amp/) 
