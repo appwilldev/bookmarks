@@ -798,3 +798,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 3, 2017
 - [登录](http://www.yelinchina.com/login.php) 
+- [有哪些命令行的软件堪称神器？ - 知乎](https://www.zhihu.com/question/59227720) 
