@@ -803,3 +803,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [python - Unable to upgrade pip - Ask Ubuntu](https://askubuntu.com/questions/644911/unable-to-upgrade-pip) 
 - [使用Git生成patch和应用patch - 简书](http://www.jianshu.com/p/814fb6606734) 
 - [Python爬虫利器五之Selenium的用法 | 静觅](http://cuiqingcai.com/2599.html) 
+- [深入理解HTTPS原理、过程与实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/26682342?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
