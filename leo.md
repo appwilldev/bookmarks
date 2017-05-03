@@ -802,3 +802,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Python爬虫(六)--Scrapy框架学习 - 简书](http://www.jianshu.com/p/078ad2067419) 
 - [python - Unable to upgrade pip - Ask Ubuntu](https://askubuntu.com/questions/644911/unable-to-upgrade-pip) 
 - [使用Git生成patch和应用patch - 简书](http://www.jianshu.com/p/814fb6606734) 
+- [Python爬虫利器五之Selenium的用法 | 静觅](http://cuiqingcai.com/2599.html) 
