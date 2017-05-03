@@ -804,3 +804,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用Git生成patch和应用patch - 简书](http://www.jianshu.com/p/814fb6606734) 
 - [Python爬虫利器五之Selenium的用法 | 静觅](http://cuiqingcai.com/2599.html) 
 - [深入理解HTTPS原理、过程与实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/26682342?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Python爬虫(六)--Scrapy框架学习 - 简书](http://www.jianshu.com/p/078ad2067419) 
