@@ -812,3 +812,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [SOCAT 简介 - BrieflyX's Base](http://brieflyx.me/2015/linux-tools/socat-introduction/) 
 - [三种端口转发的方法,socat,iptables,ssh | linux菜园子](http://lisux.me/lishuai/?p=439) 
 - [socat的安装与使用 - koozxcv的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/koozxcv/article/details/50520057) 
+- [NetCAT 的七種滲透式安全測試用法 | 軟體品管的專業思維](http://www.qa-knowhow.com/?p=3767) 
