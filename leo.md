@@ -811,3 +811,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [redis配置文件详解 - 无名之辈 - 51CTO技术博客](http://server110.blog.51cto.com/3432391/1734714) 
 - [SOCAT 简介 - BrieflyX's Base](http://brieflyx.me/2015/linux-tools/socat-introduction/) 
 - [三种端口转发的方法,socat,iptables,ssh | linux菜园子](http://lisux.me/lishuai/?p=439) 
+- [socat的安装与使用 - koozxcv的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/koozxcv/article/details/50520057) 
