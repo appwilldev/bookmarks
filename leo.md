@@ -808,3 +808,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 4, 2017
 - [redis解决（DENIED Redis is running in protected mode because prote） - 7835882 - 51CTO技术博客](http://crfsz.blog.51cto.com/7835882/1878137) 
+- [redis配置文件详解 - 无名之辈 - 51CTO技术博客](http://server110.blog.51cto.com/3432391/1734714) 
