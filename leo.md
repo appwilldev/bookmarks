@@ -814,3 +814,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [socat的安装与使用 - koozxcv的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/koozxcv/article/details/50520057) 
 - [NetCAT 的七種滲透式安全測試用法 | 軟體品管的專業思維](http://www.qa-knowhow.com/?p=3767) 
 - [htop使用详解 – linux运维部落](http://www.178linux.com/4394) 
+
+### May 5, 2017
+- [机器之心 | 人工智能产品化的关键是基础架构和数据，而非算法](http://jiqizhixin.com/article/2592) 
