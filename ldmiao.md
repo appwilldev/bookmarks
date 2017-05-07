@@ -952,3 +952,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### May 4, 2017
 - [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa#docs) 
+
+### May 7, 2017
+- [loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6) 
