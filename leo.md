@@ -827,3 +827,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Ingesting Documents (pdf, word, txt, etc) Into ElasticSearch](https://blog.ambar.cloud/ingesting-documents-pdf-word-txt-etc-into-elasticsearch/amp/) 
 - [Vimflowy](https://vimflowy.bitballoon.com/) 
 - [鲁迅日记 WorkFlowy 版：20 年日记，7500 行，35 万字 - WorkFlowy](https://workflowy.com/s/nhlkGUREJw#) 
+- [极简笔记软件：Workflowy使用技巧(整理) - 简书](http://www.jianshu.com/p/b89633c95b10) 
