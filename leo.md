@@ -825,3 +825,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Apache Tika – Apache Tika](http://tika.apache.org/) 
 - [Apache Tika – Apache Tika](http://tika.apache.org/) 
 - [Ingesting Documents (pdf, word, txt, etc) Into ElasticSearch](https://blog.ambar.cloud/ingesting-documents-pdf-word-txt-etc-into-elasticsearch/amp/) 
+- [Vimflowy](https://vimflowy.bitballoon.com/) 
