@@ -826,3 +826,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Apache Tika – Apache Tika](http://tika.apache.org/) 
 - [Ingesting Documents (pdf, word, txt, etc) Into ElasticSearch](https://blog.ambar.cloud/ingesting-documents-pdf-word-txt-etc-into-elasticsearch/amp/) 
 - [Vimflowy](https://vimflowy.bitballoon.com/) 
+- [鲁迅日记 WorkFlowy 版：20 年日记，7500 行，35 万字 - WorkFlowy](https://workflowy.com/s/nhlkGUREJw#) 
