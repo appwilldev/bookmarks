@@ -824,3 +824,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [一篇文章学懂Shell脚本 - 简书](http://www.jianshu.com/p/71cb62f08768?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Apache Tika – Apache Tika](http://tika.apache.org/) 
 - [Apache Tika – Apache Tika](http://tika.apache.org/) 
+- [Ingesting Documents (pdf, word, txt, etc) Into ElasticSearch](https://blog.ambar.cloud/ingesting-documents-pdf-word-txt-etc-into-elasticsearch/amp/) 
