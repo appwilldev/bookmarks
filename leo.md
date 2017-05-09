@@ -832,3 +832,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 9, 2017
 - [FinTech Weekly - News & Articles on fintech and finance](https://www.fintechweekly.com/) 
+- [小心深度学习这个“坑”（入门误区详细版）](https://mp.weixin.qq.com/s/6rAqeAzE56qz2g1siZ8BNw) 
