@@ -829,3 +829,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [鲁迅日记 WorkFlowy 版：20 年日记，7500 行，35 万字 - WorkFlowy](https://workflowy.com/s/nhlkGUREJw#) 
 - [极简笔记软件：Workflowy使用技巧(整理) - 简书](http://www.jianshu.com/p/b89633c95b10) 
 - [python GUI编程(Tkinter) | 菜鸟教程](http://www.runoob.com/python/python-gui-tkinter.html) 
+
+### May 9, 2017
+- [FinTech Weekly - News & Articles on fintech and finance](https://www.fintechweekly.com/) 
