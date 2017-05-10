@@ -837,3 +837,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 10, 2017
 - [微信公众平台开发 微信模板消息发送 - 简书](http://www.jianshu.com/p/a3c23a890da0) 
+- [微信小程序 6 大新能力全面解读！附个人开发者注册教程 | 爱范儿](http://www.ifanr.com/809454) 
