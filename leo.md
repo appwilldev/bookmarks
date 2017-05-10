@@ -834,3 +834,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [FinTech Weekly - News & Articles on fintech and finance](https://www.fintechweekly.com/) 
 - [小心深度学习这个“坑”（入门误区详细版）](https://mp.weixin.qq.com/s/6rAqeAzE56qz2g1siZ8BNw) 
 - [Deep Learning的展望](https://mp.weixin.qq.com/s/yFY1MQUxD-G_4oFqu4XYqA) 
+
+### May 10, 2017
+- [微信公众平台开发 微信模板消息发送 - 简书](http://www.jianshu.com/p/a3c23a890da0) 
