@@ -838,3 +838,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 10, 2017
 - [微信公众平台开发 微信模板消息发送 - 简书](http://www.jianshu.com/p/a3c23a890da0) 
 - [微信小程序 6 大新能力全面解读！附个人开发者注册教程 | 爱范儿](http://www.ifanr.com/809454) 
+
+### May 11, 2017
+- [PostgreSQL: 数组类型(array) 的使用 - francs的日志 - 网易博客](http://francs3.blog.163.com/blog/static/405767272011103105752290/) 
