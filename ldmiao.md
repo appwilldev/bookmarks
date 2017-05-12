@@ -956,3 +956,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### May 7, 2017
 - [loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6) 
 - [WuTheFWasThat/vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy) 
+
+### May 12, 2017
+- [kishikawakatsumi/SpreadsheetView: Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.](https://github.com/kishikawakatsumi/SpreadsheetView) 
