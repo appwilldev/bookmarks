@@ -962,3 +962,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### May 13, 2017
 - [Noun Project - Icons for Everything](https://thenounproject.com/) 
+- [1.12.13 — sh 1.12.13 documentation](http://amoffat.github.io/sh/index.html) 
