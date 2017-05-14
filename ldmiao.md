@@ -966,3 +966,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### May 15, 2017
 - [Introducing Badger: A fast key-value store written natively in Go - Dgraph Blog](https://open.dgraph.io/post/badger/) 
+- [getinsomnia/insomnia: The most intuitive cross-platform REST API Client 😴](https://github.com/getinsomnia/insomnia) 
