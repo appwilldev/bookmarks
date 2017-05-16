@@ -841,3 +841,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 11, 2017
 - [PostgreSQL: 数组类型(array) 的使用 - francs的日志 - 网易博客](http://francs3.blog.163.com/blog/static/405767272011103105752290/) 
+
+### May 16, 2017
+- [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/) 
