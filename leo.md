@@ -845,3 +845,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 16, 2017
 - [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/) 
 - [自动化工具——ansible中文指南 | the5fire的技术博客](https://www.the5fire.com/ansible-guide-cn.html) 
+- [机器之心 | 人工智能学术平台PaperWeekly正式创业，并获机器之心种子轮战略投资](http://jiqizhixin.com/article/2828) 
