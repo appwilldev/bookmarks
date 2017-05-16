@@ -848,3 +848,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [机器之心 | 人工智能学术平台PaperWeekly正式创业，并获机器之心种子轮战略投资](http://jiqizhixin.com/article/2828) 
 - [创新工场汪华：给早期创业者的44条建议 _36氪](http://36kr.com/p/5075099.html) 
 - [我在B站学数学 - 知乎专栏](https://zhuanlan.zhihu.com/p/26899736) 
+- [[JavaScript] V8引擎：JavaScript代码的编译和优化 - 简书](http://www.jianshu.com/p/b858eff53e43) 
