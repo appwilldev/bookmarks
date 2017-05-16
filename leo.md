@@ -850,3 +850,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [我在B站学数学 - 知乎专栏](https://zhuanlan.zhihu.com/p/26899736) 
 - [[JavaScript] V8引擎：JavaScript代码的编译和优化 - 简书](http://www.jianshu.com/p/b858eff53e43) 
 - [宜家因为员工租不起大房子，给他们造了微型公寓住…… | 爱范儿](http://www.ifanr.com/836591) 
+- [使用rsync同步目录 - Mike_Zhang - 博客园](http://www.cnblogs.com/MikeZhang/p/rsyncExample_20160818.html) 
