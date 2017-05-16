@@ -844,3 +844,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 16, 2017
 - [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/) 
+- [自动化工具——ansible中文指南 | the5fire的技术博客](https://www.the5fire.com/ansible-guide-cn.html) 
