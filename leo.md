@@ -847,3 +847,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [自动化工具——ansible中文指南 | the5fire的技术博客](https://www.the5fire.com/ansible-guide-cn.html) 
 - [机器之心 | 人工智能学术平台PaperWeekly正式创业，并获机器之心种子轮战略投资](http://jiqizhixin.com/article/2828) 
 - [创新工场汪华：给早期创业者的44条建议 _36氪](http://36kr.com/p/5075099.html) 
+- [我在B站学数学 - 知乎专栏](https://zhuanlan.zhihu.com/p/26899736) 
