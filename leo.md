@@ -856,3 +856,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 17, 2017
 - [独家：独领风骚的B站，其监控有何过人之处？](https://mp.weixin.qq.com/s/0eRT0E_i0e62ONZO23cluw) 
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/) 
+- [Prometheus监控 - 简介、架构及基本环境配置 - y_xiao_的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/y_xiao_/article/details/50816248) 
