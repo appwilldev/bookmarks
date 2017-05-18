@@ -861,3 +861,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 18, 2017
 - [他提前参观了 Apple Park ，发现了乔布斯的几个「秘密」](https://mp.weixin.qq.com/s/kV_lRlBH0t8Lr7gcqRJ_fQ) 
+- [一名 40 岁“老”程序员的反思 - 文章 - 伯乐在线](http://blog.jobbole.com/111182/) 
