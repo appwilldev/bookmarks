@@ -858,3 +858,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/) 
 - [Prometheus监控 - 简介、架构及基本环境配置 - y_xiao_的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/y_xiao_/article/details/50816248) 
 - [基于Prometheus的分布式在线服务监控实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/24811652) 
+
+### May 18, 2017
+- [他提前参观了 Apple Park ，发现了乔布斯的几个「秘密」](https://mp.weixin.qq.com/s/kV_lRlBH0t8Lr7gcqRJ_fQ) 
