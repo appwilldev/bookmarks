@@ -863,3 +863,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [他提前参观了 Apple Park ，发现了乔布斯的几个「秘密」](https://mp.weixin.qq.com/s/kV_lRlBH0t8Lr7gcqRJ_fQ) 
 - [一名 40 岁“老”程序员的反思 - 文章 - 伯乐在线](http://blog.jobbole.com/111182/) 
 - [How to copy file preserving directory path in Linux? - Server Fault](https://serverfault.com/questions/180853/how-to-copy-file-preserving-directory-path-in-linux) 
+- [How to move or copy files listed by 'find' command in unix? - Stack Overflow](http://stackoverflow.com/questions/17368872/how-to-move-or-copy-files-listed-by-find-command-in-unix) 
