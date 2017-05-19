@@ -864,3 +864,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [一名 40 岁“老”程序员的反思 - 文章 - 伯乐在线](http://blog.jobbole.com/111182/) 
 - [How to copy file preserving directory path in Linux? - Server Fault](https://serverfault.com/questions/180853/how-to-copy-file-preserving-directory-path-in-linux) 
 - [How to move or copy files listed by 'find' command in unix? - Stack Overflow](http://stackoverflow.com/questions/17368872/how-to-move-or-copy-files-listed-by-find-command-in-unix) 
+
+### May 19, 2017
+- [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 
