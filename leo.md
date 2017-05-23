@@ -873,3 +873,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 23, 2017
 - [Copying PostgreSQL database to another server - Stack Overflow](https://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server) 
+- [iF DESIGN AWARD & WORLD DESIGN GUIDE - iF WORLD DESIGN GUIDE](http://ifworlddesignguide.com/) 
