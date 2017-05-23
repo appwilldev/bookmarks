@@ -870,3 +870,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 22, 2017
 - [利用ssh隧道及autossh进行端口映射 | Wangerry](https://www.wangerry.com/archives/wd421#ssh) 
+
+### May 23, 2017
+- [Copying PostgreSQL database to another server - Stack Overflow](https://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server) 
