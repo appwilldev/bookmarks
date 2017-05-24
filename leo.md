@@ -874,3 +874,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 23, 2017
 - [Copying PostgreSQL database to another server - Stack Overflow](https://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server) 
 - [iF DESIGN AWARD & WORLD DESIGN GUIDE - iF WORLD DESIGN GUIDE](http://ifworlddesignguide.com/) 
+
+### May 24, 2017
+- [设计师会编程、程序员懂艺术之设计规范](https://mp.weixin.qq.com/s/FPYD6Xqki8e74QxM1V7JEQ) 
