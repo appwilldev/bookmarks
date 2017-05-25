@@ -878,3 +878,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 24, 2017
 - [设计师会编程、程序员懂艺术之设计规范](https://mp.weixin.qq.com/s/FPYD6Xqki8e74QxM1V7JEQ) 
 - [设计师会编程、程序员懂艺术之设计规范](https://mp.weixin.qq.com/s/FPYD6Xqki8e74QxM1V7JEQ) 
+
+### May 25, 2017
+- [Go包管理的探索与实践 | HundredLee's Blog](https://blog.sodroid.com/2017/05/20/2017-05-20-1/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
