@@ -882,3 +882,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### May 25, 2017
 - [Go包管理的探索与实践 | HundredLee's Blog](https://blog.sodroid.com/2017/05/20/2017-05-20-1/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [谷歌大牛说：为什么 Kotlin 比你们用的那些垃圾语言都好 - 文章 - 伯乐在线](http://blog.jobbole.com/111249/) 
+- [机器之心 | 初学者如何选择合适的机器学习算法（附速查表）](http://jiqizhixin.com/article/2898) 
