@@ -884,3 +884,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [谷歌大牛说：为什么 Kotlin 比你们用的那些垃圾语言都好 - 文章 - 伯乐在线](http://blog.jobbole.com/111249/) 
 - [机器之心 | 初学者如何选择合适的机器学习算法（附速查表）](http://jiqizhixin.com/article/2898) 
 - [Python创意编程活动获奖名单公布啦！！ - CSDN 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/blogdevteam/article/details/72626843) 
+
+### May 26, 2017
+- [深入浅出讨论 - 机器学习](https://mp.weixin.qq.com/s?__biz=MzI1NTI3MzEwMg==&mid=2247483956&idx=1&sn=79ed1364f18bb3552171fd7631895fb0&chksm=ea3933d5dd4ebac308f945550ab92ab57a499bbc7121a6aa798af31ae2e5ed26be6c26ea6533&mpshare=1&scene=1&srcid=0525fgHEQ89X6WPVzmB4XeTh&key=ce5ee6766d1efac0d4b2c0a588310ac81ca0df70c65c95340846db1d1830fd1da3430800a0523d08bad26f33718d593210203b1c2f69ae2569bfe76e154ab6bcb3766c6194dd447cb6e0df23ac35b2ed&ascene=0&uin=MTE0NjUyMTYw&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12010110&nettype=WIFI&fontScale=100&pass_ticket=UDHPsiGzihF2rSouOs%2BC%2Ftf8vshndakszXUkJUGPjj4%3D) 
