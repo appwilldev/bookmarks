@@ -980,3 +980,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### May 30, 2017
 - [AnyRoom: Open Source Conference Calling](https://anyroom.io/) 
+- [Speeding up Postgres Index Scans with Index-Only Scans | malisper.me](http://malisper.me/speeding-up-postgres-index-scans-with-index-only-scans/) 
