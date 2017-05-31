@@ -895,3 +895,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 31, 2017
 - [docsify](https://docsify.now.sh/#docsify) 
+- [权威投资机构评判AI初创企业的17个要素_36氪](http://36kr.com/p/5077545.html) 
