@@ -984,3 +984,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 2, 2017
 - [saulpw/visidata: A console spreadsheet tool for discovering and arranging data](https://github.com/saulpw/visidata) 
+- [Put your Electron app on a diet with Electrino – DailyJS – Medium](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297) 
