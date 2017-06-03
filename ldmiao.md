@@ -990,3 +990,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 3, 2017
 - [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction) 
+
+### June 4, 2017
+- [libvips](http://jcupitt.github.io/libvips/) 
