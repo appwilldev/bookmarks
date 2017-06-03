@@ -987,3 +987,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Put your Electron app on a diet with Electrino – DailyJS – Medium](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297) 
 - [Visualize data instantly with machine learning in Google Sheets](https://www.blog.google/products/g-suite/visualize-data-instantly-machine-learning-google-sheets/amp/) 
 - [Network Protocols – Programmer's Compendium Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147) 
+
+### June 3, 2017
+- [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction) 
