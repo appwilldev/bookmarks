@@ -995,3 +995,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [libvips](http://jcupitt.github.io/libvips/) 
 - [ikruglov/slapper: Simple load testing tool with real-time updated histogram of request timings](https://github.com/ikruglov/slapper) 
 - [spolu/warp: Secure and simple terminal sharing](https://github.com/spolu/warp) 
+- [Tuning Your DBMS Automatically with Machine Learning | AWS AI Blog](https://aws.amazon.com/cn/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/) 
