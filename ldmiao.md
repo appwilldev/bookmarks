@@ -993,3 +993,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 4, 2017
 - [libvips](http://jcupitt.github.io/libvips/) 
+- [ikruglov/slapper: Simple load testing tool with real-time updated histogram of request timings](https://github.com/ikruglov/slapper) 
