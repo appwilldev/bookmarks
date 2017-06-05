@@ -996,3 +996,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [ikruglov/slapper: Simple load testing tool with real-time updated histogram of request timings](https://github.com/ikruglov/slapper) 
 - [spolu/warp: Secure and simple terminal sharing](https://github.com/spolu/warp) 
 - [Tuning Your DBMS Automatically with Machine Learning | AWS AI Blog](https://aws.amazon.com/cn/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/) 
+
+### June 5, 2017
+- [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html) 
