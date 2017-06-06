@@ -901,3 +901,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Instagram 在 PyCon 2017 的演讲摘要 | Piglei](http://www.zlovezl.cn/articles/instagram-pycon-2017/?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [全网独家首发｜2017互联网女皇报告中文完整版来了！](https://mp.weixin.qq.com/s/bpFqHZwangzSAtcpb19pmg) 
 - [大神面对面：Vue.js 作者尤雨溪专访 - 知乎专栏](https://zhuanlan.zhihu.com/p/27205354?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+### June 6, 2017
+- [locale的设定中LANG、LC_ALL、LANGUAGE环境变量的区别 - 南山的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/nick357/article/details/8513699) 
