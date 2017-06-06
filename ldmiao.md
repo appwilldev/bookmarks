@@ -999,3 +999,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 5, 2017
 - [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html) 
+
+### June 6, 2017
+- [WebAssembly 101: a developer first steps](http://blog.openbloc.fr/webassembly-first-steps/amp/) 
