@@ -914,3 +914,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Product Hunt](https://www.producthunt.com/) 
 - [learn anything | MyMindNode](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) 
 - [Startup Stash - Curated resources and tools for startups](http://startupstash.com/?ref=producthunt) 
+- [机器之心「AI00」颁奖晚宴闭幕，五月最新榜单发布 | 机器之心](https://www.jiqizhixin.com/articles/3a11df2c-6953-4e22-a66e-783ec43830da) 
