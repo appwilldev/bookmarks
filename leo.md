@@ -910,3 +910,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [服务端I/O性能大比拼：Node、PHP、Java和Go](http://www.itran.cc/2017/05/17/server-side-io-performance-node-php-java-go/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [WebAssembly 系列（一）生动形象地介绍 WebAssembly - 知乎专栏](https://zhuanlan.zhihu.com/p/25800318) 
 - [胡子大哈](http://huziketang.com/) 
+- [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
