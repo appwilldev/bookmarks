@@ -1002,3 +1002,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 6, 2017
 - [WebAssembly 101: a developer first steps](http://blog.openbloc.fr/webassembly-first-steps/amp/) 
+
+### June 7, 2017
+- [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
