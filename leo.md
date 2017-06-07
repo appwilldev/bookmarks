@@ -912,3 +912,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [胡子大哈](http://huziketang.com/) 
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
 - [Product Hunt](https://www.producthunt.com/) 
+- [learn anything | MyMindNode](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) 
