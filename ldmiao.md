@@ -1008,3 +1008,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 8, 2017
 - [segmentio/ksuid: K-Sortable Globally Unique IDs](https://github.com/segmentio/ksuid) 
+- [Duplicacy](https://duplicacy.com/) 
