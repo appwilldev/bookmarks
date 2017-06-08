@@ -919,3 +919,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 8, 2017
 - [Documentation | Hexo](https://hexo.io/docs/) 
+- [文档 | Hexo](https://hexo.io/zh-cn/docs/index.html) 
