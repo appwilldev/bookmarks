@@ -916,3 +916,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Startup Stash - Curated resources and tools for startups](http://startupstash.com/?ref=producthunt) 
 - [机器之心「AI00」颁奖晚宴闭幕，五月最新榜单发布 | 机器之心](https://www.jiqizhixin.com/articles/3a11df2c-6953-4e22-a66e-783ec43830da) 
 - [飒露紫 - 天使投资智囊团](http://www.saluzi.com/) 
+
+### June 8, 2017
+- [Documentation | Hexo](https://hexo.io/docs/) 
