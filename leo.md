@@ -920,3 +920,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 8, 2017
 - [Documentation | Hexo](https://hexo.io/docs/) 
 - [文档 | Hexo](https://hexo.io/zh-cn/docs/index.html) 
+- [Hexo 入门指南（二） - 安装、初始化和配置 | Markdown 简单的世界](https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-2.html) 
