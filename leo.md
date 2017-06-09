@@ -921,3 +921,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Documentation | Hexo](https://hexo.io/docs/) 
 - [文档 | Hexo](https://hexo.io/zh-cn/docs/index.html) 
 - [Hexo 入门指南（二） - 安装、初始化和配置 | Markdown 简单的世界](https://wizardforcel.gitbooks.io/markdown-simple-world/hexo-tutor-2.html) 
+
+### June 9, 2017
+- [初窥dep | Tony Bai](http://tonybai.com/2017/06/08/first-glimpse-of-dep/?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
