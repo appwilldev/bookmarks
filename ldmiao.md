@@ -1013,3 +1013,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### June 9, 2017
 - [Working with time in Postgres - Craig Kerstiens](http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/) 
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/) 
+
+### June 10, 2017
+- [segmentio/ksuid: K-Sortable Globally Unique IDs](https://github.com/segmentio/ksuid) 
