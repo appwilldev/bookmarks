@@ -930,3 +930,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 12, 2017
 - [RemoteW | 远程工作导航](http://remotew.com/) 
+- [Hexo 插件指南 | 小土刀](http://wdxtub.com/2015/12/06/hexo-plugins-guide/) 
