@@ -933,3 +933,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Hexo 插件指南 | 小土刀](http://wdxtub.com/2015/12/06/hexo-plugins-guide/) 
 - [jQuery-based Local Search Engine for Hexo | HaHack](http://hahack.com/codes/local-search-engine-for-hexo/) 
 - [让 Hexo 博客支持本地站内搜索 | MOxFIVE's Blog](http://moxfive.xyz/2016/05/31/hexo-local-search/) 
+- [开始使用 - NexT 使用文档](http://theme-next.iissnan.com/getting-started.html) 
