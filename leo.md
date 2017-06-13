@@ -940,3 +940,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 13, 2017
 - [上线了sxl.cn | 简单易用・专业美观](https://www.sxl.cn/) 
 - [上线了sxl.cn | 简单易用・专业美观](https://www.sxl.cn/) 
+- [写给大家看的机器学习书 - 收藏集 - 掘金](https://juejin.im/collection/58f5af2d1e35c9353d9360c9) 
