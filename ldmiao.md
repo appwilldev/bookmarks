@@ -1016,3 +1016,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 10, 2017
 - [segmentio/ksuid: K-Sortable Globally Unique IDs](https://github.com/segmentio/ksuid) 
+
+### June 13, 2017
+- [Tools for Extracting Data and Text from PDFs - A Review - Open Knowledge Labs](http://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html) 
