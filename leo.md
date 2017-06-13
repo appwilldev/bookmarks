@@ -939,3 +939,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 13, 2017
 - [上线了sxl.cn | 简单易用・专业美观](https://www.sxl.cn/) 
+- [上线了sxl.cn | 简单易用・专业美观](https://www.sxl.cn/) 
