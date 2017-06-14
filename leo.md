@@ -946,3 +946,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [就是要你懂 TCP | 最经典的TCP性能问题 | 阿里中间件团队博客](http://jm.taobao.org/2017/06/01/20170601/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [2017 年最佳开源网络监控工具 - 文章 - 伯乐在线](http://blog.jobbole.com/111458/) 
 - [手把手教你自制编程AI：训练2小时，RNN就能写自己的代码](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486123&idx=1&sn=4c9d144727f996a7941e7766fbbc9808) 
+- [揭秘 Reddit 愚人节项目的技术实现过程 - 文章 - 伯乐在线](http://blog.jobbole.com/111398/) 
