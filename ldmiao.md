@@ -1020,3 +1020,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### June 13, 2017
 - [Tools for Extracting Data and Text from PDFs - A Review - Open Knowledge Labs](http://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html) 
 - [How I parse PDF files - Open Knowledge Labs](http://okfnlabs.org/blog/2013/12/25/parsing-pdfs.html) 
+
+### June 15, 2017
+- [Will Vue.js Become a Giant Like Angular or React? - 10Clouds](https://10clouds.com/blog/vuejs-angular-react/) 
