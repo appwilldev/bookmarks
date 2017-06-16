@@ -1031,3 +1031,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [parsing - Extracting table contents from a collection of PDF files - Stack Overflow](https://stackoverflow.com/questions/17217194/extracting-table-contents-from-a-collection-of-pdf-files/26110587#26110587) 
 - [tabulapdf/tabula: Tabula is a tool for liberating data tables trapped inside PDF files](https://github.com/tabulapdf/tabula) 
 - [Tabula: Extract Tables from PDFs](http://tabula.technology/) 
+- [Converting PDF to Excel and Retain Formatting |Adobe Community](https://forums.adobe.com/thread/1010569) 
