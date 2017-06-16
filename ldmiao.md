@@ -1028,3 +1028,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 16, 2017
 - [thoqbk/traprange: A Method to Extract Table Content in PDF Files](https://github.com/thoqbk/traprange) 
+- [parsing - Extracting table contents from a collection of PDF files - Stack Overflow](https://stackoverflow.com/questions/17217194/extracting-table-contents-from-a-collection-of-pdf-files/26110587#26110587) 
