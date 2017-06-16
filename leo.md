@@ -952,3 +952,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [《知道做到》- 知道那么多，为什么做不到？ | 凯凯刘](http://liujinkai.com/2017/06/15/know-can-do/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [Static HTML Crypto](https://robinmoisson.github.io/staticrypt/) 
 - [Static HTML Crypto](https://robinmoisson.github.io/staticrypt/#) 
+
+### June 16, 2017
+- [DIY一个人工智能设计师_v0.0.1](https://mp.weixin.qq.com/s/7dH0J7PVVx2R65ru-SxRZg) 
