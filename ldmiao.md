@@ -1025,3 +1025,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Will Vue.js Become a Giant Like Angular or React? - 10Clouds](https://10clouds.com/blog/vuejs-angular-react/) 
 - [Vexlio - Instantly Create Precise, Beautiful Diagrams](https://vexlio.com/) 
 - [robinmoisson/staticrypt: Password protect a static HTML page](https://github.com/robinmoisson/staticrypt) 
+
+### June 16, 2017
+- [thoqbk/traprange: A Method to Extract Table Content in PDF Files](https://github.com/thoqbk/traprange) 
