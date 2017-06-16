@@ -959,3 +959,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Tabula: Extract Tables from PDFs](http://tabula.technology/) 
 - [parsing - Extracting table contents from a collection of PDF files - Stack Overflow](https://stackoverflow.com/questions/17217194/extracting-table-contents-from-a-collection-of-pdf-files/26110587#26110587) 
 - [比亚迪秦在“原装充电桩”情况下延长接线充电！（5.26号更新附图！）_比亚迪秦论坛_太平洋汽车论坛](http://bbs.pcauto.com.cn/topic-11252094.html) 
+- [Windows 最佳OCR软件 - ABBYY FineReader 14](http://www.abbyy.cn/finereader/) 
