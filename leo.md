@@ -955,3 +955,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 16, 2017
 - [DIY一个人工智能设计师_v0.0.1](https://mp.weixin.qq.com/s/7dH0J7PVVx2R65ru-SxRZg) 
+- [资源 - 伯乐在线](http://hao.jobbole.com/) 
