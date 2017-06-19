@@ -1033,3 +1033,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Tabula: Extract Tables from PDFs](http://tabula.technology/) 
 - [Converting PDF to Excel and Retain Formatting |Adobe Community](https://forums.adobe.com/thread/1010569) 
 - [Converting PDF to Excel and Retain Formatting |Adobe Community](https://forums.adobe.com/thread/1010569) 
+
+### June 19, 2017
+- [shopnilsazal/validus: A dead simple Python data validation library.](https://github.com/shopnilsazal/validus) 
