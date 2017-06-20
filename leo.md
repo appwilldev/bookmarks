@@ -964,3 +964,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 19, 2017
 - [Github | 程序员七大生产力工具 - 知乎专栏](https://zhuanlan.zhihu.com/p/27419523?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [法国新总统马卡龙的开源Web平台架构 - 极客头条 - CSDN.NET](http://geek.csdn.net/news/detail/202997) 
+
+### June 20, 2017
+- [Stack Overflow 2017 开发者调查报告（程序员必看）](https://mp.weixin.qq.com/s/GYp5Yqn3K1ch94lC5LoHrA) 
