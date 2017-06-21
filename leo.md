@@ -974,3 +974,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [专访晨兴资本张斐：拆解投资全过程，还原被神秘化的快手 |捕手志 - 简书](http://www.jianshu.com/p/432489f4eab2) 
 - [一文看懂Echo和Alexa，亚马逊如何用苹果的玩法在玩语音？_IT新闻_博客园](https://news.cnblogs.com/n/565098/) 
 - [pg 定期vacuum和reindex - - ITeye技术网站](http://906179271.iteye.com/blog/2269177) 
+- [pg 定期vacuum和reindex - - ITeye技术网站](http://906179271.iteye.com/blog/2269177) 
