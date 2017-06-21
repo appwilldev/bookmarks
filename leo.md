@@ -967,3 +967,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 20, 2017
 - [Stack Overflow 2017 开发者调查报告（程序员必看）](https://mp.weixin.qq.com/s/GYp5Yqn3K1ch94lC5LoHrA) 
+
+### June 21, 2017
+- [Go 1.9 的新特性 | 鸟窝](http://colobu.com/2017/06/20/what-s-new-in-Go-1-9/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
