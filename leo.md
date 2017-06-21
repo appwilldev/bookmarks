@@ -970,3 +970,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 21, 2017
 - [Go 1.9 的新特性 | 鸟窝](http://colobu.com/2017/06/20/what-s-new-in-Go-1-9/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [WPF 介绍](https://msdn.microsoft.com/zh-cn/library/aa970268(v=vs.100).aspx) 
