@@ -975,3 +975,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [一文看懂Echo和Alexa，亚马逊如何用苹果的玩法在玩语音？_IT新闻_博客园](https://news.cnblogs.com/n/565098/) 
 - [pg 定期vacuum和reindex - - ITeye技术网站](http://906179271.iteye.com/blog/2269177) 
 - [pg 定期vacuum和reindex - - ITeye技术网站](http://906179271.iteye.com/blog/2269177) 
+- [附录：PostgreSQL 的数据库管理员常见任务 - Amazon Relational Database Service](http://docs.aws.amazon.com/zh_cn/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html) 
