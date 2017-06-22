@@ -981,3 +981,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [HelloGitHub – GitHub 上入门级、有趣、实用的开源项目](https://hellogithub.com/) 
 - [explainshell.com - match command-line arguments to their help text](https://www.explainshell.com/) 
 - [security-101-for-saas-startups/security.md at chinese · forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups/blob/chinese/security.md) 
+- [真正的深入浅出 “设计模式” - 最易懂的设计模式解析 - Android - 掘金](https://juejin.im/entry/594b057dac502e006c5377cc) 
