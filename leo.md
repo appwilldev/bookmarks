@@ -983,3 +983,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [security-101-for-saas-startups/security.md at chinese · forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups/blob/chinese/security.md) 
 - [真正的深入浅出 “设计模式” - 最易懂的设计模式解析 - Android - 掘金](https://juejin.im/entry/594b057dac502e006c5377cc) 
 - [FiveThirtyEight | Nate Silver’s FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about politics, sports, science, economics and culture.](https://fivethirtyeight.com/) 
+- [How to monitor NGINX: Get real-time diagnostics for your apps](https://www.nginx.com/amplify/) 
