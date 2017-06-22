@@ -980,3 +980,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 22, 2017
 - [HelloGitHub – GitHub 上入门级、有趣、实用的开源项目](https://hellogithub.com/) 
 - [explainshell.com - match command-line arguments to their help text](https://www.explainshell.com/) 
+- [security-101-for-saas-startups/security.md at chinese · forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups/blob/chinese/security.md) 
