@@ -988,3 +988,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 23, 2017
 - [博客频道 - CSDN.NET](http://blog.csdn.net/wemedia/details.html?id=38193) 
 - [全球人工智能黑客马拉松一触即发，北京站 15 支战队首曝光！ | 机器之心](https://www.jiqizhixin.com/articles/7f21730c-5f57-4005-a527-4d86a41fa6e3) 
+- [全球人工智能黑客马拉松一触即发，北京站 15 支战队首曝光！ | 机器之心](https://www.jiqizhixin.com/articles/7f21730c-5f57-4005-a527-4d86a41fa6e3) 
