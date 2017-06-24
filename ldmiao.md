@@ -1041,3 +1041,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 22, 2017
 - [ShakyDraw](http://shakydraw.com/) 
+
+### June 24, 2017
+- [Using Deep Learning to Reconstruct High-Resolution Audio](https://blog.insightdatascience.com/using-deep-learning-to-reconstruct-high-resolution-audio-29deee8b7ccd) 
