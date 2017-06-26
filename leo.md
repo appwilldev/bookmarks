@@ -992,3 +992,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 26, 2017
 - [Python 编码错误的本质原因 - Python - 伯乐在线](http://python.jobbole.com/87859/) 
+- [“深度工作”：在“深度学习”的时代我们应当如何工作 - 知乎专栏](https://zhuanlan.zhihu.com/p/27537015) 
