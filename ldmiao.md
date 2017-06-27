@@ -1049,3 +1049,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil) 
 - [CloudBoost | Open Serverless Cloud Platform](https://www.cloudboost.io/) 
 - [On a high level, how does OAuth 2 work? - Stack Overflow](https://stackoverflow.com/questions/4727226/on-a-high-level-how-does-oauth-2-work/32534239#32534239) 
+
+### June 27, 2017
+- [axiomhq/hyperloglog: HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction)](https://github.com/axiomhq/hyperloglog) 
