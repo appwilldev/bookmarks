@@ -999,3 +999,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [使用 Headless Chrome 进行页面渲染 - 知乎专栏](https://zhuanlan.zhihu.com/p/26810049) 
 - [前端情报局](https://news.awesomes.cn/) 
 - [前端TOP100](https://www.awesomes.cn/rank) 
+
+### June 29, 2017
+- [HTTP/2 与 WEB 性能优化（三） | JerryQu 的小站](https://imququ.com/post/http2-and-wpo-3.html) 
