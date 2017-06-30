@@ -1005,3 +1005,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [十年踪迹的博客](https://www.h5jun.com/) 
 - [专题 | JerryQu 的小站](https://imququ.com/post/series.html) 
 - [「 国内首个 」设计+人工智能深度案例分析报告](https://mp.weixin.qq.com/s/5fSvaqmHs4j-7cCLM1eRrw) 
+
+### June 30, 2017
+- [深入理解 Python 字符串](https://mp.weixin.qq.com/s/YIvoEUk835D-gZLwgWQ8hQ) 
