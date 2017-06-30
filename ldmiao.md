@@ -1056,3 +1056,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### June 30, 2017
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser) 
+- [akveo/kittenTricks: 🐈 A react native mobile starter kit with over 40 screens and theme hot reload support](https://github.com/akveo/kittenTricks) 
