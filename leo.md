@@ -1008,3 +1008,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 30, 2017
 - [深入理解 Python 字符串](https://mp.weixin.qq.com/s/YIvoEUk835D-gZLwgWQ8hQ) 
+- [四个 Python 库，实现超实用的命令行功能 - Python - 伯乐在线](http://python.jobbole.com/87830/) 
