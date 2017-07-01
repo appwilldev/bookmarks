@@ -1058,3 +1058,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser) 
 - [akveo/kittenTricks: 🐈 A react native mobile starter kit with over 40 screens and theme hot reload support](https://github.com/akveo/kittenTricks) 
 - [saulpw/visidata: A console spreadsheet tool for discovering and arranging data](https://github.com/saulpw/visidata) 
+
+### July 2, 2017
+- [Home automation with Raspberry Pi, Node and React](https://viktorkirilov.me/post/home-automation-raspberry-pi/) 
