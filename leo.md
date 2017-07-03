@@ -1012,3 +1012,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 3, 2017
 - [Comment.js：一个纯JS实现的静态站点评论系统 | HaHack](http://www.hahack.com/codes/comment-js/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [HaHack](http://www.hahack.com/) 
