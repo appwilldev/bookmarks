@@ -1015,3 +1015,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [HaHack](http://www.hahack.com/) 
 - [Temper Chrome 一款好用到飞起的HTTP请求修改插件 - 知乎专栏](https://zhuanlan.zhihu.com/p/27657281?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [NoMark](http://www.effectiveall.com/) 
+- [Notion – Docs, Wikis, Tasks. Seamlessly in one.](https://www.notion.so/) 
