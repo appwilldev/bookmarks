@@ -1014,3 +1014,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Comment.js：一个纯JS实现的静态站点评论系统 | HaHack](http://www.hahack.com/codes/comment-js/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [HaHack](http://www.hahack.com/) 
 - [Temper Chrome 一款好用到飞起的HTTP请求修改插件 - 知乎专栏](https://zhuanlan.zhihu.com/p/27657281?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [NoMark](http://www.effectiveall.com/) 
