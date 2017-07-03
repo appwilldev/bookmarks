@@ -1009,3 +1009,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### June 30, 2017
 - [深入理解 Python 字符串](https://mp.weixin.qq.com/s/YIvoEUk835D-gZLwgWQ8hQ) 
 - [四个 Python 库，实现超实用的命令行功能 - Python - 伯乐在线](http://python.jobbole.com/87830/) 
+
+### July 3, 2017
+- [Comment.js：一个纯JS实现的静态站点评论系统 | HaHack](http://www.hahack.com/codes/comment-js/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
