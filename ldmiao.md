@@ -1066,3 +1066,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### July 4, 2017
 - [Myers Diff Algorithm - Code & Interactive Visualization](http://amp-blog.robertelder.org/diff-algorithm/) 
+- [Vecta Dashboard](https://vecta.io/app/dashboard) 
