@@ -1020,3 +1020,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [我接触过的前端数据结构与算法 - 知乎专栏](https://zhuanlan.zhihu.com/p/27659059?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [JavaScript 详说事件机制之冒泡、捕获、传播、委托 - 北风吹雪 - 博客园](http://www.cnblogs.com/bfgis/p/5460191.html) 
 - [庶民样本](https://egoistian.com/) 
+
+### July 4, 2017
+- [深入浅出地，彻彻底底地理解python中的编码 - 简书](http://www.jianshu.com/p/eb22cee6c553?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
