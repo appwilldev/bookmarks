@@ -1063,3 +1063,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Home automation with Raspberry Pi, Node and React](https://viktorkirilov.me/post/home-automation-raspberry-pi/) 
 - [Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a) 
 - [A programmer automated their data-entry job. Now the question is whether to tell their employer. — Quartz](https://qz.com/1019161/a-programmer-automated-their-data-entry-job-now-the-question-is-whether-to-tell-their-employer/) 
+
+### July 4, 2017
+- [Myers Diff Algorithm - Code & Interactive Visualization](http://amp-blog.robertelder.org/diff-algorithm/) 
