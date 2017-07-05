@@ -1075,3 +1075,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### July 5, 2017
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) 
+- [Google Sheets Virtual Machine](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html) 
