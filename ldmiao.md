@@ -1072,3 +1072,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.](https://github.com/apex/up) 
 - [Introducing Apex Ping – Apex Software](https://blog.apex.sh/introducing-apex-ping-80664eacc50f) 
 - [Screamin’ Speed with WebAssembly – Hacker Noon](https://hackernoon.com/screamin-speed-with-webassembly-b30fac90cd92) 
+
+### July 5, 2017
+- [Cropper.js](https://fengyuanchen.github.io/cropperjs/) 
