@@ -1030,3 +1030,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [认识 V8 引擎 - 知乎专栏](https://zhuanlan.zhihu.com/p/27628685?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [庖丁解牛：GIF - 简书](http://www.jianshu.com/p/d4db7e0e028a?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [框架选型 - 小火柴的蓝色理想 - 博客园](http://www.cnblogs.com/xiaohuochai/p/7041595.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [小火柴的蓝色理想 - 博客园](http://www.cnblogs.com/xiaohuochai/) 
