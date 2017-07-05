@@ -1031,3 +1031,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [庖丁解牛：GIF - 简书](http://www.jianshu.com/p/d4db7e0e028a?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [框架选型 - 小火柴的蓝色理想 - 博客园](http://www.cnblogs.com/xiaohuochai/p/7041595.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [小火柴的蓝色理想 - 博客园](http://www.cnblogs.com/xiaohuochai/) 
+- [CSS 最核心的几个概念 | GeekPlux](http://geekplux.com/2014/04/25/several_core_concepts_of_css.html) 
