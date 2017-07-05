@@ -1077,3 +1077,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) 
 - [Google Sheets Virtual Machine](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html) 
 - [jlxip/Possum: A web application that converts all kinds of files into images and vice versa using colors.](https://github.com/jlxip/Possum) 
+- [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/) 
