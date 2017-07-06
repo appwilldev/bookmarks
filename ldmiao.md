@@ -1079,3 +1079,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [jlxip/Possum: A web application that converts all kinds of files into images and vice versa using colors.](https://github.com/jlxip/Possum) 
 - [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/) 
 - [Open Source CRM gets even better with JoForce | JoForce](https://www.joforce.com/) 
+
+### July 6, 2017
+- [Introducing HumbleNet: a cross-platform networking library that works in the browser ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/) 
