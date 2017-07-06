@@ -1084,3 +1084,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Introducing HumbleNet: a cross-platform networking library that works in the browser ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/) 
 - [HumbleNet](https://humblenet.github.io/) 
 - [Real Artists Ship - Native Issue Tracking for GitHub](https://www.realartists.com/index.html) 
+- [Magma](https://magmadaemon.org/) 
