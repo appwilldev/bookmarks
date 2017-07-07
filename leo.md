@@ -1037,3 +1037,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 6, 2017
 - [Dribbble - Show and tell for designers](https://dribbble.com/) 
+
+### July 7, 2017
+- [Wildcard Certificates Coming January 2018 - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org//2017/07/06/wildcard-certificates-coming-jan-2018.html) 
