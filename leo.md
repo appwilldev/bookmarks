@@ -1046,3 +1046,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [freeCodeCamp](https://medium.freecodecamp.org/) 
 - [Convert any CSV or JSON file to a SQL, JSON, CSV, SQLite, MySQL or PostgreSQL file - sqlify.io](https://sqlify.io/convert) 
 - [ShakyDraw](http://shakydraw.com/) 
+- [Serverless 实战：打造个人阅读追踪系统 | 吕立青的博客](https://blog.jimmylv.info/2017-06-30-serverless-in-action-build-personal-reading-statistics-system/) 
