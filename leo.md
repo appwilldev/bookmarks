@@ -1044,3 +1044,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [Apps Script  |  Google Developers](https://developers.google.com/apps-script/) 
 - [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/) 
 - [freeCodeCamp](https://medium.freecodecamp.org/) 
+- [Convert any CSV or JSON file to a SQL, JSON, CSV, SQLite, MySQL or PostgreSQL file - sqlify.io](https://sqlify.io/convert) 
