@@ -1090,3 +1090,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### July 7, 2017
 - [vividvilla/csvtotable: Simple command-line utility to convert CSV files to searchable and sortable HTML table.](https://github.com/vividvilla/csvtotable) 
 - [Screenshot comparison & image comparison UI testing tools](http://screenster.io/image-and-screenshot-comparison-tools-for-ui-testing/) 
+- [robinhowlett/chart-parser: Parses horse racing result charts](https://github.com/robinhowlett/chart-parser) 
