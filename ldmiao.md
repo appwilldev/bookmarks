@@ -1093,3 +1093,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [robinhowlett/chart-parser: Parses horse racing result charts](https://github.com/robinhowlett/chart-parser) 
 - [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9) 
 - [Qt WebGL Streaming merged - Qt Blog](https://blog.qt.io/blog/2017/07/07/qt-webgl-streaming-merged/) 
+
+### July 8, 2017
+- [Where Machine Learning meets rule-based verification – The Foretellix Blog](https://blog.foretellix.com/2017/07/06/where-machine-learning-meets-rule-based-verification/amp/) 
