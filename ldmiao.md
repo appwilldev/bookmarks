@@ -1099,3 +1099,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Where Machine Learning meets rule-based verification – The Foretellix Blog](https://blog.foretellix.com/2017/07/06/where-machine-learning-meets-rule-based-verification/amp/) 
 - [Where machine learning meets rule-based systems | Hacker News](https://news.ycombinator.com/item?id=14717692) 
 - [The Best Display for Programming? – Wm Leler – Medium](https://medium.com/@wmleler1/the-best-display-for-programming-8aad0be4227d) 
+
+### July 10, 2017
+- [BayesDB - Query the probable implicatons of your data - The MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/bayesdb/) 
