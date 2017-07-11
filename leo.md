@@ -1053,3 +1053,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### July 10, 2017
 - [Node.js 服务端实践之 GraphQL 初探 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/11/26/graphql-basics-server-implementation/) 
+
+### July 11, 2017
+- [前后端分离后的前端时代](https://mp.weixin.qq.com/s/_N9RKbTOGcohmrJXg9rqEg) 
