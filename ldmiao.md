@@ -1103,3 +1103,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### July 10, 2017
 - [BayesDB - Query the probable implicatons of your data - The MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/bayesdb/) 
 - [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/) 
+
+### July 11, 2017
+- [Seashells](https://seashells.io/) 
