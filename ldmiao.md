@@ -1107,3 +1107,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### July 11, 2017
 - [Seashells](https://seashells.io/) 
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/) 
+- [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/zh_CN/) 
