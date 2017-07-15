@@ -1111,3 +1111,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### July 12, 2017
 - [d4l3k/go-pry: An interactive REPL for Go that allows you to drop into your code at any point.](https://github.com/d4l3k/go-pry) 
+
+### July 15, 2017
+- [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) 
