@@ -1115,3 +1115,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 ### July 15, 2017
 - [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524) 
 - [iogf/sukhoi: Minimalist and powerful Web Crawler.](https://github.com/iogf/sukhoi) 
+- [gitpoint/git-point: GitHub for iOS. Built with React Native.](https://github.com/gitpoint/git-point) 
