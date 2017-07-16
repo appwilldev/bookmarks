@@ -1121,3 +1121,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [nadoo/glider: glider is a forward proxy with several protocols support.](https://github.com/nadoo/glider) 
 - [Choose PostgreSQL for IoT – Timescale](https://blog.timescale.com/choose-postgresql-for-iot-19688efc60ca) 
 - [timescale/timescaledb: An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.](https://github.com/timescale/timescaledb) 
+- [tantivy-search/tantivy: Tantivy is a full-text search engine library inspired by Lucene and written in Rust](https://github.com/tantivy-search/tantivy/) 
