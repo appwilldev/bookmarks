@@ -1123,3 +1123,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [timescale/timescaledb: An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.](https://github.com/timescale/timescaledb) 
 - [tantivy-search/tantivy: Tantivy is a full-text search engine library inspired by Lucene and written in Rust](https://github.com/tantivy-search/tantivy/) 
 - [Of tantivy - Indexing (part 2)](http://fulmicoton.com/posts/behold-tantivy-part2/) 
+- [Of tantivy, a search engine in Rust (part 1)](http://fulmicoton.com/posts/behold-tantivy/) 
