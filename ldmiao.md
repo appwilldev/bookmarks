@@ -1124,3 +1124,4 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [tantivy-search/tantivy: Tantivy is a full-text search engine library inspired by Lucene and written in Rust](https://github.com/tantivy-search/tantivy/) 
 - [Of tantivy - Indexing (part 2)](http://fulmicoton.com/posts/behold-tantivy-part2/) 
 - [Of tantivy, a search engine in Rust (part 1)](http://fulmicoton.com/posts/behold-tantivy/) 
+- [jaredreich/pell: 📝 the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) 
