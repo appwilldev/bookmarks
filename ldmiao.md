@@ -1126,3 +1126,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 - [Of tantivy, a search engine in Rust (part 1)](http://fulmicoton.com/posts/behold-tantivy/) 
 - [jaredreich/pell: 📝 the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) 
 - [Markvis - make visualization in markdown](https://markvis.js.org/#/) 
+
+### July 18, 2017
+- [Get eyes in the sky with your Raspberry Pi](https://blog.alexellis.io/track-flights-with-rpi/amp/) 
