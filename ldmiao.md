@@ -1129,3 +1129,6 @@ Security Guide for Developers (实用性开发人员安全须知)](https://githu
 
 ### July 18, 2017
 - [Get eyes in the sky with your Raspberry Pi](https://blog.alexellis.io/track-flights-with-rpi/amp/) 
+
+### July 19, 2017
+- [HTTP/2 Server Push on Netlify | Netlify](https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/) 
