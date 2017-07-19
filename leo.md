@@ -1064,3 +1064,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### July 19, 2017
 - [ProcessOn - Create diagrams online in real-time!](https://www.processon.com/) 
 - [Flowchart Maker & Online Diagram Software | Lucidchart](https://www.lucidchart.com/) 
+- [全球首届VueConf已于2017年5月20日在北京成功举办！](https://vue.w3ctech.com/#schedule) 
