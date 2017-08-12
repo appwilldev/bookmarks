@@ -1065,3 +1065,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [ProcessOn - Create diagrams online in real-time!](https://www.processon.com/) 
 - [Flowchart Maker & Online Diagram Software | Lucidchart](https://www.lucidchart.com/) 
 - [全球首届VueConf已于2017年5月20日在北京成功举办！](https://vue.w3ctech.com/#schedule) 
+
+### August 12, 2017
+- [香邑澜湾购合院享交8万抵14万优惠_香邑澜湾-秦皇岛房天下](http://news.qhd.fang.com/house/1317758951_1615900.htm) 
